@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.22)  18 APR 2021 12:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.22)  18 APR 2021 16:26
 entering extended mode
 **"./Р’РІРµРґРµРЅРёРµ, С‚РµРѕСЂРµРјР° РџРµС‚СЂРѕРІР° Рё РЅРµСЂР°РІРµРЅСЃС‚РІРѕ 
 Р§РµР±С‹С€РµРІР°.tex"
@@ -1697,6 +1697,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--29
 
  []
 
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 32.
 [1
 
 
@@ -1704,46 +1706,51 @@ Non-PDF special ignored!
 <special> header=tree-dvips91.pro
 {C:/Users/CRASH/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3]
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 175--177
+Underfull \hbox (badness 10000) in paragraph at lines 176--178
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--177
+Underfull \hbox (badness 10000) in paragraph at lines 176--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 186--188
+Underfull \hbox (badness 10000) in paragraph at lines 187--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--198
+Underfull \hbox (badness 10000) in paragraph at lines 196--199
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--198
+Underfull \hbox (badness 10000) in paragraph at lines 196--199
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
  []
 
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.5pt on input line 233.
+(Font)              scaled to size 10.5pt on input line 234.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.9pt on input line 233.
+(Font)              scaled to size 7.9pt on input line 234.
 
-Overfull \hbox (25.79257pt too wide) detected at line 238
+Overfull \hbox (25.79257pt too wide) detected at line 239
 \OML/ntxmi/m/it/14.4 P\LMS/ntxsy/m/n/14.4 f[] \OML/ntxmi/m/it/14.4 > \LMS/ntxsy
 /m/n/14.4 №\OT1/Tempora-TLF/m/n/14.4 1 \LMS/ntxsy/m/n/14.4 П \OML/ntxmi/m/it/14
 .4 []\LMS/ntxsy/m/n/14.4 є\OML/ntxmi/m/it/14.4 na\LMS/ntxsy/m/n/14.4 g \U/ntxm
@@ -1756,32 +1763,42 @@ m/it/14.4 > []\LMS/ntxsy/m/n/14.4 є П \U/ntxmia/m/it/14.4 []\LMS/ntxsy/m/n/14.
  []
 
 [6]
-Overfull \hbox (7.20618pt too wide) in paragraph at lines 261--262
+Underfull \hbox (badness 10000) in paragraph at lines 252--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
+
+ []
+
+
+Overfull \hbox (7.20618pt too wide) in paragraph at lines 262--263
 []\T2A/Tempora-TLF/m/n/14.4 Математическое ожи-да-ние E($[]$)равно сум-ме ма-то
 -жи-да-ний ве-ли-чин $\OML/ntxmi/m/it/14.4 a[]$
  []
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 274.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 275.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 274.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 275.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 274.
+LaTeX Warning: Command \cyri invalid in math mode on input line 275.
 
 Missing character: There is no п in font Tempora-Regular-tlf-ot1!
 Missing character: There is no р in font Tempora-Regular-tlf-ot1!
 Missing character: There is no и in font Tempora-Regular-tlf-ot1!
 
-Overfull \hbox (39.9179pt too wide) in paragraph at lines 284--286
+Overfull \hbox (39.9179pt too wide) in paragraph at lines 285--287
 \T2A/Tempora-TLF/m/n/14.4 В си-лу нор-ми-ров-ки ми-ни-маль-ный эле-мент $\OML/n
 txmi/m/it/14.4 a[]$ \T2A/Tempora-TLF/m/n/14.4 свя-зан с ве-ли-чи-ной $\OML/ntxm
 i/m/it/14.4 l[]$\T2A/Tempora-TLF/m/n/14.4 соотношением
  []
 
 [7]
-Overfull \hbox (54.21472pt too wide) detected at line 311
+Overfull \hbox (54.21472pt too wide) detected at line 312
 [] \U/ntxmia/m/it/14.4 = []\LMS/ntxsy/m/n/14.4 №\OML/ntxmi/m/it/14.4 b \LMS/ntx
 sy/m/n/14.4   \OML/ntxmi/m/it/14.4 a\LMS/ntxsy/m/n/14.4 є[]\OML/ntxmi/m/it/14.4
  d[] < \LMS/ntxsy/m/n/14.4 №\OML/ntxmi/m/it/14.4 b \LMS/ntxsy/m/n/14.4   \OML/n
@@ -1793,14 +1810,12 @@ txmi/m/it/14.4 a\LMS/ntxsy/m/n/14.4 є[] [] \OML/ntxmi/m/it/14.4 E\LMS/ntxsy/m/n
 /ntxsy/m/n/14.4 є
  []
 
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 326.
 [8]
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 357.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 361.
 
 LaTeX Font Info:    Trying to load font information for TS1+Tempora-TLF on inpu
-t line 357.
+t line 361.
 
 (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ts1tempora-tlf.
 fd
@@ -1808,41 +1823,41 @@ File: TS1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for TS1/Tempora-
 TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 357.
+(Font)              scaled to size 14.4pt on input line 361.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 357.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 361.
 
 Missing character: There is no € in font Tempora-Regular-tlf-ot1!
 [9] [10]
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 412.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 416.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 412.
-
-Missing character: There is no € in font Tempora-Regular-tlf-ot1!
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 415.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 415.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 415.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 415.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 416.
 
 Missing character: There is no € in font Tempora-Regular-tlf-ot1!
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 419.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 419.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 419.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 419.
+
+Missing character: There is no € in font Tempora-Regular-tlf-ot1!
 Missing character: There is no € in font Tempora-Regular-tlf-ot1!
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--437
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
 
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 443--444
+Underfull \hbox (badness 10000) in paragraph at lines 447--448
 
  []
 
@@ -1851,8 +1866,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 443--444
 µР±С‹С€РµРІР°.aux") ) 
 Here is how much of TeX's memory you used:
  8907 strings out of 479697
- 124494 string characters out of 2867132
- 406739 words of memory out of 3000000
+ 124382 string characters out of 2867132
+ 407739 words of memory out of 3000000
  25804 multiletter control sequences out of 15000+200000
  458202 words of font info for 134 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1871,7 +1886,7 @@ ers/CRASH/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb><C
 b><C:/Users/CRASH/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.
 pfb>
 Output written on "Р’РІРµРґРµРЅРёРµ, С‚РµРѕСЂРµРјР° РџРµС‚СЂРѕРІР° Рё РЅРµСЂР°Р
-ІРµРЅСЃС‚РІРѕ Р§РµР±С‹С€РµРІР°.pdf" (12 pages, 155047 bytes).
+ІРµРЅСЃС‚РІРѕ Р§РµР±С‹С€РµРІР°.pdf" (12 pages, 158178 bytes).
 PDF statistics:
  91 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
