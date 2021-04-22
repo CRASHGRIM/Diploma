@@ -434,6 +434,62 @@ P \{ \text{\randomvalue} \leq (1+\epsilon_n)\mathcal{Z} \} \geq 1 - \frac{0.417}
 
 Анализ соотношений \ref{15}-\ref{17}, полученных для равномерного распределения показывает, что уменьшение константы c "улучшает" оценки для $\frac{b}{a}$ и $\epsilon_n$ и "ухудшает" оценку вероятности $P \{ \text{\randomvalue} \leq (1+\epsilon_n)\mathcal{Z} \}$
 
+\textbf{$\beta$ - распределение}. Очень часто в опытно-конструкторских разработках в промышленности и научно-исследовательских проектах длительности $a_{ij}$ отдельных операций предполагается распределенными по следующему закону / $\beta$ - распределение /:
+\begin{equation}
+f(\xi) = 
+\begin{cases}
+   \frac{(\xi-a)^\alpha*(b-\xi)^\gamma}{(b-a)^{\alpha+\gamma+1} \beta(\alpha+1, \gamma+1)} \; если \xi \in [a,b]\\
+   0 \; если \xi \notin [a,b] \\
+ \end{cases}
+\end{equation}
+
+где
+\begin{equation}
+\beta(\alpha, \gamma) = \int_0^1 x^{\alpha-1} (1-x)^{\gamma-1} dx = \frac{\Gamma(\alpha)\Gamma(\gamma)}{F(\alpha+\gamma)}
+\end{equation}
+
+где $\alpha$ и $\gamma$ - параметры распределения. В нормированном виде функция плотности $f(\xi)$ запишется следующим образом:
+
+\begin{equation}
+f(\xi') = 
+\begin{cases}
+   \frac{(\xi)^\alpha (1-\xi)^\gamma}{ \beta(\alpha+1, \gamma+1)} \; если \xi' \in [0,1]\\
+   0 \; если \xi' \notin [0,1] \\
+ \end{cases}
+\end{equation}
+
+Рассмотрим частный случай $\beta$ - распределения, когда $\gamma=0$, $\alpha>0$. В этом случае интегральная функция распределения равна
+\begin{equation}
+F(x) = \int_0^x f(\xi')d\xi' = \int_0^x \frac{x}{\beta(\alpha+1,1)} = x^{\alpha+1}
+\end{equation} 
+Вычислим величину $\gamma_n$, фигурирующую в условиях теоремы 1:
+\begin{equation}
+\gamma_n = F^{-1}(\frac{1}{n}) = \frac{1}{\sqrt[\alpha+1]{n}}
+\end{equation}
+Тогда первое из условий теоремы 1 выполняется в силу $\alpha>0$
+\begin{equation}
+\mathcal{I}_n = \int_{\gamma_n}^1 \frac{dx}{F(x)} = \int_{\gamma_n}^1 \frac{dx}{x^{\alpha+1}} = \frac{1}{\alpha} (n^{\frac{\alpha}{\alpha+1}}-1) \rightarrow \infty, \; \; n\rightarrow \infty
+\end{equation}
+
+Второе условие принимает вид:
+
+TODO здесь могут быть неточности (они есть)
+
+\begin{equation}
+\frac{b}{a} \leq \frac{1}{\Psi(n)}•min(\sqrt[\alpha+1]{n}, \frac{\alpha n}{\frac{\alpha}{\alpha+1}})
+\end{equation}
+
+Учитывая, что
+
+\begin{equation}
+min(1, \frac{\alpha}{1-n^{\frac{\alpha}{\alpha+1}}} \geq min(1, \alpha)
+\end{equation}
+
+Получаем следующее условие асимптотической оптимальности алгоритма \text{\algorithm} для $\beta$ - распределения в частном случае $\gamma=0$, $\alpha>0$:
+\begin{equation}
+\frac{b}{a} \leq \frac{\sqrt[\alpha+1]{n}}{\Psi(n)}min(1,\alpha)
+\end{equation}
+
 
 
 
