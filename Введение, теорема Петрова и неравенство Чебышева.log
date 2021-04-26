@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  26 APR 2021 08:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  26 APR 2021 22:57
 entering extended mode
 **"./Введение, теорема Петрова и неравенство 
 Чебышева.tex"
@@ -1937,10 +1937,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 505--506
 (Введение, теорема Петрова и неравенство Че
 бышева.aux) ) 
 Here is how much of TeX's memory you used:
- 8933 strings out of 479334
- 124832 string characters out of 2857084
- 425163 words of memory out of 3000000
- 26191 multiletter control sequences out of 15000+200000
+ 8934 strings out of 479334
+ 124843 string characters out of 2857084
+ 425171 words of memory out of 3000000
+ 26192 multiletter control sequences out of 15000+200000
  458202 words of font info for 134 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,14n,75p,2831b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1958,7 +1958,7 @@ Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.pfb>
 <C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pf
 b>
 Output written on "Введение, теорема Петрова и нера�
-�енство Чебышева.pdf" (13 pages, 163621 bytes).
+�енство Чебышева.pdf" (13 pages, 164058 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
