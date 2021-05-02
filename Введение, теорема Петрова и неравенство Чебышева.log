@@ -1,18 +1,18 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  26 APR 2021 22:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.22)  2 MAY 2021 16:02
 entering extended mode
 **"./Введение, теорема Петрова и неравенство 
 Чебышева.tex"
 
-(Введение, теорема Петрова и неравенство Че
-бышева.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18> xparse <2020-03-03>
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extarticle.cls
+("Введение, теорема Петрова и неравенство Ч�
+�бышева.tex"
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-07> xparse <2020-03-03>
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\size14.clo
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\size14.clo
 File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
 )
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\exscale.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\exscale.sty
 Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
 LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
@@ -21,34 +21,34 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
 \big@size=\dimen138
 )
-\c@part=\count179
-\c@section=\count180
-\c@subsection=\count181
-\c@subsubsection=\count182
-\c@paragraph=\count183
-\c@subparagraph=\count184
-\c@figure=\count185
-\c@table=\count186
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen139
 )
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count187
-\Gm@cntv=\count188
-\c@Gm@tempcnt=\count189
+\Gm@cnth=\count185
+\Gm@cntv=\count186
+\c@Gm@tempcnt=\count187
 \Gm@bindingoffset=\dimen140
 \Gm@wd@mp=\dimen141
 \Gm@odd@mp=\dimen142
@@ -59,21 +59,21 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layoutvoffset=\dimen147
 \Gm@dimlist=\toks16
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tree-dvips\lingmacros.s
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/tree-dvips\lingmacros.s
 ty
-\c@enums=\count190
+\c@enums=\count188
 \widelabel=\dimen148
-\c@tempcnt=\count191
-\c@enumsi=\count192
+\c@tempcnt=\count189
+\c@enumsi=\count190
 \eeindent=\dimen149
-) (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+) (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 )
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tree-dvips\tree-dvips.s
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/tree-dvips\tree-dvips.s
 ty
 tree-dvips version .91 of May 16, 1995
 \nodemargin=\dimen150
@@ -90,17 +90,17 @@ tree-dvips version .91 of May 16, 1995
 \pos@tr=\toks24
 \pos@bl=\toks25
 \pos@br=\toks26
-\@arrow=\count193
+\@arrow=\count191
 \@tempdimc=\dimen156
-) (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+) (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\t2aenc.dfu
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\t2aenc.dfu
 File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -302,31 +302,31 @@ File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
 12.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2021/01/26 3.53 The Babel package
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/10/27 3.51 The Babel package
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
-File: babel.def 2021/01/26 3.53 Babel common definitions
-\babel@savecnt=\count194
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/10/27 3.51 Babel common definitions
+\babel@savecnt=\count192
 \U@D=\dimen157
 \l@babelnohyphens=\language79
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count195
+\bbl@dirlevel=\count193
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
 df
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
@@ -336,42 +336,42 @@ Package babel Info: \l@australian = using hyphenrules for ukenglish
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language73) on input line 108.
 )
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/babel-russian\russianb.
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/babel-russian\russianb.
 ldf
-File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+File: russianb.ldf 2020/09/09 1.3k Russian support for the Babel system
 Language: russian 2020/09/09 1.3k Russian support for the Babel system
-Package babel Info: Making " an active character on input line 124.
-Package babel Info: Default for \cyrdash is provided on input line 163.
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
 ))
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
-Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count196
+\etb@tempcnta=\count194
 )
-\csq@reset=\count197
-\csq@gtype=\count198
-\csq@glevel=\count199
-\csq@qlevel=\count266
-\csq@maxlvl=\count267
-\csq@tshold=\count268
+\csq@reset=\count195
+\csq@gtype=\count196
+\csq@glevel=\count197
+\csq@qlevel=\count198
+\csq@maxlvl=\count199
+\csq@tshold=\count266
 \csq@ltx@everypar=\toks27
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
-File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
 )
 Package csquotes Info: Enabling multilingual quotes.
-) (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+) (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks28
 \symAMSa=\mathgroup4
@@ -379,33 +379,33 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+)) (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks29
 \ex@=\dimen158
 ))
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen159
 )
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count269
+\inf@bad=\count267
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count270
-\leftroot@=\count271
+\uproot@=\count268
+\leftroot@=\count269
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count272
-\DOTSCASE@=\count273
+\classnum@=\count270
+\DOTSCASE@=\count271
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -414,15 +414,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen160
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count274
-\c@MaxMatrixCols=\count275
+\macc@depth=\count272
+\c@MaxMatrixCols=\count273
 \dotsspace@=\muskip16
-\c@parentequation=\count276
-\dspbrk@lvl=\count277
+\c@parentequation=\count274
+\dspbrk@lvl=\count275
 \tag@help=\toks30
-\row@=\count278
-\column@=\count279
-\maxfields@=\count280
+\row@=\count276
+\column@=\count277
+\maxfields@=\count278
 \andhelp@=\toks31
 \eqnshift@=\dimen161
 \alignsep@=\dimen162
@@ -437,18 +437,47 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tempora\tempora.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen167
+\Gin@req@width=\dimen168
+)
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/tempora\tempora.sty
 Package: tempora 2016/02/02 (msharpe) Style file for Tempora.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\ot2enc.def
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\ot2enc.def
 File: ot2enc.def 2001/08/11 v3.3a Cyrillic encoding definition file
 Now handling font encoding OT2 ...
 ... processing UTF-8 mapping file for font encoding OT2
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\ot2enc.dfu
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\ot2enc.dfu
 File: ot2enc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+00AB (decimal 171)
    defining Unicode char U+00BB (decimal 187)
@@ -590,12 +619,12 @@ File: ot2enc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+201D (decimal 8221)
    defining Unicode char U+2116 (decimal 8470)
 ))
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2cenc.def
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2cenc.def
 File: t2cenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2C ...
 ... processing UTF-8 mapping file for font encoding T2C
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\t2cenc.dfu
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\t2cenc.dfu
 File: t2cenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -784,12 +813,12 @@ File: t2cenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+FB05 (decimal 64261)
    defining Unicode char U+FB06 (decimal 64262)
 ))
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2benc.def
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2benc.def
 File: t2benc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2B ...
 ... processing UTF-8 mapping file for font encoding T2B
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\t2benc.dfu
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\t2benc.dfu
 File: t2benc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -982,13 +1011,13 @@ File: t2benc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+FB05 (decimal 64261)
    defining Unicode char U+FB06 (decimal 64262)
 ))
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\lgrenc.de
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\lgrenc.de
 f
 File: lgrenc.def 2020/10/13 2.0 LGR Greek font encoding definitions
 Now handling font encoding LGR ...
 ... processing UTF-8 mapping file for font encoding LGR
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/greek-inputenc\lgrenc.d
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/greek-inputenc\lgrenc.d
 fu
 File: lgrenc.dfu 2019/07/11 1.7 UTF-8 support for Greek
    defining Unicode char U+00A8 (decimal 168)
@@ -1340,14 +1369,14 @@ File: lgrenc.dfu 2019/07/11 1.7 UTF-8 support for Greek
    defining Unicode char U+10146 (decimal 65862)
    defining Unicode char U+10147 (decimal 65863)
 )
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\greek-fon
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\greek-fon
 tenc.def
 File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
 )))
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
@@ -1360,36 +1389,36 @@ LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 )
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks34
 \XKV@tempa@toks=\toks35
 )
-\XKV@depth=\count281
+\XKV@depth=\count279
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))) (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
+))) (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
 Package: newtxmath 2021/03/27 v1.642
 
 `newtxmath' v1.642, 2021/03/27 Math macros based originally on txfonts (msharpe
-) (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+) (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
-\tx@cntz=\count282
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
-\tx@Isdigit=\count283
-\tx@IsAlNum=\count284
+\tx@cntz=\count280
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+\tx@Isdigit=\count281
+\tx@IsAlNum=\count282
 \tx@tA=\toks36
 \tx@tB=\toks37
 \tx@su=\read3
@@ -1502,28 +1531,28 @@ LaTeX Info: Redefining \not on input line 2935.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 LaTeX Font Info:    Trying to load font information for T1+Tempora-TLF on input
- line 21.
+ line 23.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tempora\t1tempora-tlf.f
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/tempora\t1tempora-tlf.f
 d
 File: T1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for T1/Tempora-TL
 F.
 )
 LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 21.
+(Font)              scaled to size 14.4pt on input line 23.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
-File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count285
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count283
 \l__pdf_internal_box=\box49
 )
-(Введение, теорема Петрова и неравенство Че
-бышева.aux
+("Введение, теорема Петрова и неравенство Ч�
+�бышева.aux"
 LaTeX Font Info:    Trying to load font information for T2A+Tempora-TLF on inpu
 t line 5.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tempora\t2atempora-tlf.
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/tempora\t2atempora-tlf.
 fd
 File: t2atempora-tlf.fd 2015/09/13 Font definitions for T2A/Tempora-TLF.
 )
@@ -1533,80 +1562,80 @@ LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 \openout1 = `"Введение, теорема Петрова и неравен
 ство Чебышева.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 21.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 23.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
- 21.
- (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
+ 23.
+ (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
-21.
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
+23.
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for OT2+cmr on input line 2
-1.
+3.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\ot2cmr.fd
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\ot2cmr.fd
 File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for T2C+cmr on input line 2
-1.
+3.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2ccmr.fd
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2ccmr.fd
 File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for T2B+cmr on input line 2
-1.
+3.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2bcmr.fd
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2bcmr.fd
 File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 2
-1.
+3.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
- 21.
+ 23.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
-e 21.
+e 23.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    ... okay on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1642,115 +1671,143 @@ LaTeX Font Info:    ... okay on input line 21.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \th on input line 21.
-\c@mv@tabular=\count286
-\c@mv@boldtabular=\count287
+LaTeX Info: Redefining \th on input line 23.
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen169
+\scratchbox=\box50
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen170
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks40
+)
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+\c@mv@tabular=\count290
+\c@mv@boldtabular=\count291
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
 LaTeX Font Info:    Trying to load font information for OT1+Tempora-TLF on inpu
-t line 26.
+t line 29.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ot1tempora-tlf.
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ot1tempora-tlf.
 fd
 File: OT1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for OT1/Tempora-
 TLF.
 )
 LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 26.
+(Font)              scaled to size 14.4pt on input line 29.
 LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.5pt on input line 26.
+(Font)              scaled to size 10.5pt on input line 29.
 LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.9pt on input line 26.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+(Font)              scaled to size 7.9pt on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
 
- (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+ (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
 
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
-26.
+29.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
-26.
+29.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
-26.
+29.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 25--29
+Underfull \hbox (badness 10000) in paragraph at lines 28--32
 
  []
 
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 32.
+(Font)              scaled to size 14.4pt on input line 35.
 [1
 
 
 Non-PDF special ignored!
 <special> header=tree-dvips91.pro
-{C:/Users/danii/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3]
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 178--180
+{C:/Users/CRASH/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3]
+<ris2.png, id=20, 473.51906pt x 752.0597pt>
+File: ris2.png Graphic file (type png)
+<use ris2.png>
+Package pdftex.def Info: ris2.png  used on input line 149.
+(pdftex.def)             Requested size: 200.0pt x 317.64162pt.
+
+[4] [5 <./ris2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 187--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--180
+Underfull \hbox (badness 10000) in paragraph at lines 187--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--182
-
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 189--191
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+Underfull \hbox (badness 10000) in paragraph at lines 198--200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--201
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--201
+Underfull \hbox (badness 10000) in paragraph at lines 207--210
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--220
+Underfull \hbox (badness 10000) in paragraph at lines 207--210
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
 
  []
 
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.5pt on input line 236.
+(Font)              scaled to size 10.5pt on input line 245.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.9pt on input line 236.
+(Font)              scaled to size 7.9pt on input line 245.
 
-Overfull \hbox (25.79257pt too wide) detected at line 241
+Overfull \hbox (25.79257pt too wide) detected at line 250
 \OML/ntxmi/m/it/14.4 P\LMS/ntxsy/m/n/14.4 f[] \OML/ntxmi/m/it/14.4 > \LMS/ntxsy
 /m/n/14.4 �\OT1/Tempora-TLF/m/n/14.4 1 \LMS/ntxsy/m/n/14.4 � \OML/ntxmi/m/it/14
 .4 []\LMS/ntxsy/m/n/14.4 �\OML/ntxmi/m/it/14.4 na\LMS/ntxsy/m/n/14.4 g \U/ntxm
@@ -1762,43 +1819,44 @@ m/it/14.4 > []\LMS/ntxsy/m/n/14.4 � � \U/ntxmia/m/it/14.4 []\LMS/ntxsy/m/n/14.
 4 g
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 254--258
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--267
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--260
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
 
  []
 
 
-Overfull \hbox (7.20618pt too wide) in paragraph at lines 264--265
+Overfull \hbox (7.20618pt too wide) in paragraph at lines 273--274
 []\T2A/Tempora-TLF/m/n/14.4 �������������� ���-��-��� E($[]$)����� ���-�� ��-��
 -��-��-��� ��-��-��� $\OML/ntxmi/m/it/14.4 a[]$
  []
 
+[7]
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 277.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 277.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 286.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 277.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 286.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 286.
 
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 
-Overfull \hbox (39.9179pt too wide) in paragraph at lines 287--289
+Overfull \hbox (39.9179pt too wide) in paragraph at lines 296--298
 \T2A/Tempora-TLF/m/n/14.4 � ��-�� ���-��-���-�� ��-��-����-��� ���-���� $\OML/n
 txmi/m/it/14.4 a[]$ \T2A/Tempora-TLF/m/n/14.4 ���-��� � ��-��-��-��� $\OML/ntxm
 i/m/it/14.4 l[]$\T2A/Tempora-TLF/m/n/14.4 ������������
  []
 
-[7]
-Overfull \hbox (54.21472pt too wide) detected at line 314
+[8]
+Overfull \hbox (54.21472pt too wide) detected at line 323
 [] \U/ntxmia/m/it/14.4 = []\LMS/ntxsy/m/n/14.4 �\OML/ntxmi/m/it/14.4 b \LMS/ntx
 sy/m/n/14.4   \OML/ntxmi/m/it/14.4 a\LMS/ntxsy/m/n/14.4 �[]\OML/ntxmi/m/it/14.4
  d[] < \LMS/ntxsy/m/n/14.4 �\OML/ntxmi/m/it/14.4 b \LMS/ntxsy/m/n/14.4   \OML/n
@@ -1810,157 +1868,161 @@ txmi/m/it/14.4 a\LMS/ntxsy/m/n/14.4 �[] [] \OML/ntxmi/m/it/14.4 E\LMS/ntxsy/m/n
 /ntxsy/m/n/14.4 �
  []
 
-[8]
+[9]
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 363.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 372.
 
 LaTeX Font Info:    Trying to load font information for TS1+Tempora-TLF on inpu
-t line 363.
+t line 372.
 
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ts1tempora-tlf.
+(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ts1tempora-tlf.
 fd
 File: TS1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for TS1/Tempora-
 TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 363.
+(Font)              scaled to size 14.4pt on input line 372.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 363.
-
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-[9] [10]
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 418.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 418.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 372.
 
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+[10]
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 421.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 421.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 427.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 421.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 421.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 427.
 
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 443.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 443.
-
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 444.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 444.
-
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 444.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 444.
-
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 [11]
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 458.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 430.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 458.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 430.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 458.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 430.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 458.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 430.
 
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 459.
+LaTeX Warning: Command \cyre invalid in math mode on input line 452.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 459.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 452.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 459.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 452.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 459.
+LaTeX Warning: Command \cyri invalid in math mode on input line 452.
 
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 481.
+LaTeX Warning: Command \cyre invalid in math mode on input line 453.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 481.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 453.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 453.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 453.
+
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 467.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 467.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 467.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 467.
+
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 468.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 468.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 468.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 468.
+
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+[12]
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 490.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 490.
 
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 
-Underfull \hbox (badness 10000) in paragraph at lines 498--499
-
- []
-
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 505--506
+Underfull \hbox (badness 10000) in paragraph at lines 507--508
 
  []
 
 [13]
-(Введение, теорема Петрова и неравенство Че
-бышева.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 514--515
+
+ []
+
+[14]
+("Введение, теорема Петрова и неравенство Ч�
+�бышева.aux")
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 8934 strings out of 479334
- 124843 string characters out of 2857084
- 425171 words of memory out of 3000000
- 26192 multiletter control sequences out of 15000+200000
+ 9701 strings out of 479697
+ 135569 string characters out of 2867132
+ 420773 words of memory out of 3000000
+ 26565 multiletter control sequences out of 15000+200000
  458202 words of font info for 134 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,14n,75p,2831b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvip
-s/tempora/t2a-tempora.enc}{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/e
-nc/dvips/tempora/tmp_q3dzgc.enc}<C:/Users/danii/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/newtx/NewTXMI.pfb><C:/Users/danii/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/danii/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/danii/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/dan
-ii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/d
-anii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/User
-s/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb><C:/
-Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.pfb>
-<C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pf
-b>
+ 66i,14n,73p,2831b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/CRASH/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/t2a-tem
+pora.enc}{C:/Users/CRASH/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/
+tmp_q3dzgc.enc}<C:/Users/CRASH/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/newtx/NewTXMI.pfb><C:/Users/CRASH/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/newtx/NewTXMI7.pfb><C:/Users/CRASH/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/tempora/Tempora-Bold.pfb><C:/Users/CRASH/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/CRASH/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/CRASH/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/CRASH/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb><C:/Users/CRASH/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.pfb><C:/Users/CRASH/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
 Output written on "Введение, теорема Петрова и нера�
-�енство Чебышева.pdf" (13 pages, 164058 bytes).
+�енство Чебышева.pdf" (14 pages, 216754 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
+ 101 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
