@@ -14,9 +14,18 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="ris2.svg">
+   sodipodi:docname="ris2.svg"
+   inkscape:export-filename="E:\Desktop\Diploma-main\Diploma\ris2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
+    <rect
+       x="82.319014"
+       y="277.42577"
+       width="63.610147"
+       height="13.363476"
+       id="rect1070" />
     <linearGradient
        id="linearGradient837"
        osb:paint="solid">
@@ -33,18 +42,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="146.8886"
-     inkscape:cy="428.80595"
+     inkscape:zoom="0.35"
+     inkscape:cx="694.87933"
+     inkscape:cy="406.62655"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1350"
-     inkscape:window-height="728"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -645,13 +654,6 @@
          x="99.729187"
          y="151.59599"
          style="stroke-width:0.177973">6</tspan></text>
-    <g
-       id="g4"
-       transform="matrix(0.29482299,0,0,0.30490695,39.448941,28.557137)">
-      <path
-         d="m 10.368,19.102 c 0.349,1.049 1.011,1.086 1.478,0.086 L 17.155,7.813 C 17.622,6.811 17.189,6.379 16.188,6.846 L 4.812,12.154 c -1.001,0.467 -0.963,1.129 0.085,1.479 L 9,15 Z"
-         id="path2" />
-    </g>
     <g
        id="g4-8"
        transform="matrix(0.28241085,0.08464458,-0.08753971,0.29207028,80.322617,27.685915)">
@@ -1447,5 +1449,12 @@
        style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 169.97398,73.766393 c 0,0 6.1472,14.432558 6.1472,14.432558"
        id="path1472" />
+    <text
+       xml:space="preserve"
+       id="text1068"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1070);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.67066051,0,0,0.75180392,36.383972,64.640755)"><tspan
+         x="82.318359"
+         y="287.08125"><tspan>Рис. 2</tspan></tspan></text>
   </g>
 </svg>
