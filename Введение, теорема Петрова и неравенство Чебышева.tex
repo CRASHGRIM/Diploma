@@ -245,23 +245,42 @@ P\{S > x\} \leq
  \end{cases}
 \end{equation}
 
-\textbf{3. Условия асимптотической оптимальности жадного алгоритма}\\
 
-Найдем условия, при выполнении которых жадынй алгоритм является асимптотически оптимальным, то есть
-\begin{equation}
-P\{\mathcal{Z_{A'}} > (1+\epsilon_n)\mathcal{Z}\}\leq \delta_n
-\end{equation}
-где $\epsilon_n \rightarrow 0, \delta_n \rightarrow 0$ $n \rightarrow \infty$\\
-Оценим сверху левую часть данного неравенства. Так как a>0, то $\mathcal{Z} \geq na$ и 
-\begin{equation}\label{4}
-P\{\mathcal{Z_{A'}} > (1+\epsilon_n)\mathcal{Z}\}\leq P\{\mathcal{Z_{A'}} > (1+\epsilon_n)na\}
-\end{equation}
+
+
 \newcommand{\algorithm}{$\mathcal{A'}$}
 \newcommand{\topboundE}{$\mathcal{Z^*_{A'}}$}
 \newcommand{\topboundD}{$\mathcal{D^*_{A'}}$}
 \newcommand{\randomvalue}{$\mathcal{Z_{A'}}$}
-\newcommand{\randomvalueE}{E(\randomvalue)}
-\newcommand{\randomvalueD}{D(\randomvalue)}
+\newcommand{\randomvalueE}{$E(\text{\randomvalue})$}
+\newcommand{\randomvalueD}{$D(\text{\randomvalue})$}
+
+\textbf{3. Условия асимптотической оптимальности жадного алгоритма}\\
+
+Найдем условия, при выполнении которых жадный алгоритм является асимптотически оптимальным, то есть
+\begin{equation}\label{assymptopt}
+P\{\text{\randomvalue} > (1+\epsilon_n)\mathcal{Z}\}\leq \delta_n
+\end{equation}
+где $\epsilon_n \rightarrow 0, \delta_n \rightarrow 0$ $n \rightarrow \infty$\\
+
+Вес маршрута коммивояжера, полученного применением жадного алгоритма обозначим как $\text{\randomvalue}$. Он определяется формулой
+\begin{equation}
+\text{\randomvalue} = \sum_{k=1}^n a_{i_k i_{k+1}}
+\end{equation}
+
+Вес маршрута отпимального решения задачи обозначим как $\mathcal{Z}$. Он определяется формулой:
+
+\begin{equation}
+\mathcal{Z} = \min_{\{ \pi \}} \sum_{k=1}^n a_{i_k i_{k+1}}
+\end{equation}
+
+
+Оценим сверху левую часть \eqref{assymptopt}. Так как $a>0$, то $\mathcal{Z} \geq na$ и 
+\begin{equation}\label{4}
+P\{\mathcal{Z_{A'}} > (1+\epsilon_n)\mathcal{Z}\}\leq P\{\mathcal{Z_{A'}} > (1+\epsilon_n)na\}
+\end{equation}
+
+
 Обозначим через\topboundE и \topboundD верхние оценки соответственно математического ожидания \randomvalueE и дисперсии \randomvalueD случайной величины \randomvalue . Обозначим $\Delta_n=(1+\epsilon_n)na-\text{\topboundE}$. Получаем:
 \begin{equation}\label{5}
 P\{\text{\randomvalue} > (1+\epsilon_n)na\} = 
@@ -281,9 +300,9 @@ P\{|\text{\randomvalue}- \text{\randomvalueE})| \geq \Delta_n\} \leq \\
 \frac{\text{\topboundD}}{(k-1)^2(\text{\topboundE}-na)^2}
 \end{aligned}
 \end{equation}
-Так как k - константа, k>1, то из данной цепочки неравенств следует, что условие ассимптотической оптимальности жадного алгоритма будет выполнено если мы покажем, что
+Так как $k$ - константа, $k>1$, то из данной цепочки неравенств следует, что условие ассимптотической оптимальности жадного алгоритма будет выполнено если мы покажем, что
 $ \epsilon_n=k(\frac{\text{\topboundE}}{na}-1) \rightarrow 0$ и 
-$ \delta_n = \frac{\text{\topboundD}}{(k-1)^2(\text{\randomvalue}-na)^2} \rightarrow 0$ при $ n \rightarrow \infty$\\
+$ \delta_n = \frac{\text{\topboundD}}{(k-1)^2(\text{\topboundE}-na)^2} \rightarrow 0$ при $ n \rightarrow \infty$\\
 
 \textbf{Вычисление верхних оценок \topboundE и \topboundD}\\
 
