@@ -288,8 +288,8 @@ P\{\text{\randomvalue} > \text{\topboundE}+[(1+\epsilon_n)na-\text{\topboundE}]\
 P\{\text{\randomvalue} > \text{\randomvalueE})+ \Delta_n\}
 \end{equation}
 
-Пусть $\epsilon_n = k(\frac{\text{\topboundE}}{na}-1), k>1$.
-Тогда $ \Delta_n = (k-1)(\text{\topboundE}-na) \geq 0$.
+Пусть $\epsilon_n = K(\frac{\text{\topboundE}}{na}-1), K>1$.
+Тогда $ \Delta_n = (K-1)(\text{\topboundE}-na) \geq 0$.
 Продолжим неравенство \ref{5} применив неравенство Чебышева.
 \begin{equation}\label{6}
 \begin{aligned}
@@ -297,19 +297,19 @@ P\{\text{\randomvalue}> E(\text{\randomvalue})+ \Delta_n\} \leq
 P\{|\text{\randomvalue}- \text{\randomvalueE})| \geq \Delta_n\} \leq \\
 \frac{\text{\randomvalueD}}{\Delta^2_n} \leq
 \frac{\text{\topboundD}}{\Delta^2_n} = 
-\frac{\text{\topboundD}}{(k-1)^2(\text{\topboundE}-na)^2}
+\frac{\text{\topboundD}}{(K-1)^2(\text{\topboundE}-na)^2}
 \end{aligned}
 \end{equation}
-Так как $k$ - константа, $k>1$, то из данной цепочки неравенств следует, что условие ассимптотической оптимальности жадного алгоритма будет выполнено если мы покажем, что
-$ \epsilon_n=k(\frac{\text{\topboundE}}{na}-1) \rightarrow 0$ и 
-$ \delta_n = \frac{\text{\topboundD}}{(k-1)^2(\text{\topboundE}-na)^2} \rightarrow 0$ при $ n \rightarrow \infty$\\
+Так как $K$ - константа, $K>1$, то из данной цепочки неравенств следует, что условие ассимптотической оптимальности жадного алгоритма будет выполнено если мы покажем, что
+$ \epsilon_n=K(\frac{\text{\topboundE}}{na}-1) \rightarrow 0$ и 
+$ \delta_n = \frac{\text{\topboundD}}{(K-1)^2(\text{\topboundE}-na)^2} \rightarrow 0$ при $ n \rightarrow \infty$\\
 
 \textbf{Вычисление верхних оценок \topboundE и \topboundD}\\
 
 \newcommand{\chanceLklesserX}{$\Phi_k(x)$}
 \newcommand{\randomNormalValueE}{$l_k$}
 
-Математическое ожидание \randomvalueE равно сумме матожиданий величин $a_{{i_k}{i_{k+1}}}$ минимальных элементов матрицы, выбираемых на k-м шаге алгоритма \algorithm. В целях удобства дальнейших вычислений пронормируем случайную величину $\xi$ значений элементов $a_{ij}$ матрицы А, положив $\xi'=\frac{\xi-a}{b-a}$. Обозначим через \randomNormalValueE значение матожидания нормированной случайной величины $\text{\randomNormalValueE}=a_{{i_k}{i_{k+1}}}'$. На k-ом шаге алгоритма выбирается минимум из n-k элементов. В силу независимости этих элементов вероятность \chanceLklesserX того, что величина \randomNormalValueE минимального из этих элементов не превышает величины x равна
+Математическое ожидание \randomvalueE равно сумме матожиданий величин $a_{{i_k}{i_{k+1}}}$ минимальных длин ребер, ведущих в еще непосещенную вершину на k-м шаге алгоритма \algorithm. В целях удобства дальнейших вычислений пронормируем случайную величину $\xi$ значений элементов $a_{ij}$ длин ребер графа, положив $\xi'=\frac{\xi-a}{b-a}$. Обозначим через \randomNormalValueE  значение матожидания нормированной случайной величины $\text{\randomNormalValueE}=a_{{i_k}{i_{k+1}}}'$. На k-ом шаге алгоритма выбирается минимум из $n-k$ элементов. В силу независимости этих элементов вероятность \chanceLklesserX того, что величина \randomNormalValueE минимального из этих элементов не превышает величины $x$ равна
 \begin{equation}
 \text{\chanceLklesserX}=P\{\text{\randomNormalValueE} \leq x\}=1-(1-F(x))^{n-k}
 \end{equation}
@@ -333,7 +333,7 @@ E(\text{\randomNormalValueE}) = x \text{\chanceLklesserX}\rvert_{0}^{1}-\int_0^1
 k = \overline {1, n-1}
 \end{aligned}
 \end{equation}
-В силу нормировки минимальный элемент $a_{i_{k-1} i_k}$ связан с величиной \randomNormalValueE соотношением $a_{i_k i_{k+1}} = a+(b-a)\text{\randomNormalValueE}$. Поэтому
+В силу нормировки минимальный элемент $a_{i_{k-1} i_k}$ связан с величиной  \randomNormalValueE  соотношением $a_{i_k i_{k+1}} = a+(b-a)\text{\randomNormalValueE}$. Поэтому
 \begin{equation}\label{8}
 \text{\randomvalueE} = \sum_{k=1}^{n} [a+(b-a)E(\text{\randomNormalValueE})]
 \end{equation}.
@@ -356,15 +356,20 @@ k = \overline {1, n-1}
 \begin{equation}
 d_k=\int_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int_0^1 x^2 d \Phi_k(x)- (E(l_k))^2 < \int_0^1 x d \Phi_k(x) = E(l_k)
 \end{equation}
+
 Тогда с учетом того, что дисперсия минимального элемента $a_{i_k i_{k+1}}$ равна $(b-a)^2 d_k$, дисперсия случайной величины ${\mathcal{Z_{A'}}}$ с учетом \ref{8} оценивается следующим образом:
 \begin{equation}
-\mathcal{D(\mathcal{Z_{A'}})} = \sum_{k=1}^n (b-a)^2 d_k < (b-a)^2 \sum_{k=1}^n E(l_k) = (b-a)^2 * \frac{E(\mathcal{Z_{A'}})-na}{(b-a)} \leq (b-a)(\mathcal{Z_{A'}^*}-na)
+\begin{aligned}
+\mathcal{D(\mathcal{Z_{A'}})} = \sum_{k=1}^n (b-a)^2 d_k < (b-a)^2 \sum_{k=1}^n E(l_k) =\\
+= (b-a)^2 * \frac{E(\mathcal{Z_{A'}})-na}{(b-a)} \leq (b-a)(\mathcal{Z_{A'}^*}-na)
+\end{aligned}
 \end{equation}
+
 Окончательно с учетом \ref{9} получаем верхнюю оценку для $\mathcal{D(\mathcal{Z_{A'}})}$
 \begin{equation}\label{10}
 \mathcal{D(\mathcal{Z_{A'}})} < \mathcal{D_{A'}^*} = (b-a)^2 [\gamma_n*n+\int_{\gamma_n}^1 \frac{dx}{F(x)}]
 \end{equation}
-Вернемся к неравенству \ref{6}. Имея в виду получение оценки \ref{9} и \ref{10}, выражения для $\epsilon_n$ и $\delta_n$ можно записать в следующем виде: 
+Вернемся к неравенству \ref{6}. Имея в виду полученные оценки \ref{9} и \ref{10}, выражения для $\epsilon_n$ и $\delta_n$ можно записать в следующем виде: 
 \begin{equation}
 \epsilon_n = K(\frac{b}{a}-1)[\gamma_n + \frac{1}{n} \int_{\gamma_n}^1 \frac{dx}{F(x)}]
 \end{equation}
@@ -372,7 +377,7 @@ d_k=\int_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int_0^1 x^2 d \Phi_k(x)- (E(l_k))^2 < \
 \delta_n = \frac{1}{(K-1)^2 [\gamma_n * n + \int_{\gamma_n}^1 \frac{dx}{F(x)}]}
 \end{equation}
 
-Обозначим $\mathcal{I_K} = \int_{\gamma_n}^1 \frac{dx}{F(x)}$, TODO ( большая К, а мальенкая в mathcal не отрисовывается) $\Psi(n)$ - произвольная растущая от n функция, $\lim\limits_{x\to \infty} \Psi(n) = \infty $ 
+Обозначим $\mathcal{I}_n = \int_{\gamma_n}^1 \frac{dx}{F(x)}$, $\Psi(n)$ - произвольная растущая от n функция, $\lim\limits_{x\to \infty} \Psi(n) = \infty $ 
 
 \textbf{Теорема 1}
 
@@ -381,13 +386,13 @@ d_k=\int_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int_0^1 x^2 d \Phi_k(x)- (E(l_k))^2 < \
 \frac{b}{a} \leq \frac{1}{\Psi(n)} min \{ \frac{1}{\gamma_n}, \frac{n}{\mathcal{I}_n} \}
 \end{equation}
 
-Доказательство. Покажем, что при выполнении условий теоремы $\epsilon_n \to 0$ и $\delta_n \to 0$ с ростом n. Действительно, при K>1 имеем:
+Доказательство. Покажем, что при выполнении условий теоремы $\epsilon_n \to 0$ и $\delta_n \to 0$ с ростом n. Действительно, при $K>1$ имеем:
 
 \begin{equation}
 \begin{aligned}
 \delta_n = \frac{1}{(\gamma_n n+\mathcal{I}_n)(K-1)^2} \leq \frac{1}{\mathcal{I}_n * (K-1)^2} \to 0 \\
 \epsilon_n = K(\frac{b}{a}-1)(\gamma_n+\frac{1}{n} \mathcal{I}_n) \leq K*\frac{b}{a} (\gamma_n+\frac{1}{n} \mathcal{I}_n)\leq \\
-\leq \frac{K}{\Psi(n)} min(\frac{1}{\gamma_n}, \frac{n}{\mathcal{I}_n}) = \\
+\leq \frac{K}{\Psi(n)} min(\frac{1}{\gamma_n}, \frac{n}{\mathcal{I}_n})(\gamma_n+\frac{1}{n} \mathcal{I}_n) = \\
 = \frac{K}{\Psi(n)} min (1+\frac{\mathcal{I}_n}{n \gamma_n}, 1+\frac{n \gamma_n}{\mathcal{I}_n}) \leq \frac{2K}{\Psi(n)} \to 0
 \end{aligned}
 \end{equation}
@@ -397,7 +402,7 @@ d_k=\int_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int_0^1 x^2 d \Phi_k(x)- (E(l_k))^2 < \
 
 
 \underline{Равномерное распределение}.\\ 
-Определены условия асимптотической оптимальности алгоритма $\mathcal{A'}$ для случая, когда элементы $a_{ij}$ матрицы А могут быть выбраны равновероятно из отрезка [a,b], a>0. В этом случае нормированная интегральная функция распределения имеет вид $F(x) = x, 0 \leq x \leq 1, \gamma_n = F(\frac{1}{n}) = \frac{1}{n}$ и
+Определим условия асимптотической оптимальности алгоритма $\mathcal{A'}$ для случая, когда веса ребер графа $a_{ij}$ могут быть выбраны равновероятно из отрезка [a,b], a>0. В этом случае нормированная интегральная функция распределения имеет вид $F(x) = x,\; 0 \leq x \leq 1,\; \gamma_n = F(\frac{1}{n}) = \frac{1}{n}$ и
 \begin{equation}
 \mathcal{I}_n = \int_{\gamma_n}^1 \frac{dx}{F(x)} = \int_{\frac{1}{n}}^1 \frac{dx}{x} = ln(n)
 \end{equation}
@@ -411,16 +416,15 @@ d_k=\int_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int_0^1 x^2 d \Phi_k(x)- (E(l_k))^2 < \
 \frac{b}{a} \leq \frac{n}{ln(n)}•\frac{1}{\Psi(n)}
 \end{equation}
 
-Представляет интерес оценить величины $\epsilon_n$ и $\delta_n$, фигурирующие в соотношении \ref{1}.
+Представляет интерес оценить величины $\epsilon_n$ и $\delta_n$, фигурирующие в соотношении \eqref{1}.
 
-Учитывая специфику равномерного распределения можно получить более точные оценки для этих величин по сравнению с общим случаем. Выведем условия асимптотической оптимальности алгоритма $\mathcal{A'}$ в случае равномерного распределения, проведя в сокращенном виде вычисления оценок для $E(\mathcal{Z_{A'}})$ и $\mathcal{D(Z_{A'})}$ и $P \{ \mathcal{Z_{A'}} \leq (1+\epsilon_n)\mathcal{Z} \}$. Согласно \ref{7} нумерация
+Учитывая специфику равномерного распределения можно получить более точные оценки для этих величин по сравнению с общим случаем. Выведем условия асимптотической оптимальности алгоритма $\mathcal{A'}$ в случае равномерного распределения, проведя в сокращенном виде вычисления оценок для $E(\mathcal{Z_{A'}})$ и $\mathcal{D(Z_{A'})}$ и $P \{ \mathcal{Z_{A'}} \leq (1+\epsilon_n)\mathcal{Z} \}$. Согласно \ref{7}
 \begin{equation}\label{eq13} 
 E(l_k) = \int_0^1 (1-x)^{n-k}dx = \int_0^1 x^{n-k}dx = \frac{1}{n-k+1}
 \end{equation}
-$k=1,2,...n-k;$  $ E(l_n) = E(l_n-1) = \frac{1}{2}$
+$k=1,2,...n-k$;   $ E(l_n) = E(l_n-1) = \frac{1}{2}$
 
-С учетом \ref{8}
-
+С учетом \eqref{8}
 \begin{equation}
 \begin{aligned}
 E(\mathcal{Z_{A'}}) = \sum_{k=1}^{n} [a+(b-a)E(l_k)] = na +(b-a)(\frac{1}{2}+\sum_{k=1}^{n-1} \frac{1}{n-k+1}) \leq \\
@@ -430,12 +434,12 @@ E(\mathcal{Z_{A'}}) = \sum_{k=1}^{n} [a+(b-a)E(l_k)] = na +(b-a)(\frac{1}{2}+\su
 
 Оценим дисперсию $d_k=\int_0^1 (x-E(l_k))^2 d\text{\chanceLklesserX}$ случайной величины $l_k$ с учетом того, что для равномерного распределения \chanceLklesserX $ = 1-(1-x)^{n-k}$
 
-Используя \ref{eq13}, имеем
+Используя \eqref{eq13}, имеем
 \begin{equation}
 \begin{aligned}
-d_k = \int_0^1 x^2 d \text{\chanceLklesserX}-E(l_k^2)=x^2 \text{\chanceLklesserX} 	
-|_0^1 - 2 \int_0^1 x \text{\chanceLklesserX}dx - E(l_k^2)=\\
-= 1-2\int_0^1 x[1-(1-x)^{n-k}]dx-E(l_k^2) =\\
+d_k = \int_0^1 x^2 d \text{\chanceLklesserX}-E(l_k)^2=x^2 \text{\chanceLklesserX} 	
+|_0^1 - 2 \int_0^1 x \text{\chanceLklesserX}dx - E(l_k)^2=\\
+= 1-2\int_0^1 x[1-(1-x)^{n-k}]dx-E(l_k)^2 =\\
 = \frac{2}{n-k+1} - \frac{2}{n-k+2} - \frac{1}{(n-k+1)^2}, \\ 
 \; k=1,2,...,n-1; \; d_n = d_{n-1} = \frac{1}{12}
 \end{aligned}
@@ -450,39 +454,39 @@ d_k = \int_0^1 x^2 d \text{\chanceLklesserX}-E(l_k^2)=x^2 \text{\chanceLklesserX
 \end{aligned}
 \end{equation}
 
-Приведем оценку вероятности невыполнения соотношения \ref{1} для случая равномерного распределения:
+Приведем оценку вероятности невыполнения соотношения \eqref{1} для случая равномерного распределения:
 \begin{equation}\label{14}
 \begin{aligned}
 P\{ \text{\randomvalue} > (1+\epsilon_n) \mathcal{Z} \} \leq P\{ \text{\randomvalue} > (1+\epsilon_n)na \} \leq \\
 \leq P\{ \text{\randomvalue} + \text{\topboundE} - \text{\randomvalueE} > (1+\epsilon_n)na \} = \\
 = P \{ \text{\randomvalue} - \text{\randomvalueE} > (1+\epsilon_n)na - \text{\topboundE} \} \leq \\
 \leq P \{ |\text{\randomvalue} - \text{\randomvalueE}| > (1+\epsilon_n)na - \text{\topboundE} \} \leq \\
-\leq \frac{\text{\randomvalueD}}{[1+\epsilon_n)na + \text{\topboundE}]^2} \leq \\
-\leq \frac{0.417(b-a)^2}{[1+\epsilon_n)na-(nu+(b-a)(\frac{1}{2}+ln n))]^2} = \\
-= \frac{0.417}{[\frac{n\epsilon_n}{\frac{b}{a}-1}-ln n -\frac{1}{2}]^2}
+\leq \frac{\text{\randomvalueD}}{[(1+\epsilon_n)na + \text{\topboundE}]^2} \leq \\
+\leq \frac{0.417(b-a)^2}{[1+\epsilon_n)na-(nu+(b-a)(\frac{1}{2}+ln(n)))]^2} = \\
+= \frac{0.417}{[\frac{n\epsilon_n}{\frac{b}{a}-1}-ln(n) -\frac{1}{2}]^2}
 \end{aligned}
 \end{equation}
 
-Положим $\epsilon_n = \frac{c}{\Psi(n)}$, константа c>1, и пусть $\frac{a}{b} \leq \frac{n}{ln n} • \frac{1}{\Psi(n)}$. Тогда \ref{14} может быть продолжено следующим образом:
+Положим $\epsilon_n = \frac{c}{\Psi(n)}$, константа c>1, и пусть $\frac{a}{b} \leq \frac{n}{ln(n)} • \frac{1}{\Psi(n)}$. Тогда \eqref{14} может быть продолжено следующим образом:
 
 \begin{equation}
-\frac{0.417}{[\frac{n\frac{c}{\Psi(n)}}{(\frac{b}{a}-1)}-\frac{1}{2}-lnn]} \leq \frac{0.417}{[\frac{c•\frac{b}{a}•lnn}{(\frac{b}{a}-1)}-\frac{1}{2}-lnn]^2} = \frac{0.417}{[(c-1)lnn-\frac{1}{2}]^2} = \delta_n
+\frac{0.417}{[\frac{n\frac{c}{\Psi(n)}}{(\frac{b}{a}-1)}-\frac{1}{2}-ln(n)]} \leq \frac{0.417}{[\frac{c•\frac{b}{a}•ln(n)}{(\frac{b}{a}-1)}-\frac{1}{2}-ln(n)]^2} = \frac{0.417}{[(c-1)ln(n)-\frac{1}{2}]^2} = \delta_n
 \end{equation}
 
-Таким образом, окончательная оценка для вероятности выполнения соотношения \ref{1} примет вид:
+Таким образом, окончательная оценка для вероятности выполнения соотношения \eqref{1} примет вид:
 \begin{equation}\label{15}
-P \{ \text{\randomvalue} \leq (1+\epsilon_n)\mathcal{Z} \} \geq 1 - \frac{0.417}{[(c-1)lnn-\frac{1}{2}]^2}
+P \{ \text{\randomvalue} \leq (1+\epsilon_n)\mathcal{Z} \} \geq 1 - \frac{0.417}{[(c-1)ln(n)-\frac{1}{2}]^2}
 \end{equation}
 
-Нетрудно заметить, что эта величина, характеризующая точность получаемого решения, улучшается с ростом $\Psi(n)$, но при этом ухудшается оценка для величины $\frac{b}{a}$. Выберем функцию $\Psi(n)$ таким образом, чтобы произведение верхних оценок для $\epsilon_n$ и $\frac{b}{a}$ стремилось к \ref{1} с ростом n. Такому условию отвечает функция $\Psi(n) = \sqrt{\frac{cn}{lnn}}$. При этом оценки для $\epsilon_n$ и $\frac{b}{a}$ принимают вид:
+Нетрудно заметить, что эта величина, характеризующая точность получаемого решения, улучшается с ростом $\Psi(n)$, но при этом ухудшается оценка для величины $\frac{b}{a}$. Выберем функцию $\Psi(n)$ таким образом, чтобы произведение верхних оценок для $\epsilon_n$ и $\frac{b}{a}$ стремилось к \eqref{1} с ростом n. Такому условию отвечает функция $\Psi(n) = \sqrt{\frac{cn}{ln(n)}}$. При этом оценки для $\epsilon_n$ и $\frac{b}{a}$ принимают вид:
 \begin{equation}\label{16}
-\frac{b}{a} \leq \sqrt{\frac{n}{clnn}}
+\frac{b}{a} \leq \sqrt{\frac{n}{cln(n)}}
 \end{equation}
 \begin{equation}\label{17}
-\epsilon_n \leq \sqrt{\frac{clnn}{n}}
+\epsilon_n \leq \sqrt{\frac{cln(n)}{n}}
 \end{equation}
 
-Анализ соотношений \ref{15}-\ref{17}, полученных для равномерного распределения показывает, что уменьшение константы c "улучшает" оценки для $\frac{b}{a}$ и $\epsilon_n$ и "ухудшает" оценку вероятности $P \{ \text{\randomvalue} \leq (1+\epsilon_n)\mathcal{Z} \}$
+Анализ соотношений \ref{15}-\ref{17}, полученных для равномерного распределения показывает, что уменьшение константы $c$ "улучшает" оценки для $\frac{b}{a}$ и $\epsilon_n$ и "ухудшает" оценку вероятности $P \{ \text{\randomvalue} \leq (1+\epsilon_n)\mathcal{Z} \}$
 
 \textbf{$\beta$ - распределение}. Очень часто в опытно-конструкторских разработках в промышленности и научно-исследовательских проектах длительности $a_{ij}$ отдельных операций предполагается распределенными по следующему закону / $\beta$ - распределение /:
 \begin{equation}

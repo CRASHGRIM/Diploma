@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  29 MAY 2021 13:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  29 MAY 2021 17:19
 entering extended mode
 **"./Введение, теорема Петрова и неравенство 
 Чебышева.tex"
@@ -1865,25 +1865,12 @@ txmi/m/it/14.4 a[]$ \T2A/Tempora-TLF/m/n/14.4 ���-��� � ��-��-��-��� $\OML/ntxm
 i/m/it/14.4 l[]$\T2A/Tempora-TLF/m/n/14.4 ������������
  []
 
-[9]
-Overfull \hbox (54.21472pt too wide) detected at line 362
-[] \U/ntxmia/m/it/14.4 = []\LMS/ntxsy/m/n/14.4 �\OML/ntxmi/m/it/14.4 b \LMS/ntx
-sy/m/n/14.4   \OML/ntxmi/m/it/14.4 a\LMS/ntxsy/m/n/14.4 �[]\OML/ntxmi/m/it/14.4
- d[] < \LMS/ntxsy/m/n/14.4 �\OML/ntxmi/m/it/14.4 b \LMS/ntxsy/m/n/14.4   \OML/n
-txmi/m/it/14.4 a\LMS/ntxsy/m/n/14.4 �[] [] \OML/ntxmi/m/it/14.4 E\LMS/ntxsy/m/n
-/14.4 �\OML/ntxmi/m/it/14.4 l[]\LMS/ntxsy/m/n/14.4 � \U/ntxmia/m/it/14.4 = \LMS
-/ntxsy/m/n/14.4 �\OML/ntxmi/m/it/14.4 b \LMS/ntxsy/m/n/14.4   \OML/ntxmi/m/it/1
-4.4 a\LMS/ntxsy/m/n/14.4 �[]  []  �\OML/ntxmi/m/it/14.4 b \LMS/ntxsy/m/n/14.4
-   \OML/ntxmi/m/it/14.4 a\LMS/ntxsy/m/n/14.4 ��[]   \OML/ntxmi/m/it/14.4 na\LMS
-/ntxsy/m/n/14.4 �
- []
+[9] [10]
 
-[10]
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 411.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 416.
 
 LaTeX Font Info:    Trying to load font information for TS1+Tempora-TLF on inpu
-t line 411.
+t line 416.
 
 (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ts1tempora-tlf.
 fd
@@ -1891,61 +1878,61 @@ File: TS1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for TS1/Tempora-
 TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 411.
+(Font)              scaled to size 14.4pt on input line 416.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 411.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 416.
 
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 [11] [12]
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 466.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 470.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 466.
-
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 469.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 469.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 469.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 469.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 470.
 
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 473.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 473.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 473.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 473.
+
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 491.
+LaTeX Warning: Command \cyre invalid in math mode on input line 495.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 491.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 495.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 491.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 495.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 491.
+LaTeX Warning: Command \cyri invalid in math mode on input line 495.
 
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 492.
+LaTeX Warning: Command \cyre invalid in math mode on input line 496.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 492.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 496.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 492.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 496.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 492.
+LaTeX Warning: Command \cyri invalid in math mode on input line 496.
 
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
@@ -1953,55 +1940,55 @@ Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 [13]
 
-LaTeX Warning: Command \cyre invalid in math mode on input line 506.
+LaTeX Warning: Command \cyre invalid in math mode on input line 510.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 506.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 510.
 
 
-LaTeX Warning: Command \cyrl invalid in math mode on input line 506.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 510.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 506.
-
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 507.
-
-
-LaTeX Warning: Command \cyrs invalid in math mode on input line 507.
-
-
-LaTeX Warning: Command \cyrl invalid in math mode on input line 507.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 507.
+LaTeX Warning: Command \cyri invalid in math mode on input line 510.
 
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 529.
+LaTeX Warning: Command \cyre invalid in math mode on input line 511.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 529.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 511.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 511.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 511.
+
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 533.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 533.
 
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 
-Underfull \hbox (badness 10000) in paragraph at lines 546--547
+Underfull \hbox (badness 10000) in paragraph at lines 550--551
 
  []
 
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 553--554
+[14] [15]
+Underfull \hbox (badness 10000) in paragraph at lines 557--558
 
  []
 
-[15]
+[16]
 (Введение, теорема Петрова и неравенство Че
 бышева.aux) ) 
 Here is how much of TeX's memory you used:
@@ -2026,9 +2013,9 @@ Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.pfb>
 <C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pf
 b>
 Output written on "Введение, теорема Петрова и нера�
-�енство Чебышева.pdf" (15 pages, 250013 bytes).
+�енство Чебышева.pdf" (16 pages, 250059 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
+ 111 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
