@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  30 MAY 2021 19:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  8 JUN 2021 23:58
 entering extended mode
 **"./–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–≤–µ–Ω—Å—Ç–≤–æ 
 –ß–µ–±—ã—à–µ–≤–∞.tex"
@@ -1696,60 +1696,15 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 )
 \c@mv@tabular=\count292
 \c@mv@boldtabular=\count293
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-
- []
-
-LaTeX Font Info:    Trying to load font information for OT1+Tempora-TLF on inpu
-t line 28.
-
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ot1tempora-tlf.
-fd
-File: OT1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for OT1/Tempora-
-TLF.
-)
-LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 28.
-LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.5pt on input line 28.
-LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.9pt on input line 28.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
 
- (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
-
-
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
-28.
-
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
-File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
-)
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
-28.
-
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
-File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
-)
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
-28.
-
-(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
-File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
@@ -1764,91 +1719,156 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--41
 Non-PDF special ignored!
 <special> header=tree-dvips91.pro
 {C:/Users/danii/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 48--54
 
  []
 
-<ris_example.png, id=10, 236.38312pt x 216.81pt>
+[2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+Tempora-TLF on inpu
+t line 78.
+
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ot1tempora-tlf.
+fd
+File: OT1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for OT1/Tempora-
+TLF.
+)
+LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 78.
+LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
+(Font)              scaled to size 10.5pt on input line 78.
+LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
+(Font)              scaled to size 7.9pt on input line 78.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 78.
+
+ (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 78.
+
+
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
+78.
+
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
+File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
+78.
+
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
+78.
+
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+<ris_example.png, id=20, 236.38312pt x 216.81pt>
 File: ris_example.png Graphic file (type png)
 <use ris_example.png>
-Package pdftex.def Info: ris_example.png  used on input line 53.
+Package pdftex.def Info: ris_example.png  used on input line 103.
 (pdftex.def)             Requested size: 200.0pt x 183.44244pt.
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
  []
 
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 63.
-[3 <./ris_example.png>] [4]
-<ris1.png, id=26, 502.87875pt x 549.55313pt>
+[6 <./ris_example.png>] [7]
+<ris1.png, id=36, 502.87875pt x 549.55313pt>
 File: ris1.png Graphic file (type png)
 <use ris1.png>
-Package pdftex.def Info: ris1.png  used on input line 164.
+Package pdftex.def Info: ris1.png  used on input line 214.
 (pdftex.def)             Requested size: 300.0pt x 327.8393pt.
- [5] [6 <./ris1.png>]
-<ris2.png, id=34, 473.51906pt x 752.0597pt>
+ [8] [9 <./ris1.png>]
+<ris2.png, id=44, 473.51906pt x 752.0597pt>
 File: ris2.png Graphic file (type png)
 <use ris2.png>
-Package pdftex.def Info: ris2.png  used on input line 184.
+Package pdftex.def Info: ris2.png  used on input line 234.
 (pdftex.def)             Requested size: 200.0pt x 317.64162pt.
- [7 <./ris2.png>]
-<ris3.png, id=40, 508.93295pt x 486.87158pt>
+ [10 <./ris2.png>]
+<ris3.png, id=49, 508.93295pt x 486.87158pt>
 File: ris3.png Graphic file (type png)
 <use ris3.png>
-Package pdftex.def Info: ris3.png  used on input line 218.
+Package pdftex.def Info: ris3.png  used on input line 268.
 (pdftex.def)             Requested size: 300.0pt x 287.00658pt.
- [8 <./ris3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 235--237
+ [11 <./ris3.png>] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--237
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--239
+Underfull \hbox (badness 10000) in paragraph at lines 299--301
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--248
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
+Underfull \hbox (badness 10000) in paragraph at lines 308--311
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--258
+Underfull \hbox (badness 10000) in paragraph at lines 308--311
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--258
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
 
  []
 
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
 
  []
 
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.5pt on input line 290.
+(Font)              scaled to size 10.5pt on input line 343.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.9pt on input line 290.
+(Font)              scaled to size 7.9pt on input line 343.
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--293
+Underfull \hbox (badness 10000) in paragraph at lines 344--346
 
  []
 
-
-Overfull \hbox (29.42133pt too wide) detected at line 317
+[13]
+Overfull \hbox (29.42133pt too wide) detected at line 370
 \OML/ntxmi/m/it/14.4 P\LMS/ntxsy/m/n/14.4 f[] \OML/ntxmi/m/it/14.4 > \LMS/ntxsy
 /m/n/14.4 π\OT1/Tempora-TLF/m/n/14.4 1 \LMS/ntxsy/m/n/14.4 œ \OML/ntxmi/m/it/14
 .4 []\LMS/ntxsy/m/n/14.4 ∫\OML/ntxmi/m/it/14.4 na\LMS/ntxsy/m/n/14.4 g \U/ntxm
@@ -1861,40 +1881,41 @@ m/it/14.4 > []\LMS/ntxsy/m/n/14.4 ∫ œ \U/ntxmia/m/it/14.4 []\LMS/ntxsy/m/n/14.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 330--334
-
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 335--336
+Underfull \hbox (badness 10000) in paragraph at lines 383--387
 
  []
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 353.
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
+
+ []
+
+[14]
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 406.
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 353.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 406.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 353.
+LaTeX Warning: Command \cyri invalid in math mode on input line 406.
 
 Missing character: There is no Ô in font Tempora-Regular-tlf-ot1!
 Missing character: There is no  in font Tempora-Regular-tlf-ot1!
 Missing character: There is no Ë in font Tempora-Regular-tlf-ot1!
 
-Overfull \hbox (39.9179pt too wide) in paragraph at lines 363--365
+Overfull \hbox (39.9179pt too wide) in paragraph at lines 416--418
 \T2A/Tempora-TLF/m/n/14.4 ¬ ÒË-ÎÛ ÌÓ-ÏË-Ó‚-ÍË ÏË-ÌË-Ï‡Î¸-Ì˚È ˝ÎÂ-ÏÂÌÚ $\OML/n
 txmi/m/it/14.4 a[]$ \T2A/Tempora-TLF/m/n/14.4 Ò‚ˇ-Á‡Ì Ò ‚Â-ÎË-˜Ë-ÌÓÈ $\OML/ntxm
 i/m/it/14.4 l[]$\T2A/Tempora-TLF/m/n/14.4 ÒÓÓÚÌÓ¯ÂÌËÂÏ
  []
 
-[11] [12]
+[15] [16]
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 444.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 497.
 
 LaTeX Font Info:    Trying to load font information for TS1+Tempora-TLF on inpu
-t line 444.
+t line 497.
 
 (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ts1tempora-tlf.
 fd
@@ -1902,80 +1923,94 @@ File: TS1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for TS1/Tempora-
 TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 444.
+(Font)              scaled to size 14.4pt on input line 497.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 444.
-
-Missing character: There is no à in font Tempora-Regular-tlf-ot1!
-[13] [14]
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 498.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 498.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 497.
 
 Missing character: There is no à in font Tempora-Regular-tlf-ot1!
+[17]
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 501.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 501.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 551.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 501.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 501.
-
-Missing character: There is no à in font Tempora-Regular-tlf-ot1!
-Missing character: There is no à in font Tempora-Regular-tlf-ot1!
-[15]
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 560.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 560.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 551.
 
 Missing character: There is no à in font Tempora-Regular-tlf-ot1!
 
-Underfull \hbox (badness 10000) in paragraph at lines 579--580
+LaTeX Warning: Command \textbullet invalid in math mode on input line 554.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 554.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 554.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 554.
+
+Missing character: There is no à in font Tempora-Regular-tlf-ot1!
+Missing character: There is no à in font Tempora-Regular-tlf-ot1!
+[18] [19]
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 613.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 613.
+
+Missing character: There is no à in font Tempora-Regular-tlf-ot1!
+
+Underfull \hbox (badness 10000) in paragraph at lines 631--632
 
  []
 
-[16] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 586--587
+[20] [21] [22]
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 780.
+LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 780.
+LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
+(Font)              scaled to size 7.3pt on input line 780.
+LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
+(Font)              scaled to size 5.5pt on input line 780.
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
+(Font)              scaled to size 7.3pt on input line 780.
+
+Underfull \hbox (badness 10000) in paragraph at lines 805--806
 
  []
 
-[18]
+[23] [24] [25]
 (–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–≤–µ–Ω—Å—Ç–≤–æ –ß–µ
-–±—ã—à–µ–≤–∞.aux) ) 
+–±—ã—à–µ–≤–∞.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 9831 strings out of 479334
- 137950 string characters out of 2857084
- 438240 words of memory out of 3000000
- 27052 multiletter control sequences out of 15000+200000
- 497818 words of font info for 208 fonts, out of 3000000 for 9000
+ 9866 strings out of 479334
+ 138532 string characters out of 2857084
+ 440246 words of memory out of 3000000
+ 27087 multiletter control sequences out of 15000+200000
+ 515631 words of font info for 240 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,18n,75p,2232b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvip
-s/tempora/t2a-tempora.enc}{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/e
-nc/dvips/tempora/tmp_q3dzgc.enc}<C:/Users/danii/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/newtx/NewTXMI.pfb><C:/Users/danii/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/danii/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/danii/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/dan
-ii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/d
-anii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/User
-s/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb><C:/
-Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.pfb>
-<C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pf
-b>
+{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tmp_q3d
+zgc.enc}{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/t
+2a-tempora.enc}<C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/newtx/NewTXMI.pfb><C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/newtx/NewTXMI7.pfb><C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/tempora/Tempora-Bold.pfb><C:/Users/danii/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/danii/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/danii/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/danii/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb><C:/Users/danii/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.pfb><C:/Users/danii/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
 Output written on "–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–
-≤–µ–Ω—Å—Ç–≤–æ –ß–µ–±—ã—à–µ–≤–∞.pdf" (18 pages, 263010 bytes).
+≤–µ–Ω—Å—Ç–≤–æ –ß–µ–±—ã—à–µ–≤–∞.pdf" (25 pages, 282706 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
+ 142 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
