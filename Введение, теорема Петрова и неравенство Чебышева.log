@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.22)  13 JUN 2021 17:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.22)  13 JUN 2021 22:30
 entering extended mode
 **"./Р’РІРµРґРµРЅРёРµ, С‚РµРѕСЂРµРјР° РџРµС‚СЂРѕРІР° Рё РЅРµСЂР°РІРµРЅСЃС‚РІРѕ 
 Р§РµР±С‹С€РµРІР°.tex"
@@ -2037,25 +2037,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 855--856
 
  []
 
+
+Overfull \hbox (47.24602pt too wide) in paragraph at lines 865--882
+ [] 
+ []
+
 [24]
-Overfull \hbox (4.41484pt too wide) in paragraph at lines 873--874
+Overfull \hbox (4.41484pt too wide) in paragraph at lines 893--894
 []\T2A/Tempora-TLF/m/n/14.4 Интерес для даль-ней-ших ис-сле-до-ва-ний пред-став
 -ля-ет по-иск усло-вий асимп-
  []
 
 [25]
-Underfull \hbox (badness 10000) in paragraph at lines 891--892
+Underfull \hbox (badness 10000) in paragraph at lines 911--912
 
  []
 
 
-Overfull \hbox (18.08894pt too wide) in paragraph at lines 904--905
+Underfull \hbox (badness 10000) in paragraph at lines 920--921
+
+ []
+
+
+Overfull \hbox (18.08894pt too wide) in paragraph at lines 924--925
 []\T2A/Tempora-TLF/m/n/14.4 1. Ре-а-ли-за-ция ал-го-рит-ма Хельда-Карпа на язы-
 ке про-грам-ми-ро-ва-ния "Python":
  []
 
 
-Overfull \hbox (18.74123pt too wide) in paragraph at lines 906--907
+Overfull \hbox (18.74123pt too wide) in paragraph at lines 926--927
 []\T2A/Tempora-TLF/m/n/14.4 2. Ру-ко-вод-ство по ис-поль-зо-ва-нию про-грам-мы 
 "Concorde": http://comopt.ifi.uni-
  []
@@ -2085,7 +2095,7 @@ ers/CRASH/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb><C
 b><C:/Users/CRASH/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.
 pfb>
 Output written on "Р’РІРµРґРµРЅРёРµ, С‚РµРѕСЂРµРјР° РџРµС‚СЂРѕРІР° Рё РЅРµСЂР°Р
-ІРµРЅСЃС‚РІРѕ Р§РµР±С‹С€РµРІР°.pdf" (26 pages, 288466 bytes).
+ІРµРЅСЃС‚РІРѕ Р§РµР±С‹С€РµРІР°.pdf" (26 pages, 289046 bytes).
 PDF statistics:
  145 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

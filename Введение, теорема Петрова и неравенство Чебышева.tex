@@ -861,6 +861,26 @@ P\{ W(\pi)>(1+\epsilon_n)OPT \} = O(n^{-1})
 
 В случае исследования показательного распределения возникли затруднения с применением "Concorde". Приложение не может обрабатывать слишком большие веса ребер, вследствие чего возникла необходимость использования другого механизма решения. Был найден github репозиторий с реализованным на языке программирования python алгоритмом Хельда-Карпа. Данный алгоритм находит точное решение задачи за время $O(n^2 2^n)$. В приложениях также присутствуют результаты проверки времени работы алгоритма для графов различной размерности. Опыты подтвердили оценку $O(n^2 2^n)$. Полные результаты опытов можно увидеть также в приложениях, в самой же работе приводится лишь статистический итог.
 
+\begin{center}
+ \begin{tabular}{||c c c c||} 
+ \hline
+ Тип распределения & Размерность графа  & 1+$\epsilon$  & Превышений 1+$\epsilon$ \\ [0.5ex] 
+ \hline\hline
+ равномерное & 5 & 2.28755032994728 & 0 \\ 
+ \hline
+ равномерное & 10 & 1.9210340371976184 & 0 \\
+ \hline
+ равномерное & 20 & 1.599146454710798 & 0 \\
+ \hline
+ показательное & 5 & 2.6094379124341005 & 2 \\
+ \hline
+ показательное & 10 & 2.151292546497023 & 11 \\
+ \hline
+ показательное & 20 & 1.7489330683884976 & 16 \\ [1ex] 
+ \hline
+\end{tabular}
+\end{center}
+
 
 \newpage
 
@@ -897,7 +917,7 @@ P\{ W(\pi)>(1+\epsilon_n)OPT \} = O(n^{-1})
 
 2. William J. Cook, In Pursuit of the Traveling Salesman: Mathematics at the Limits of Computation. - 2012
 
-3. Gregory Gutin, Anders Yeo, Alexey Zverovich, Traveling salesman should not be greedy: domination analysis of greedy-type heuristics for the TSP - 2002
+3. Gregory Gutin, Anders Yeo, Alexey Zverovich, Traveling salesman should not be greedy: domination analysis of greedy-type heuristics for the TSP - 2002\\
 
 \textbf{Ссылки на электронные ресурсы:}
 
