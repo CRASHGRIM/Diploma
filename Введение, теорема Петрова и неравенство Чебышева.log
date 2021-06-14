@@ -1,18 +1,18 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.22)  14 JUN 2021 13:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  14 JUN 2021 17:23
 entering extended mode
 **"./–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–≤–µ–Ω—Å—Ç–≤–æ 
 –ß–µ–±—ã—à–µ–≤–∞.tex"
 
-("–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–≤–µ–Ω—Å—Ç–≤–æ –ß–
-µ–±—ã—à–µ–≤–∞.tex"
-LaTeX2e <2020-10-01> patch level 2
-L3 programming layer <2020-12-07> xparse <2020-03-03>
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extarticle.cls
+(–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–≤–µ–Ω—Å—Ç–≤–æ –ß–µ
+–±—ã—à–µ–≤–∞.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\size14.clo
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\size14.clo
 File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\exscale.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\exscale.sty
 Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
 LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
@@ -21,34 +21,34 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
 \big@size=\dimen138
 )
-\c@part=\count177
-\c@section=\count178
-\c@subsection=\count179
-\c@subsubsection=\count180
-\c@paragraph=\count181
-\c@subparagraph=\count182
-\c@figure=\count183
-\c@table=\count184
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen139
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count185
-\Gm@cntv=\count186
-\c@Gm@tempcnt=\count187
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
 \Gm@bindingoffset=\dimen140
 \Gm@wd@mp=\dimen141
 \Gm@odd@mp=\dimen142
@@ -59,21 +59,21 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layoutvoffset=\dimen147
 \Gm@dimlist=\toks16
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/tree-dvips\lingmacros.s
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tree-dvips\lingmacros.s
 ty
-\c@enums=\count188
+\c@enums=\count190
 \widelabel=\dimen148
-\c@tempcnt=\count189
-\c@enumsi=\count190
+\c@tempcnt=\count191
+\c@enumsi=\count192
 \eeindent=\dimen149
-) (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+) (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/tree-dvips\tree-dvips.s
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tree-dvips\tree-dvips.s
 ty
 tree-dvips version .91 of May 16, 1995
 \nodemargin=\dimen150
@@ -90,17 +90,17 @@ tree-dvips version .91 of May 16, 1995
 \pos@tr=\toks24
 \pos@bl=\toks25
 \pos@br=\toks26
-\@arrow=\count191
+\@arrow=\count193
 \@tempdimc=\dimen156
-) (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+) (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\t2aenc.dfu
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\t2aenc.dfu
 File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -302,31 +302,31 @@ File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
 12.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2020/10/27 3.51 The Babel package
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
-File: babel.def 2020/10/27 3.51 Babel common definitions
-\babel@savecnt=\count192
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count194
 \U@D=\dimen157
 \l@babelnohyphens=\language79
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count193
+\bbl@dirlevel=\count195
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
 df
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
@@ -336,42 +336,42 @@ Package babel Info: \l@australian = using hyphenrules for ukenglish
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language73) on input line 108.
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/babel-russian\russianb.
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/babel-russian\russianb.
 ldf
-File: russianb.ldf 2020/09/09 1.3k Russian support for the Babel system
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
 Language: russian 2020/09/09 1.3k Russian support for the Babel system
-Package babel Info: Making " an active character on input line 120.
-Package babel Info: Default for \cyrdash is provided on input line 157.
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
 ))
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
-Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count194
+\etb@tempcnta=\count196
 )
-\csq@reset=\count195
-\csq@gtype=\count196
-\csq@glevel=\count197
-\csq@qlevel=\count198
-\csq@maxlvl=\count199
-\csq@tshold=\count266
+\csq@reset=\count197
+\csq@gtype=\count198
+\csq@glevel=\count199
+\csq@qlevel=\count266
+\csq@maxlvl=\count267
+\csq@tshold=\count268
 \csq@ltx@everypar=\toks27
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
-File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
 )
 Package csquotes Info: Enabling multilingual quotes.
-) (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+) (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks28
 \symAMSa=\mathgroup4
@@ -379,33 +379,33 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+)) (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks29
 \ex@=\dimen158
 ))
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen159
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count267
+\inf@bad=\count269
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count268
-\leftroot@=\count269
+\uproot@=\count270
+\leftroot@=\count271
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count270
-\DOTSCASE@=\count271
+\classnum@=\count272
+\DOTSCASE@=\count273
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -414,15 +414,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen160
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count272
-\c@MaxMatrixCols=\count273
+\macc@depth=\count274
+\c@MaxMatrixCols=\count275
 \dotsspace@=\muskip16
-\c@parentequation=\count274
-\dspbrk@lvl=\count275
+\c@parentequation=\count276
+\dspbrk@lvl=\count277
 \tag@help=\toks30
-\row@=\count276
-\column@=\count277
-\maxfields@=\count278
+\row@=\count278
+\column@=\count279
+\maxfields@=\count280
 \andhelp@=\toks31
 \eqnshift@=\dimen161
 \alignsep@=\dimen162
@@ -437,27 +437,27 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
 fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
@@ -466,18 +466,18 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 \Gin@req@height=\dimen167
 \Gin@req@width=\dimen168
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/tempora\tempora.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tempora\tempora.sty
 Package: tempora 2016/02/02 (msharpe) Style file for Tempora.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\ot2enc.def
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\ot2enc.def
 File: ot2enc.def 2001/08/11 v3.3a Cyrillic encoding definition file
 Now handling font encoding OT2 ...
 ... processing UTF-8 mapping file for font encoding OT2
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\ot2enc.dfu
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\ot2enc.dfu
 File: ot2enc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+00AB (decimal 171)
    defining Unicode char U+00BB (decimal 187)
@@ -619,12 +619,12 @@ File: ot2enc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+201D (decimal 8221)
    defining Unicode char U+2116 (decimal 8470)
 ))
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2cenc.def
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2cenc.def
 File: t2cenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2C ...
 ... processing UTF-8 mapping file for font encoding T2C
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\t2cenc.dfu
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\t2cenc.dfu
 File: t2cenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -813,12 +813,12 @@ File: t2cenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+FB05 (decimal 64261)
    defining Unicode char U+FB06 (decimal 64262)
 ))
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2benc.def
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2benc.def
 File: t2benc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 Now handling font encoding T2B ...
 ... processing UTF-8 mapping file for font encoding T2B
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\t2benc.dfu
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\t2benc.dfu
 File: t2benc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -1011,13 +1011,13 @@ File: t2benc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
    defining Unicode char U+FB05 (decimal 64261)
    defining Unicode char U+FB06 (decimal 64262)
 ))
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\lgrenc.de
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\lgrenc.de
 f
 File: lgrenc.def 2020/10/13 2.0 LGR Greek font encoding definitions
 Now handling font encoding LGR ...
 ... processing UTF-8 mapping file for font encoding LGR
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/greek-inputenc\lgrenc.d
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/greek-inputenc\lgrenc.d
 fu
 File: lgrenc.dfu 2019/07/11 1.7 UTF-8 support for Greek
    defining Unicode char U+00A8 (decimal 168)
@@ -1369,14 +1369,14 @@ File: lgrenc.dfu 2019/07/11 1.7 UTF-8 support for Greek
    defining Unicode char U+10146 (decimal 65862)
    defining Unicode char U+10147 (decimal 65863)
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\greek-fon
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/greek-fontenc\greek-fon
 tenc.def
 File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
 )))
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
@@ -1389,36 +1389,36 @@ LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks34
 \XKV@tempa@toks=\toks35
 )
-\XKV@depth=\count279
+\XKV@depth=\count281
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))) (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
+))) (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
 Package: newtxmath 2021/03/27 v1.642
 
 `newtxmath' v1.642, 2021/03/27 Math macros based originally on txfonts (msharpe
-) (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+) (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
-\tx@cntz=\count280
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
-\tx@Isdigit=\count281
-\tx@IsAlNum=\count282
+\tx@cntz=\count282
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+\tx@Isdigit=\count283
+\tx@IsAlNum=\count284
 \tx@tA=\toks36
 \tx@tB=\toks37
 \tx@su=\read3
@@ -1533,7 +1533,7 @@ Package csquotes Info: ... found 'babel' package.
 LaTeX Font Info:    Trying to load font information for T1+Tempora-TLF on input
  line 23.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/tempora\t1tempora-tlf.f
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tempora\t1tempora-tlf.f
 d
 File: T1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for T1/Tempora-TL
 F.
@@ -1541,18 +1541,18 @@ F.
 LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 23.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
-File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count283
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box49
 )
-("–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–≤–µ–Ω—Å—Ç–≤–æ –ß–
-µ–±—ã—à–µ–≤–∞.aux"
+(–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–≤–µ–Ω—Å—Ç–≤–æ –ß–µ
+–±—ã—à–µ–≤–∞.aux
 LaTeX Font Info:    Trying to load font information for T2A+Tempora-TLF on inpu
 t line 5.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/tempora\t2atempora-tlf.
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tempora\t2atempora-tlf.
 fd
 File: t2atempora-tlf.fd 2015/09/13 Font definitions for T2A/Tempora-TLF.
 )
@@ -1565,7 +1565,7 @@ LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 23.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
  23.
- (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
+ (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
 LaTeX Font Info:    ... okay on input line 23.
@@ -1582,7 +1582,7 @@ LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
 23.
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
 LaTeX Font Info:    ... okay on input line 23.
@@ -1592,7 +1592,7 @@ LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for OT2+cmr on input line 2
 3.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\ot2cmr.fd
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\ot2cmr.fd
 File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
 )
 LaTeX Font Info:    ... okay on input line 23.
@@ -1600,7 +1600,7 @@ LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for T2C+cmr on input line 2
 3.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2ccmr.fd
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2ccmr.fd
 File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 LaTeX Font Info:    ... okay on input line 23.
@@ -1608,7 +1608,7 @@ LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for T2B+cmr on input line 2
 3.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2bcmr.fd
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2bcmr.fd
 File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 LaTeX Font Info:    ... okay on input line 23.
@@ -1616,7 +1616,7 @@ LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 2
 3.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
 LaTeX Font Info:    ... okay on input line 23.
@@ -1624,7 +1624,7 @@ LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
  23.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
 LaTeX Font Info:    ... okay on input line 23.
@@ -1632,7 +1632,7 @@ LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 23.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
 e 23.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
 LaTeX Font Info:    ... okay on input line 23.
@@ -1673,29 +1673,29 @@ LaTeX Font Info:    ... okay on input line 23.
 
 LaTeX Info: Redefining \th on input line 23.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count284
+\scratchcounter=\count286
 \scratchdimen=\dimen169
 \scratchbox=\box50
-\nofMPsegments=\count285
-\nofMParguments=\count286
+\nofMPsegments=\count287
+\nofMParguments=\count288
 \everyMPshowfont=\toks39
-\MPscratchCnt=\count287
+\MPscratchCnt=\count289
 \MPscratchDim=\dimen170
-\MPnumerator=\count288
-\makeMPintoPDFobject=\count289
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
 \everyMPtoPDFconversion=\toks40
 )
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-\c@mv@tabular=\count290
-\c@mv@boldtabular=\count291
+\c@mv@tabular=\count292
+\c@mv@boldtabular=\count293
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 28.
 
@@ -1718,11 +1718,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
 Non-PDF special ignored!
 <special> header=tree-dvips91.pro
-{C:/Users/CRASH/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+{C:/Users/danii/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for OT1+Tempora-TLF on inpu
 t line 64.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ot1tempora-tlf.
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ot1tempora-tlf.
 fd
 File: OT1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for OT1/Tempora-
 TLF.
@@ -1735,31 +1735,31 @@ LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
 (Font)              scaled to size 7.9pt on input line 64.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
 
- (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+ (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
 
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
 64.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
 64.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
 64.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 Underfull \hbox (badness 10000) in paragraph at lines 54--69
@@ -1807,49 +1807,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--137
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--148
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
 
  []
 
 [7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 238--240
+Underfull \hbox (badness 10000) in paragraph at lines 240--242
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--242
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
 <ris1.png, id=39, 502.87875pt x 549.55313pt>
 File: ris1.png Graphic file (type png)
 <use ris1.png>
-Package pdftex.def Info: ris1.png  used on input line 255.
+Package pdftex.def Info: ris1.png  used on input line 257.
 (pdftex.def)             Requested size: 300.0pt x 327.8393pt.
 [9] [10 <./ris1.png>]
 <ris2.png, id=47, 473.51906pt x 752.0597pt>
 File: ris2.png Graphic file (type png)
 <use ris2.png>
-Package pdftex.def Info: ris2.png  used on input line 275.
+Package pdftex.def Info: ris2.png  used on input line 277.
 (pdftex.def)             Requested size: 200.0pt x 317.64162pt.
  [11 <./ris2.png>]
 <ris3.png, id=52, 508.93295pt x 486.87158pt>
 File: ris3.png Graphic file (type png)
 <use ris3.png>
-Package pdftex.def Info: ris3.png  used on input line 309.
+Package pdftex.def Info: ris3.png  used on input line 311.
 (pdftex.def)             Requested size: 300.0pt x 287.00658pt.
  [12 <./ris3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 333--334
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
 
  []
 
@@ -1859,51 +1854,61 @@ Underfull \hbox (badness 10000) in paragraph at lines 335--336
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--346
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
+Underfull \hbox (badness 10000) in paragraph at lines 346--348
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--356
+Underfull \hbox (badness 10000) in paragraph at lines 353--354
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--356
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--359
+Underfull \hbox (badness 10000) in paragraph at lines 362--364
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--364
 
  []
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 375--376
+Underfull \hbox (badness 10000) in paragraph at lines 366--367
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--380
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
 
  []
 
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.5pt on input line 383.
+(Font)              scaled to size 10.5pt on input line 391.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.9pt on input line 383.
+(Font)              scaled to size 7.9pt on input line 391.
 
-Underfull \hbox (badness 10000) in paragraph at lines 384--386
+Underfull \hbox (badness 10000) in paragraph at lines 392--394
 
  []
 
 
-Overfull \hbox (29.42133pt too wide) detected at line 410
+Overfull \hbox (29.42133pt too wide) detected at line 418
 \OML/ntxmi/m/it/14.4 P\LMS/ntxsy/m/n/14.4 f[] \OML/ntxmi/m/it/14.4 > \LMS/ntxsy
 /m/n/14.4 π\OT1/Tempora-TLF/m/n/14.4 1 \LMS/ntxsy/m/n/14.4 œ \OML/ntxmi/m/it/14
 .4 []\LMS/ntxsy/m/n/14.4 ∫\OML/ntxmi/m/it/14.4 na\LMS/ntxsy/m/n/14.4 g \U/ntxm
@@ -1915,188 +1920,197 @@ m/it/14.4 > []\LMS/ntxsy/m/n/14.4 ∫ œ \U/ntxmia/m/it/14.4 []\LMS/ntxsy/m/n/14.
 4 g
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 423--427
-
- []
-
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 428--429
+Underfull \hbox (badness 10000) in paragraph at lines 431--435
 
  []
 
 
-LaTeX Warning: Command \cyrp invalid in math mode on input line 446.
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
+
+ []
 
 
-LaTeX Warning: Command \cyrr invalid in math mode on input line 446.
+LaTeX Warning: Command \cyrp invalid in math mode on input line 454.
 
 
-LaTeX Warning: Command \cyri invalid in math mode on input line 446.
+LaTeX Warning: Command \cyrr invalid in math mode on input line 454.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 454.
 
 Missing character: There is no Ô in font Tempora-Regular-tlf-ot1!
 Missing character: There is no  in font Tempora-Regular-tlf-ot1!
 Missing character: There is no Ë in font Tempora-Regular-tlf-ot1!
 
-Overfull \hbox (39.9179pt too wide) in paragraph at lines 456--458
+Overfull \hbox (39.9179pt too wide) in paragraph at lines 464--466
 \T2A/Tempora-TLF/m/n/14.4 ¬ ÒË-ÎÛ ÌÓ-ÏË-Ó‚-ÍË ÏË-ÌË-Ï‡Î¸-Ì˚È ˝ÎÂ-ÏÂÌÚ $\OML/n
 txmi/m/it/14.4 a[]$ \T2A/Tempora-TLF/m/n/14.4 Ò‚ˇ-Á‡Ì Ò ‚Â-ÎË-˜Ë-ÌÓÈ $\OML/ntxm
 i/m/it/14.4 l[]$\T2A/Tempora-TLF/m/n/14.4 ÒÓÓÚÌÓ¯ÂÌËÂÏ
  []
 
-[15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 522--523
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 530--531
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 524--525
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
 
  []
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 537.
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+
+ []
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 545.
 
 LaTeX Font Info:    Trying to load font information for TS1+Tempora-TLF on inpu
-t line 537.
+t line 545.
 
-(C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ts1tempora-tlf.
+(C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ts1tempora-tlf.
 fd
 File: TS1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for TS1/Tempora-
 TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 537.
+(Font)              scaled to size 14.4pt on input line 545.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 537.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 545.
 
 Missing character: There is no à in font Tempora-Regular-tlf-ot1!
 [17] [18]
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 591.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 599.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 591.
-
-Missing character: There is no à in font Tempora-Regular-tlf-ot1!
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 594.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 594.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 594.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 594.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 599.
 
 Missing character: There is no à in font Tempora-Regular-tlf-ot1!
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 602.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 602.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 602.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 602.
+
 Missing character: There is no à in font Tempora-Regular-tlf-ot1!
-
-Underfull \hbox (badness 10000) in paragraph at lines 610--611
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 612--613
-
- []
-
+Missing character: There is no à in font Tempora-Regular-tlf-ot1!
 [19]
+Underfull \hbox (badness 10000) in paragraph at lines 618--619
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 655.
+ []
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 655.
+Underfull \hbox (badness 10000) in paragraph at lines 620--621
+
+ []
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 663.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 663.
 
 Missing character: There is no à in font Tempora-Regular-tlf-ot1!
-
-Underfull \hbox (badness 10000) in paragraph at lines 673--674
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 681--682
 
  []
 
-[20] [21] [22]
+[21] [22]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 822.
+(Font)              scaled to size 10.0pt on input line 829.
 LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 822.
+(Font)              scaled to size 10.0pt on input line 829.
 LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 822.
+(Font)              scaled to size 7.3pt on input line 829.
 LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 822.
+(Font)              scaled to size 5.5pt on input line 829.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 822.
+(Font)              scaled to size 7.3pt on input line 829.
+ [23]
+Underfull \hbox (badness 10000) in paragraph at lines 854--855
 
-Underfull \hbox (badness 10000) in paragraph at lines 847--848
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 858--859
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 851--852
-
- []
-
-[23]
-Overfull \hbox (47.24602pt too wide) in paragraph at lines 861--878
+Overfull \hbox (47.24602pt too wide) in paragraph at lines 868--885
  [] 
  []
 
 [24] [25]
-Overfull \hbox (4.41484pt too wide) in paragraph at lines 892--893
+Overfull \hbox (4.41484pt too wide) in paragraph at lines 904--905
 []\T2A/Tempora-TLF/m/n/14.4 »ÌÚÂÂÒ ‰Îˇ ‰‡Î¸-ÌÂÈ-¯Ëı ËÒ-ÒÎÂ-‰Ó-‚‡-ÌËÈ ÔÂ‰-ÒÚ‡‚
 -Îˇ-ÂÚ ÔÓ-ËÒÍ ÛÒÎÓ-‚ËÈ ‡ÒËÏÔ-
  []
 
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 910--911
+Underfull \hbox (badness 10000) in paragraph at lines 920--921
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 919--920
+Underfull \hbox (badness 10000) in paragraph at lines 929--930
 
  []
 
 
-Overfull \hbox (18.08894pt too wide) in paragraph at lines 923--924
+Overfull \hbox (18.08894pt too wide) in paragraph at lines 933--934
 []\T2A/Tempora-TLF/m/n/14.4 1. –Â-‡-ÎË-Á‡-ˆËˇ ‡Î-„Ó-ËÚ-Ï‡ ’ÂÎ¸‰‡- ‡Ô‡ Ì‡ ˇÁ˚-
 ÍÂ ÔÓ-„‡Ï-ÏË-Ó-‚‡-ÌËˇ "Python":
  []
 
 
-Overfull \hbox (18.74123pt too wide) in paragraph at lines 925--926
+Overfull \hbox (18.74123pt too wide) in paragraph at lines 935--936
 []\T2A/Tempora-TLF/m/n/14.4 2. –Û-ÍÓ-‚Ó‰-ÒÚ‚Ó ÔÓ ËÒ-ÔÓÎ¸-ÁÓ-‚‡-ÌË˛ ÔÓ-„‡Ï-Ï˚ 
 "Concorde": http://comopt.ifi.uni-
  []
 
 [27]
-("–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–≤–µ–Ω—Å—Ç–≤–æ –ß–
-µ–±—ã—à–µ–≤–∞.aux") ) 
+(–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–≤–µ–Ω—Å—Ç–≤–æ –ß–µ
+–±—ã—à–µ–≤–∞.aux) ) 
 Here is how much of TeX's memory you used:
- 9835 strings out of 479697
- 138077 string characters out of 2867132
- 421797 words of memory out of 3000000
- 26696 multiletter control sequences out of 15000+200000
+ 9868 strings out of 479334
+ 138562 string characters out of 2857084
+ 440247 words of memory out of 3000000
+ 27089 multiletter control sequences out of 15000+200000
  515631 words of font info for 240 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,18n,73p,2248b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/CRASH/AppData/Local/Programs/MiKTeX/fonts/enc/dv
-ips/tempora/tmp_q3dzgc.enc}{C:/Users/CRASH/AppData/Local/Programs/MiKTeX/fonts/
-enc/dvips/tempora/t2a-tempora.enc}<C:/Users/CRASH/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/CRASH/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/CRASH/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/CRASH/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/C
-RASH/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users
-/CRASH/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Us
-ers/CRASH/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb><C
-:/Users/CRASH/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.pf
-b><C:/Users/CRASH/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.
-pfb>
+ 68i,18n,75p,2248b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvip
+s/tempora/tmp_q3dzgc.enc}{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/en
+c/dvips/tempora/t2a-tempora.enc}<C:/Users/danii/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/newtx/NewTXMI.pfb><C:/Users/danii/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/danii/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/danii/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/dan
+ii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/d
+anii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/User
+s/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb><C:/
+Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.pfb>
+<C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pf
+b>
 Output written on "–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–
-≤–µ–Ω—Å—Ç–≤–æ –ß–µ–±—ã—à–µ–≤–∞.pdf" (27 pages, 290457 bytes).
+≤–µ–Ω—Å—Ç–≤–æ –ß–µ–±—ã—à–µ–≤–∞.pdf" (27 pages, 292841 bytes).
 PDF statistics:
  148 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
