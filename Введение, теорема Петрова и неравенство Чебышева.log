@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.22)  13 JUN 2021 22:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.22)  14 JUN 2021 13:56
 entering extended mode
 **"./–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–≤–µ–Ω—Å—Ç–≤–æ 
 –ß–µ–±—ã—à–µ–≤–∞.tex"
@@ -1945,20 +1945,20 @@ i/m/it/14.4 l[]$\T2A/Tempora-TLF/m/n/14.4 ÒÓÓÚÌÓ¯ÂÌËÂÏ
  []
 
 [15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 524--525
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 526--527
-
- []
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 541.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 537.
 
 LaTeX Font Info:    Trying to load font information for TS1+Tempora-TLF on inpu
-t line 541.
+t line 537.
 
 (C:\Users\CRASH\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ts1tempora-tlf.
 fd
@@ -1966,117 +1966,118 @@ File: TS1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for TS1/Tempora-
 TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 541.
+(Font)              scaled to size 14.4pt on input line 537.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 541.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 537.
 
 Missing character: There is no à in font Tempora-Regular-tlf-ot1!
 [17] [18]
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 595.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 591.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 595.
-
-Missing character: There is no à in font Tempora-Regular-tlf-ot1!
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 598.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 598.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 598.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 598.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 591.
 
 Missing character: There is no à in font Tempora-Regular-tlf-ot1!
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 594.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 594.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 594.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 594.
+
 Missing character: There is no à in font Tempora-Regular-tlf-ot1!
+Missing character: There is no à in font Tempora-Regular-tlf-ot1!
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--611
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 612--613
+
+ []
+
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 614--615
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 616--617
-
- []
+LaTeX Warning: Command \textbullet invalid in math mode on input line 655.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 659.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 659.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 655.
 
 Missing character: There is no à in font Tempora-Regular-tlf-ot1!
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 677--678
+
+Underfull \hbox (badness 10000) in paragraph at lines 673--674
 
  []
 
-[21] [22]
+[20] [21] [22]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 826.
+(Font)              scaled to size 10.0pt on input line 822.
 LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 826.
+(Font)              scaled to size 10.0pt on input line 822.
 LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 826.
+(Font)              scaled to size 7.3pt on input line 822.
 LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 826.
+(Font)              scaled to size 5.5pt on input line 822.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 826.
- [23]
+(Font)              scaled to size 7.3pt on input line 822.
+
+Underfull \hbox (badness 10000) in paragraph at lines 847--848
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 851--852
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 855--856
-
- []
-
-
-Overfull \hbox (47.24602pt too wide) in paragraph at lines 865--882
+[23]
+Overfull \hbox (47.24602pt too wide) in paragraph at lines 861--878
  [] 
  []
 
-[24]
-Overfull \hbox (4.41484pt too wide) in paragraph at lines 893--894
+[24] [25]
+Overfull \hbox (4.41484pt too wide) in paragraph at lines 892--893
 []\T2A/Tempora-TLF/m/n/14.4 »ÌÚÂÂÒ ‰Îˇ ‰‡Î¸-ÌÂÈ-¯Ëı ËÒ-ÒÎÂ-‰Ó-‚‡-ÌËÈ ÔÂ‰-ÒÚ‡‚
 -Îˇ-ÂÚ ÔÓ-ËÒÍ ÛÒÎÓ-‚ËÈ ‡ÒËÏÔ-
  []
 
-[25]
-Underfull \hbox (badness 10000) in paragraph at lines 911--912
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 910--911
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 920--921
+Underfull \hbox (badness 10000) in paragraph at lines 919--920
 
  []
 
 
-Overfull \hbox (18.08894pt too wide) in paragraph at lines 924--925
+Overfull \hbox (18.08894pt too wide) in paragraph at lines 923--924
 []\T2A/Tempora-TLF/m/n/14.4 1. –Â-‡-ÎË-Á‡-ˆËˇ ‡Î-„Ó-ËÚ-Ï‡ ’ÂÎ¸‰‡- ‡Ô‡ Ì‡ ˇÁ˚-
 ÍÂ ÔÓ-„‡Ï-ÏË-Ó-‚‡-ÌËˇ "Python":
  []
 
 
-Overfull \hbox (18.74123pt too wide) in paragraph at lines 926--927
+Overfull \hbox (18.74123pt too wide) in paragraph at lines 925--926
 []\T2A/Tempora-TLF/m/n/14.4 2. –Û-ÍÓ-‚Ó‰-ÒÚ‚Ó ÔÓ ËÒ-ÔÓÎ¸-ÁÓ-‚‡-ÌË˛ ÔÓ-„‡Ï-Ï˚ 
 "Concorde": http://comopt.ifi.uni-
  []
 
-[26]
+[27]
 ("–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–≤–µ–Ω—Å—Ç–≤–æ –ß–
 µ–±—ã—à–µ–≤–∞.aux") ) 
 Here is how much of TeX's memory you used:
  9835 strings out of 479697
  138077 string characters out of 2867132
- 422797 words of memory out of 3000000
+ 421797 words of memory out of 3000000
  26696 multiletter control sequences out of 15000+200000
  515631 words of font info for 240 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2095,9 +2096,9 @@ ers/CRASH/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb><C
 b><C:/Users/CRASH/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.
 pfb>
 Output written on "–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–
-≤–µ–Ω—Å—Ç–≤–æ –ß–µ–±—ã—à–µ–≤–∞.pdf" (26 pages, 289046 bytes).
+≤–µ–Ω—Å—Ç–≤–æ –ß–µ–±—ã—à–µ–≤–∞.pdf" (27 pages, 290457 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
+ 148 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
