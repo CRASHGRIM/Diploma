@@ -1,0 +1,18 @@
+\babel@toc {russian}{}
+\contentsline {section}{ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ}{4}{}%
+\contentsline {section}{\numberline {1}ВВЕДЕНИЕ}{5}{}%
+\contentsline {subsection}{\numberline {1.1}Постановка задачи}{5}{}%
+\contentsline {subsection}{\numberline {1.2}Приложения задачи}{5}{}%
+\contentsline {subsection}{\numberline {1.3}Математическая модель для задачи коммивояжера}{6}{}%
+\contentsline {section}{\numberline {2}ОСНОВНАЯ ЧАСТЬ}{8}{}%
+\contentsline {subsection}{\numberline {2.1}Исследование асимптотики алгоритма ИБГ при метрической постановке задачи TSP}{8}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Верхняя оценка оптимальности}{8}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Нижняя оценка оптимальности}{10}{}%
+\contentsline {subsection}{\numberline {2.2}Условия асимптотической оптимальности жадного алгоритма}{14}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Общее условие асимптотической оптимальности}{15}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Вероятностный анализ ИБГ для равномерного распределения}{18}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}Вероятностный анализ ИБГ для $\beta $ - распределения}{21}{}%
+\contentsline {subsubsection}{\numberline {2.2.4}Вероятностный анализ ИБГ для показательного распределения}{22}{}%
+\contentsline {subsection}{\numberline {2.3}Опытные исследования работы алгоритма ИБГ}{25}{}%
+\contentsline {section}{\numberline {3}ЗАКЛЮЧЕНИЕ}{27}{}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ И ЛИТЕРАТУРЫ}{28}{}%
