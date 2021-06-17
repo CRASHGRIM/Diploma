@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  17 JUN 2021 17:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  17 JUN 2021 21:20
 entering extended mode
 **"./–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–≤–µ–Ω—Å—Ç–≤–æ 
 –ß–µ–±—ã—à–µ–≤–∞.tex"
@@ -1804,18 +1804,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.5pt on input line 115.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 115.
-LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 115.
-LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 115.
-LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 115.
-LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 115.
 [5]
 Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
@@ -1913,6 +1901,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 417--418
  []
 
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
+(Font)              scaled to size 10.5pt on input line 424.
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 7.9pt on input line 424.
 
 Underfull \hbox (badness 10000) in paragraph at lines 425--427
@@ -1920,7 +1910,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 425--427
  []
 
 [15]
-Overfull \hbox (29.42133pt too wide) detected at line 451
+Overfull \hbox (9.49954pt too wide) detected at line 451
 \OML/ntxmi/m/it/14.4 P\LMS/ntxsy/m/n/14.4 f[] \OML/ntxmi/m/it/14.4 > \LMS/ntxsy
 /m/n/14.4 π\OT1/Tempora-TLF/m/n/14.4 1 \LMS/ntxsy/m/n/14.4 œ \OML/ntxmi/m/it/14
 .4 []\LMS/ntxsy/m/n/14.4 ∫\OML/ntxmi/m/it/14.4 na\LMS/ntxsy/m/n/14.4 g \U/ntxm
@@ -2045,57 +2035,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 902--903
  []
 
 
-Overfull \hbox (25.64603pt too wide) in paragraph at lines 906--922
+Overfull \hbox (25.64603pt too wide) in paragraph at lines 906--938
  [] 
  []
 
 [25]
-Overfull \hbox (0.3559pt too wide) in paragraph at lines 929--930
+Overfull \hbox (0.3559pt too wide) in paragraph at lines 945--946
 []\T2A/Tempora-TLF/m/n/14.4 ŒÚÒÛÚÒÚ‚ËÂ ÌÂÒ‡-·‡-Ú˚-‚‡-ÌËÈ ‚ ÒÎÛ-˜‡Â ‡‚-ÌÓ-ÏÂ-
 ÌÓ-„Ó ‡-ÒÔÂ-‰Â-ÎÂ-ÌËˇ ÏÓÊ-
  []
 
 [26] [27]
-Underfull \hbox (badness 10000) in paragraph at lines 966--967
+Underfull \hbox (badness 10000) in paragraph at lines 982--983
 
  []
 
 
-Overfull \hbox (7.53294pt too wide) in paragraph at lines 971--972
+Overfull \hbox (7.53294pt too wide) in paragraph at lines 987--988
 \T2A/Tempora-TLF/m/n/14.4 Zverovitch, A.. The travelling salesman problem and i
 ts variations. Kluwer Academic
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 991--992
+
+ []
+
 [28]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 993.
+(Font)              scaled to size 12.0pt on input line 1011.
 
 (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 996.
+(Font)              scaled to size 12.0pt on input line 1014.
 
-Overfull \hbox (41.73471pt too wide) in paragraph at lines 1002--1003
+Overfull \hbox (41.73471pt too wide) in paragraph at lines 1020--1021
 [][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (5.73434pt too wide) in paragraph at lines 1013--1014
+Overfull \hbox (5.73434pt too wide) in paragraph at lines 1031--1032
 [][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 1016.
+(Font)              scaled to size 12.0pt on input line 1034.
 
-Overfull \hbox (12.93442pt too wide) in paragraph at lines 1035--1036
+Overfull \hbox (12.93442pt too wide) in paragraph at lines 1053--1054
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 1036.
+(Font)              scaled to size 12.0pt on input line 1054.
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 1036.
+(Font)              scaled to size 12.0pt on input line 1054.
 [29]
 Missing character: There is no   in font Tempora-Regular-TLF-t2a!
 Missing character: There is no   in font Tempora-Regular-TLF-t2a!
@@ -2109,11 +2104,11 @@ LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 5.
 ) ) 
 Here is how much of TeX's memory you used:
- 12033 strings out of 479334
- 167225 string characters out of 2857084
- 690370 words of memory out of 3000000
- 29224 multiletter control sequences out of 15000+200000
- 546342 words of font info for 282 fonts, out of 3000000 for 9000
+ 11999 strings out of 479334
+ 166676 string characters out of 2857084
+ 690357 words of memory out of 3000000
+ 29192 multiletter control sequences out of 15000+200000
+ 527960 words of font info for 248 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,18n,75p,2304b,1705s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tmp_ac
@@ -2132,7 +2127,7 @@ C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.p
 fb><C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys
 .pfb>
 Output written on "–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–
-≤–µ–Ω—Å—Ç–≤–æ –ß–µ–±—ã—à–µ–≤–∞.pdf" (30 pages, 390831 bytes).
+≤–µ–Ω—Å—Ç–≤–æ –ß–µ–±—ã—à–µ–≤–∞.pdf" (30 pages, 390677 bytes).
 PDF statistics:
  170 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
