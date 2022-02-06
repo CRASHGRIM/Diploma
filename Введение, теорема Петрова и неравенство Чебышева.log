@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  17 JUN 2021 21:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  6 FEB 2022 16:03
 entering extended mode
 **"./Введение, теорема Петрова и неравенство 
 Чебышева.tex"
@@ -1809,7 +1809,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
  []
 
-<ris_example.png, id=23, 236.38312pt x 216.81pt>
+<ris_example.png, id=24, 236.38312pt x 216.81pt>
 File: ris_example.png Graphic file (type png)
 <use ris_example.png>
 Package pdftex.def Info: ris_example.png  used on input line 131.
@@ -2104,10 +2104,10 @@ LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 5.
 ) ) 
 Here is how much of TeX's memory you used:
- 11999 strings out of 479334
- 166676 string characters out of 2857084
+ 11998 strings out of 479334
+ 166661 string characters out of 2857084
  690357 words of memory out of 3000000
- 29192 multiletter control sequences out of 15000+200000
+ 29191 multiletter control sequences out of 15000+200000
  527960 words of font info for 248 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,18n,75p,2304b,1705s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2127,7 +2127,7 @@ C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.p
 fb><C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys
 .pfb>
 Output written on "Введение, теорема Петрова и нера�
-�енство Чебышева.pdf" (30 pages, 390677 bytes).
+�енство Чебышева.pdf" (30 pages, 391157 bytes).
 PDF statistics:
  170 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
