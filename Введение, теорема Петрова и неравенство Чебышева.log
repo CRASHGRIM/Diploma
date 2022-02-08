@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  6 FEB 2022 16:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  8 FEB 2022 09:32
 entering extended mode
 **"./Введение, теорема Петрова и неравенство 
 Чебышева.tex"
@@ -1910,16 +1910,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 425--427
  []
 
 [15]
-Overfull \hbox (9.49954pt too wide) detected at line 451
+Overfull \hbox (12.29312pt too wide) detected at line 451
 \OML/ntxmi/m/it/14.4 P\LMS/ntxsy/m/n/14.4 f[] \OML/ntxmi/m/it/14.4 > \LMS/ntxsy
 /m/n/14.4 �\OT1/Tempora-TLF/m/n/14.4 1 \LMS/ntxsy/m/n/14.4 � \OML/ntxmi/m/it/14
-.4 []\LMS/ntxsy/m/n/14.4 �\OML/ntxmi/m/it/14.4 na\LMS/ntxsy/m/n/14.4 g \U/ntxm
+.4 "[]\LMS/ntxsy/m/n/14.4 �\OML/ntxmi/m/it/14.4 na\LMS/ntxsy/m/n/14.4 g \U/ntxm
 ia/m/it/14.4 = \OML/ntxmi/m/it/14.4 P\LMS/ntxsy/m/n/14.4 f[] \OML/ntxmi/m/it/14
 .4 > [] \LMS/ntxsy/m/n/14.4 � ��\OT1/Tempora-TLF/m/n/14.4 1 \LMS/ntxsy/m/n/14.4
- � \OML/ntxmi/m/it/14.4 []\LMS/ntxsy/m/n/14.4 �\OML/ntxmi/m/it/14.4 na \LMS/nt
-xsy/m/n/14.4   []�g  \OML/ntxmi/m/it/14.4 P\LMS/ntxsy/m/n/14.4 f[] \OML/ntxmi/
-m/it/14.4 > []\LMS/ntxsy/m/n/14.4 � � \U/ntxmia/m/it/14.4 []\LMS/ntxsy/m/n/14.
-4 g
+ � \OML/ntxmi/m/it/14.4 "[]\LMS/ntxsy/m/n/14.4 �\OML/ntxmi/m/it/14.4 na \LMS/nt
+xsy/m/n/14.4   []�g \U/ntxsym/m/n/14.4 � \OML/ntxmi/m/it/14.4 P\LMS/ntxsy/m/n/1
+4.4 f[] \OML/ntxmi/m/it/14.4 > []\LMS/ntxsy/m/n/14.4 � � \U/ntxmia/m/it/14.4 [
+]\LMS/ntxsy/m/n/14.4 g
  []
 
 
@@ -2035,7 +2035,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 902--903
  []
 
 
-Overfull \hbox (25.64603pt too wide) in paragraph at lines 906--938
+Overfull \hbox (26.2364pt too wide) in paragraph at lines 906--938
  [] 
  []
 
@@ -2110,7 +2110,7 @@ Here is how much of TeX's memory you used:
  29191 multiletter control sequences out of 15000+200000
  527960 words of font info for 248 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,18n,75p,2304b,1705s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,18n,75p,2309b,1705s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tmp_ac
 5xuc.enc}{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/
 t2a-tempora.enc}{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/t
@@ -2127,7 +2127,7 @@ C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.p
 fb><C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys
 .pfb>
 Output written on "Введение, теорема Петрова и нера�
-�енство Чебышева.pdf" (30 pages, 391157 bytes).
+�енство Чебышева.pdf" (30 pages, 391225 bytes).
 PDF statistics:
  170 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
