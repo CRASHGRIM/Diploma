@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  8 FEB 2022 09:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  8 FEB 2022 23:53
 entering extended mode
 **"./Р’РІРµРґРµРЅРёРµ, С‚РµРѕСЂРµРјР° РџРµС‚СЂРѕРІР° Рё РЅРµСЂР°РІРµРЅСЃС‚РІРѕ 
 Р§РµР±С‹С€РµРІР°.tex"
@@ -1932,36 +1932,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 469--470
 
  []
 
-
-LaTeX Warning: Command \cyrp invalid in math mode on input line 487.
-
-
-LaTeX Warning: Command \cyrr invalid in math mode on input line 487.
-
-
-LaTeX Warning: Command \cyri invalid in math mode on input line 487.
-
-Missing character: There is no п in font Tempora-Regular-tlf-ot1!
-Missing character: There is no р in font Tempora-Regular-tlf-ot1!
-Missing character: There is no и in font Tempora-Regular-tlf-ot1!
-[16]
-Overfull \hbox (39.9179pt too wide) in paragraph at lines 497--499
-\T2A/Tempora-TLF/m/n/14.4 В си-лу нор-ми-ров-ки ми-ни-маль-ный эле-мент $\OML/n
-txmi/m/it/14.4 a[]$ \T2A/Tempora-TLF/m/n/14.4 свя-зан с ве-ли-чи-ной $\OML/ntxm
-i/m/it/14.4 l[]$\T2A/Tempora-TLF/m/n/14.4 соотношением
- []
-
-[17]
+[16] [17]
 Underfull \hbox (badness 10000) in paragraph at lines 542--543
 
  []
 
-
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 563--564
 
  []
 
-[18]
+
 Underfull \hbox (badness 10000) in paragraph at lines 574--575
 
  []
@@ -1984,7 +1965,7 @@ LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
 LaTeX Warning: Command \textbullet invalid in math mode on input line 580.
 
 Missing character: There is no € in font Tempora-Regular-tlf-ot1!
-[19]
+[19] [20]
 
 LaTeX Warning: Command \textbullet invalid in math mode on input line 634.
 
@@ -2006,7 +1987,7 @@ LaTeX Warning: Command \textbullet invalid in math mode on input line 637.
 
 Missing character: There is no € in font Tempora-Regular-tlf-ot1!
 Missing character: There is no € in font Tempora-Regular-tlf-ot1!
-[20]
+
 Underfull \hbox (badness 10000) in paragraph at lines 653--654
 
  []
@@ -2017,6 +1998,7 @@ LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
 (Font)              scaled to size 12.5pt on input line 656.
 LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
 (Font)              scaled to size 9.4pt on input line 656.
+[21]
 
 LaTeX Warning: Command \textbullet invalid in math mode on input line 700.
 
@@ -2024,7 +2006,7 @@ LaTeX Warning: Command \textbullet invalid in math mode on input line 700.
 LaTeX Warning: Command \textbullet invalid in math mode on input line 700.
 
 Missing character: There is no € in font Tempora-Regular-tlf-ot1!
-[21] [22] [23] [24]
+[22] [23] [24] [25]
 Underfull \hbox (badness 10000) in paragraph at lines 891--892
 
  []
@@ -2039,13 +2021,13 @@ Overfull \hbox (26.2364pt too wide) in paragraph at lines 906--938
  [] 
  []
 
-[25]
+[26]
 Overfull \hbox (0.3559pt too wide) in paragraph at lines 945--946
 []\T2A/Tempora-TLF/m/n/14.4 Отсутствие несра-ба-ты-ва-ний в слу-чае рав-но-мер-
 но-го ар-спре-де-ле-ния мож-
  []
 
-[26] [27]
+[27] [28]
 Underfull \hbox (badness 10000) in paragraph at lines 982--983
 
  []
@@ -2061,7 +2043,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 991--992
 
  []
 
-[28]
+[29]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 1011.
 
@@ -2091,18 +2073,22 @@ LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 1054.
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 1054.
-[29]
+[30]
 Missing character: There is no   in font Tempora-Regular-TLF-t2a!
 Missing character: There is no   in font Tempora-Regular-TLF-t2a!
 Missing character: There is no   in font Tempora-Regular-TLF-t2a!
 Missing character: There is no   in font Tempora-Regular-TLF-t2a!
 Missing character: There is no   in font Tempora-Regular-TLF-t2a!
- [30]
+ [31]
 (Р’РІРµРґРµРЅРёРµ, С‚РµРѕСЂРµРјР° РџРµС‚СЂРѕРІР° Рё РЅРµСЂР°РІРµРЅСЃС‚РІРѕ Р§Рµ
 Р±С‹С€РµРІР°.aux
 LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 5.
-) ) 
+)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
  11998 strings out of 479334
  166661 string characters out of 2857084
@@ -2111,25 +2097,25 @@ Here is how much of TeX's memory you used:
  527960 words of font info for 248 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,18n,75p,2309b,1705s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tmp_ac
-5xuc.enc}{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/
-t2a-tempora.enc}{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/t
-empora/tmp_q3dzgc.enc}<C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/newtx/NewTXMI.pfb><C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/newtx/NewTXMI7.pfb><C:/Users/danii/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/danii/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/tempora/Tempora-Italic.pfb><C:/Users/danii/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/
-danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/User
-s/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/U
-sers/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb><
-C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.p
-fb><C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys
-.pfb>
+{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tmp_ac5
+xuc.enc}{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/t
+2a-tempora.enc}{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/te
+mpora/tmp_q3dzgc.enc}<C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/newtx/NewTXMI.pfb><C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/newtx/NewTXMI7.pfb><C:/Users/danii/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/danii/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/tempora/Tempora-Italic.pfb><C:/Users/danii/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/d
+anii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users
+/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Us
+ers/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb><C
+:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.pf
+b><C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.
+pfb>
 Output written on "Р’РІРµРґРµРЅРёРµ, С‚РµРѕСЂРµРјР° РџРµС‚СЂРѕРІР° Рё РЅРµСЂР°Р
-ІРµРЅСЃС‚РІРѕ Р§РµР±С‹С€РµРІР°.pdf" (30 pages, 391225 bytes).
+ІРµРЅСЃС‚РІРѕ Р§РµР±С‹С€РµРІР°.pdf" (31 pages, 392856 bytes).
 PDF statistics:
- 170 PDF objects out of 1000 (max. 8388607)
+ 174 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

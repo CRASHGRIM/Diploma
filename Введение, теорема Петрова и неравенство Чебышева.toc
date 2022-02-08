@@ -7,10 +7,10 @@
 \contentsline {subsection}{\numberline {1.2}Нижняя оценка оптимальности}{10}{}%
 \contentsline {section}{\numberline {2}Условия асимптотической оптимальности жадного алгоритма}{14}{}%
 \contentsline {subsection}{\numberline {2.1}Общее условие асимптотической оптимальности}{15}{}%
-\contentsline {subsection}{\numberline {2.2}Вероятностный анализ ИБГ для равномерного распределения}{18}{}%
-\contentsline {subsection}{\numberline {2.3}Вероятностный анализ ИБГ для $\beta $ - распределения}{21}{}%
-\contentsline {subsection}{\numberline {2.4}Вероятностный анализ ИБГ для показательного распределения}{22}{}%
-\contentsline {section}{\numberline {3}Вычислительный эксперимент}{25}{}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{27}{}%
-\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ И ЛИТЕРАТУРЫ}{28}{}%
-\contentsline {section}{ПРИЛОЖЕНИЯ}{29}{}%
+\contentsline {subsection}{\numberline {2.2}Вероятностный анализ ИБГ для равномерного распределения}{19}{}%
+\contentsline {subsection}{\numberline {2.3}Вероятностный анализ ИБГ для $\beta $ - распределения}{22}{}%
+\contentsline {subsection}{\numberline {2.4}Вероятностный анализ ИБГ для показательного распределения}{23}{}%
+\contentsline {section}{\numberline {3}Вычислительный эксперимент}{26}{}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{28}{}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ И ЛИТЕРАТУРЫ}{29}{}%
+\contentsline {section}{ПРИЛОЖЕНИЯ}{30}{}%

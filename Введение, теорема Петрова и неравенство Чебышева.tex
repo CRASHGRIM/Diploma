@@ -227,12 +227,12 @@ d_{AB} \leqslant d_{AC} + d_{CB}
 Это можно упростить до
 
 \begin{equation}
-\lceil lg(n) \rceil Optimal \geqslant 2* \sum_{i=2}^{n} l_i
+\lceil lg(n) \rceil Optimal \geqslant 2\cdot \sum_{i=2}^{n} l_i
 \end{equation}
 
 По условию 2) Леммы
 \begin{equation}
-Optimal \geqslant 2*l_1
+Optimal \geqslant 2 \cdot l_1
 \end{equation}
 Два данных неравенства доказывают лемму
 
@@ -278,15 +278,15 @@ d(p,q) \leqslant \frac{1}{2}Optimal
 
 Граф $F_1$ состоит из трех вершин, между каждыми двумя из которых проведено ребро веса 1. Путь $P$ состоит из двух ребер: между левой и правой вершиной, между правой и центральной вершиной. Для построения графа $F_{i+1}$ возьмем две копии графа $F_i$, назовем одну копию левой, а другую правой. Добавим дополнительную вершину которая впоследствии станет центральной для $F_{i+1}$. На рисунке 1.1 эта вершина обозначена $D$. Она соединяется с правой вершиной левой копии (вершина $C$) и левой вершиной правой копии (вершина $E$) ребрами длины 1. Дополнительная вершина $D$ также соединяется с центральной вершиной правой копии (вершина $F$) ребром веса $l_i$, который будет определен ниже. Наконец, центральная вершина левой копии (вершина $B$) соединяется с левой вершиной правой копии (вершина $E$) ребром веса $l_i$. Левая вершина $F_{i+1}$ определяется как левая вершина левой копии (вершина $A$), правая вершина $F_{i+1}$ определяется как правая вершина правой копии (вершина $G$). Путь $P_{i+1}$ состоит из двух копий пути $P_i$ и ребер $(B,E)$, $(F,D)$ длины  $l_i$. Длина $l_i$ данных ребер определяется по формуле
 \begin{equation}\label{2.11}
-l_i = \frac{1}{6}(4*2^i-(-1)^i+3)
+l_i = \frac{1}{6}(4\cdot 2^i-(-1)^i+3)
 \end{equation}
 Пусть $L_i$ - длина пути $P_i$. Для длины $L_i$ есть рекуррентное соотношение:
 \begin{equation}
-L_{i+1} = 2*L_i+2*l_i
+L_{i+1} = 2\cdot L_i+2\cdot l_i
 \end{equation}
 Так как $P_{i+1}$ состоит из двух копий $P_i$ и двух ребер веса $l_i$ При условии что $L_1=2$, решение данного уравнения: 
 \begin{equation}
-L_i=\frac{1}{9}(6i*2^i+8*2^i+(-1)^i-9)
+L_i=\frac{1}{9}(6i\cdot 2^i+8\cdot 2^i+(-1)^i-9)
 \end{equation}
 Для каждого $F$ мы определяем граф $G_i$, который получается из $F$ путем соединения левой вершины и правой вершины графа ребром веса $1$ и соединением центральной вершины с левой вершиной ребром веса $l_i-1$. Левая вершина графа $F$ считается начальной вершиной графа $G_i$. На рисунке 1.2 изображен граф $G_4$ Определим $\bar G_i$ как полный граф на вершинах $G_i$. Длина ребер в данном графе будет равна длине наименьшего пути в $G_i$ между двумя вершинами, которые соединяет ребро. Таким образом $\bar G_i$ будет удовлетворять неравенству треугольника.
 
@@ -443,7 +443,7 @@ P\{\mathcal{Z_{A}} > (1+\varepsilon_n)\mathcal{Z}\}\leqslant P\{\mathcal{Z_{A}} 
 \end{equation}
 
 
-Обозначим через\topboundE и \topboundD верхние оценки соответственно математического ожидания \randomvalueE и дисперсии \randomvalueD случайной величины \randomvalue . Обозначим $\Delta_n=(1+\varepsilon_n)na-\text{\topboundE}$. Получаем:
+Обозначим через \topboundE{} и \topboundD{} верхние оценки соответственно математического ожидания \randomvalueE{} и дисперсии \randomvalueD{} случайной величины \randomvalue{} . Обозначим $\Delta_n=(1+\varepsilon_n)na-\text{\topboundE}$. Получаем:
 \begin{equation}\label{5}
 P\{\text{\randomvalue} > (1+\varepsilon_n)na\} = 
 P\{\text{\randomvalue} > \text{\topboundE}+[(1+\varepsilon_n)na-\text{\topboundE}]\} \leqslant
@@ -466,12 +466,12 @@ P\{|\text{\randomvalue}- \text{\randomvalueE})| \geqslant \Delta_n\} \leqslant \
 $ \varepsilon_n=K(\frac{\text{\topboundE}}{na}-1) \rightarrow 0$ и 
 $ \delta_n = \frac{\text{\topboundD}}{(K-1)^2(\text{\topboundE}-na)^2} \rightarrow 0$ при $ n \rightarrow \infty$\\
 
-Вычисление верхних оценок \topboundE и \topboundD\\
+Вычисление верхних оценок \topboundE{} и \topboundD{}\\
 
 \newcommand{\chanceLklesserX}{$\Phi_k(x)$}
 \newcommand{\randomNormalValueE}{$l_k$}
 
-Математическое ожидание \randomvalueE равно сумме матожиданий величин $a_{{i_k}{i_{k+1}}}$ минимальных длин ребер, ведущих в еще непосещенную вершину на k-м шаге алгоритма \algorithm. В целях удобства дальнейших вычислений пронормируем случайную величину $\xi$ значений элементов $a_{ij}$ длин ребер графа, положив $\xi'=\frac{\xi-a}{b-a}$. Обозначим через \randomNormalValueE  значение матожидания нормированной случайной величины $\text{\randomNormalValueE}=a_{{i_k}{i_{k+1}}}'$. На k-ом шаге алгоритма выбирается минимум из $n-k$ элементов. В силу независимости этих элементов вероятность \chanceLklesserX того, что величина \randomNormalValueE минимального из этих элементов не превышает величины $x$ равна
+Математическое ожидание \randomvalueE{} равно сумме матожиданий величин $a_{{i_k}{i_{k+1}}}$ минимальных длин ребер, ведущих в еще непосещенную вершину на $k$-м шаге алгоритма \algorithm . В целях удобства дальнейших вычислений пронормируем случайную величину $\xi$ значений элементов $a_{ij}$ длин ребер графа, положив $\xi'=\frac{\xi-a}{b-a}$. Обозначим через \randomNormalValueE{}  значение матожидания нормированной случайной величины $\text{\randomNormalValueE}=a_{{i_k}{i_{k+1}}}'$. На k-ом шаге алгоритма выбирается минимум из $n-k$ элементов. В силу независимости этих элементов вероятность \chanceLklesserX{} того, что величина \randomNormalValueE{} минимального из этих элементов не превышает величины $x$ равна
 \begin{equation}
 \text{\chanceLklesserX}=P\{\text{\randomNormalValueE} \leqslant x\}=1-(1-F(x))^{n-k}
 \end{equation}
@@ -483,63 +483,63 @@ F_k(x)=P\{\xi' \leqslant x\}, 0\leqslant x
 Тогда величина $E(\text{\randomNormalValueE})$ равна
 \begin{equation}
 E(\text{\randomNormalValueE})=\begin{cases}
-\int_0^1 x d\text{\chanceLklesserX}, k=1,2,...n-1 \\
-E(l_{n-1}), при k=n
+\int\limits_0^1 x d\text{\chanceLklesserX},\: k=1,2,...n-1 \\
+E(l_{n-1}),\: \text{при}\: k=n
 \end{cases}
 \end{equation}
 откуда получим
 \begin{equation}\label{7}
 \begin{aligned}
-E(\text{\randomNormalValueE}) = x \text{\chanceLklesserX}\rvert_{0}^{1}-\int_0^1 \text{\chanceLklesserX}dx = \\
-=1-\int_0^1 [1-(1-F(x))^{n-k}]dx = \int_0^1 (1-F(x))^{n-k}]dx \\
+E(\text{\randomNormalValueE}) = x \text{\chanceLklesserX}\rvert_{0}^{1}-\int\limits_0^1 \text{\chanceLklesserX}dx = \\
+=1-\int\limits_0^1 [1-(1-F(x))^{n-k}]dx = \int\limits_0^1 (1-F(x))^{n-k}]dx \\
 k = \overline {1, n-1}
 \end{aligned}
 \end{equation}
-В силу нормировки минимальный элемент $a_{i_{k-1} i_k}$ связан с величиной  \randomNormalValueE  соотношением $a_{i_k i_{k+1}} = a+(b-a)\text{\randomNormalValueE}$. Поэтому
+В силу нормировки минимальный элемент $a_{i_{k-1} i_k}$ связан с \\ величиной  \randomNormalValueE{}  соотношением $a_{i_k i_{k+1}} = a+(b-a)\text{\randomNormalValueE}$. Поэтому
 \begin{equation}\label{8}
 \text{\randomvalueE} = \sum_{k=1}^{n} [a+(b-a)E(\text{\randomNormalValueE})]
 \end{equation}.
 Откуда с учетом \eqref{7} имеем:
 \begin{equation}
 \begin{aligned}
-\text{\randomvalueE} = na+(b-a)[\int_0^1 \sum_{k=1}^{n-1}(1-F(x))^{n-k}dx + \int_0^1 (1-F(x))dx]=\\
-=na+(b-a) \int_0^1 \frac{[1-F(x)][1-(1-F(x))^{n-1}+F(x)]}{F(x)}dx \leqslant \\
-\leqslant na + (b-a) \int_0^1 \frac{1-(1-F(x))^n}{F(x)}dx = \\
-=na+(b-a)[\int_0^{\gamma_n} \frac{1-(1-F(x))^n}{F(x)}dx + 
-\int_{\gamma_n}^1 \frac{1-(1-F(x))^n}{F(x)} dx]
+\text{\randomvalueE} = na+(b-a)[\int\limits_0^1 \sum_{k=1}^{n-1}(1-F(x))^{n-k}dx + \int\limits_0^1 (1-F(x))dx]=\\
+=na+(b-a) \int\limits_0^1 \frac{[1-F(x)][1-(1-F(x))^{n-1}+F(x)]}{F(x)}dx \leqslant \\
+\leqslant na + (b-a) \int\limits_0^1 \frac{1-(1-F(x))^n}{F(x)}dx = \\
+=na+(b-a)[\int\limits_0^{\gamma_n} \frac{1-(1-F(x))^n}{F(x)}dx + 
+\int\limits_{\gamma_n}^1 \frac{1-(1-F(x))^n}{F(x)} dx]
 \end{aligned}
 \end{equation}
 где $\gamma_n$ - корень уравнения $F(\gamma) = \frac{1}{n}$, то есть $\gamma_n = F^{-1}(\frac{1}{n})$. Учитывая что при $0 \leqslant Z \leqslant 1$ справедливо неравенство $\frac{1-(1-Z)^n}{Z} \leqslant n$, оценку $E( {\mathcal{Z_{A}}})$ можем продолжить следующим образом
 \begin{equation}\label{9}
-\text{\randomvalueE} \leqslant \text{\topboundE} = na+(b-a)[\gamma_n * n+ \int_{\gamma_n}^1 \frac{dx}{F(x)}]
+\text{\randomvalueE} \leqslant \text{\topboundE} = na+(b-a)[\gamma_n \cdot n+ \int\limits_{\gamma_n}^1 \frac{dx}{F(x)}]
 \end{equation}
 
 Перейдем к вычислению верхней оценки $\mathcal{D_A^{*}}$. Дисперсия $d_k$ случайной нормированной величины $l_k$ на k-ом шаге равна
 \begin{equation}
-d_k=\int_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int_0^1 x^2 d \Phi_k(x)- (E(l_k))^2 < \int_0^1 x d \Phi_k(x) = E(l_k)
+d_k=\int\limits_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int\limits_0^1 x^2 d \Phi_k(x)- (E(l_k))^2 < \int\limits_0^1 x d \Phi_k(x) = E(l_k)
 \end{equation}
 
 Тогда с учетом того, что дисперсия минимального элемента $a_{i_k i_{k+1}}$ равна $(b-a)^2 d_k$, дисперсия случайной величины ${\mathcal{Z_{A}}}$ с учетом \eqref{8} оценивается следующим образом:
 \begin{equation}
 \begin{aligned}
 \mathcal{D(\mathcal{Z_{A}})} = \sum_{k=1}^n (b-a)^2 d_k < (b-a)^2 \sum_{k=1}^n E(l_k) =\\
-= (b-a)^2 * \frac{E(\mathcal{Z_{A}})-na}{(b-a)} \leqslant (b-a)(\mathcal{Z_{A}^*}-na)
+= (b-a)^2 \cdot \frac{E(\mathcal{Z_{A}})-na}{(b-a)} \leqslant (b-a)(\mathcal{Z_{A}^*}-na)
 \end{aligned}
 \end{equation}
 
 Окончательно с учетом \eqref{9} получаем верхнюю оценку для $\mathcal{D(\mathcal{Z_{A}})}$
 \begin{equation}\label{10}
-\mathcal{D(\mathcal{Z_{A}})} < \mathcal{D_{A}^*} = (b-a)^2 [\gamma_n*n+\int_{\gamma_n}^1 \frac{dx}{F(x)}]
+\mathcal{D(\mathcal{Z_{A}})} < \mathcal{D_{A}^*} = (b-a)^2 [\gamma_n\cdot n+\int\limits_{\gamma_n}^1 \frac{dx}{F(x)}]
 \end{equation}
 Вернемся к неравенству \eqref{6}. Имея в виду полученные оценки \eqref{9} и \eqref{10}, выражения для $\varepsilon_n$ и $\delta_n$ можно записать в следующем виде: 
 \begin{equation}
-\varepsilon_n = K(\frac{b}{a}-1)[\gamma_n + \frac{1}{n} \int_{\gamma_n}^1 \frac{dx}{F(x)}]
+\varepsilon_n = K(\frac{b}{a}-1)[\gamma_n + \frac{1}{n} \int\limits_{\gamma_n}^1 \frac{dx}{F(x)}]
 \end{equation}
 \begin{equation}
-\delta_n = \frac{1}{(K-1)^2 [\gamma_n * n + \int_{\gamma_n}^1 \frac{dx}{F(x)}]}
+\delta_n = \frac{1}{(K-1)^2 [\gamma_n \cdot n + \int\limits_{\gamma_n}^1 \frac{dx}{F(x)}]}
 \end{equation}
 
-Обозначим $\mathcal{I}_n = \int_{\gamma_n}^1 \frac{dx}{F(x)}$, $\Psi(n)$ - произвольная растущая от n функция, $\lim\limits_{x\to \infty} \Psi(n) = \infty $ \\
+Обозначим $\mathcal{I}_n = \int\limits_{\gamma_n}^1 \frac{dx}{F(x)}$, $\Psi(n)$ - произвольная растущая от n функция, $\lim\limits_{x\to \infty} \Psi(n) = \infty $ \\
 
 \textbf{Теорема 1}
 
@@ -552,10 +552,10 @@ d_k=\int_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int_0^1 x^2 d \Phi_k(x)- (E(l_k))^2 < \
 
 \begin{equation}
 \begin{aligned}
-\delta_n = \frac{1}{(\gamma_n n+\mathcal{I}_n)(K-1)^2} \leqslant \frac{1}{\mathcal{I}_n * (K-1)^2} \to 0 \\
-\varepsilon_n = K(\frac{b}{a}-1)(\gamma_n+\frac{1}{n} \mathcal{I}_n) \leqslant K*\frac{b}{a} (\gamma_n+\frac{1}{n} \mathcal{I}_n)\leqslant \\
+\delta_n = \frac{1}{(\gamma_n n+\mathcal{I}_n)(K-1)^2} \leqslant \frac{1}{\mathcal{I}_n \cdot (K-1)^2} \to 0 \\
+\varepsilon_n = K(\frac{b}{a}-1)(\gamma_n+\frac{1}{n} \mathcal{I}_n) \leqslant K \cdot \frac{b}{a} (\gamma_n+\frac{1}{n} \mathcal{I}_n)\leqslant \\
 \leqslant \frac{K}{\Psi(n)} min(\frac{1}{\gamma_n}, \frac{n}{\mathcal{I}_n})(\gamma_n+\frac{1}{n} \mathcal{I}_n) = \\
-= \frac{K}{\Psi(n)} min (1+\frac{\mathcal{I}_n}{n \gamma_n}, 1+\frac{n \gamma_n}{\mathcal{I}_n}) \leqslant \frac{2K}{\Psi(n)} \to 0
+= \frac{K}{\Psi(n)} min \bigg(1+\frac{\mathcal{I}_n}{n \gamma_n}, 1+\frac{n \gamma_n}{\mathcal{I}_n} \bigg) \leqslant \frac{2K}{\Psi(n)} \to 0
 \end{aligned}
 \end{equation}
 при $n \to \infty$. Теорема 1 доказана.
@@ -568,7 +568,7 @@ d_k=\int_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int_0^1 x^2 d \Phi_k(x)- (E(l_k))^2 < \
 
 Определим условия асимптотической оптимальности алгоритма $\mathcal{A}$ для случая, когда веса ребер графа $a_{ij}$ могут быть выбраны равновероятно из отрезка [a,b], a>0. В этом случае нормированная интегральная функция распределения имеет вид $F(x) = x,\; 0 \leqslant x \leqslant 1,\; \gamma_n = F(\frac{1}{n}) = \frac{1}{n}$ и
 \begin{equation}
-\mathcal{I}_n = \int_{\gamma_n}^1 \frac{dx}{F(x)} = \int_{\frac{1}{n}}^1 \frac{dx}{x} = ln(n)
+\mathcal{I}_n = \int\limits_{\gamma_n}^1 \frac{dx}{F(x)} = \int\limits_{\frac{1}{n}}^1 \frac{dx}{x} = ln(n)
 \end{equation}
 
 Тогда из теоремы 1 непосредственно получаем результат, который может быть сформулирован как:\\
@@ -584,7 +584,7 @@ d_k=\int_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int_0^1 x^2 d \Phi_k(x)- (E(l_k))^2 < \
 
 Учитывая специфику равномерного распределения можно получить более точные оценки для этих величин по сравнению с общим случаем. Выведем условия асимптотической оптимальности алгоритма $\mathcal{A}$ в случае равномерного распределения, проведя в сокращенном виде вычисления оценок для $E(\mathcal{Z_{A}})$ и $\mathcal{D(Z_{A})}$ и $P \{ \mathcal{Z_{A}} \leqslant (1+\varepsilon_n)\mathcal{Z} \}$. Согласно \eqref{7}
 \begin{equation}\label{eq13} 
-E(l_k) = \int_0^1 (1-x)^{n-k}dx = \int_0^1 x^{n-k}dx = \frac{1}{n-k+1}
+E(l_k) = \int\limits_0^1 (1-x)^{n-k}dx = \int\limits_0^1 x^{n-k}dx = \frac{1}{n-k+1}
 \end{equation}
 $k=1,2,...n-k$;   $ E(l_n) = E(l_n-1) = \frac{1}{2}$
 
@@ -596,24 +596,24 @@ E(\mathcal{Z_{A}}) = \sum_{k=1}^{n} [a+(b-a)E(l_k)] = na +(b-a)(\frac{1}{2}+\sum
 \end{aligned}
 \end{equation}
 
-Оценим дисперсию $d_k=\int_0^1 (x-E(l_k))^2 d\text{\chanceLklesserX}$ случайной величины $l_k$ с учетом того, что для равномерного распределения \chanceLklesserX $ = 1-(1-x)^{n-k}$
+Оценим дисперсию $d_k=\int\limits_0^1 (x-E(l_k))^2 d\text{\chanceLklesserX}$ случайной величины $l_k$ с учетом того, что для равномерного распределения \chanceLklesserX{} $ = 1-(1-x)^{n-k}$
 
 Используя \eqref{eq13}, имеем
 \begin{equation}
 \begin{aligned}
-d_k = \int_0^1 x^2 d \text{\chanceLklesserX}-E(l_k)^2=x^2 \text{\chanceLklesserX} 	
-|_0^1 - 2 \int_0^1 x \text{\chanceLklesserX}dx - E(l_k)^2=\\
-= 1-2\int_0^1 x[1-(1-x)^{n-k}]dx-E(l_k)^2 =\\
+d_k = \int\limits_0^1 x^2 d \text{\chanceLklesserX}-E(l_k)^2=x^2 \text{\chanceLklesserX} 	
+|_0^1 - 2 \int\limits_0^1 x \text{\chanceLklesserX}dx - E(l_k)^2=\\
+= 1-2\int\limits_0^1 x[1-(1-x)^{n-k}]dx-E(l_k)^2 =\\
 = \frac{2}{n-k+1} - \frac{2}{n-k+2} - \frac{1}{(n-k+1)^2}, \\ 
 \; k=1,2,...,n-1; \; d_n = d_{n-1} = \frac{1}{12}
 \end{aligned}
 \end{equation}
 
-Отсюда с учетом определения дисперсии величины \randomvalue , получим
+Отсюда с учетом определения дисперсии величины \randomvalue{} , получим
 \begin{equation}
 \begin{aligned}
 \frac{1}{(b-a)^2} \text{\randomvalueD} = \sum_{k=1}^n d_k = \frac{1}{12} + \sum_{k=1}^{n-1} (\frac{2}{n-k+1} - \frac{2}{n-k+2} - \frac{1}{(n-k+1)^2}) = \\
-= \frac{1}{12} - \frac{2}{n+1} +1 - \sum_{k=1}^{n-1} \frac{1}{(n-k+1)^2} \leqslant \frac{13}{12} - \frac{2}{n+1} - \frac{1}{4} - \int_3^{n+1} \frac{dx}{x^2} = \\
+= \frac{1}{12} - \frac{2}{n+1} +1 - \sum_{k=1}^{n-1} \frac{1}{(n-k+1)^2} \leqslant \frac{13}{12} - \frac{2}{n+1} - \frac{1}{4} - \int\limits_3^{n+1} \frac{dx}{x^2} = \\
 = \frac{13}{12} - \frac{2}{n+1} - \frac{1}{4} + \frac{1}{n+1} - \frac{1}{3} < 0.417 = \frac{\text{\topboundD}}{(b-a)^2} 
 \end{aligned}
 \end{equation}
@@ -660,14 +660,14 @@ P \{ \text{\randomvalue} \leqslant (1+\varepsilon_n)\mathcal{Z} \} \geqslant 1 -
 \begin{equation}
 f(\xi) = 
 \begin{cases}
-   \frac{(\xi-a)^\alpha*(b-\xi)^\gamma}{(b-a)^{\alpha+\gamma+1} \beta(\alpha+1, \gamma+1)},  \; \xi \in [a,b]\\
+   \frac{(\xi-a)^\alpha \cdot (b-\xi)^\gamma}{(b-a)^{\alpha+\gamma+1} \beta(\alpha+1, \gamma+1)},  \; \xi \in [a,b]\\
    0, \; \xi \notin [a,b] \\
  \end{cases}
 \end{equation}
 
 где
 \begin{equation}
-\beta(\alpha, \gamma) = \int_0^1 x^{\alpha-1} (1-x)^{\gamma-1} dx = \frac{\Gamma(\alpha)\Gamma(\gamma)}{F(\alpha+\gamma)}
+\beta(\alpha, \gamma) = \int\limits_0^1 x^{\alpha-1} (1-x)^{\gamma-1} dx = \frac{\Gamma(\alpha)\Gamma(\gamma)}{F(\alpha+\gamma)}
 \end{equation}
 
 где $\alpha$ и $\gamma$ - параметры распределения. В нормированном виде функция плотности $f(\xi)$ запишется следующим образом:
@@ -682,7 +682,7 @@ f(\xi') =
 
 Рассмотрим частный случай $\beta$ - распределения, когда $\gamma=0$, $\alpha>0$. В этом случае интегральная функция распределения равна
 \begin{equation}
-F(x) = \int_0^x f(\xi')d\xi' = \int_0^x \frac{x}{\beta(\alpha+1,1)} = x^{\alpha+1}
+F(x) = \int\limits_0^x f(\xi')d\xi' = \int\limits_0^x \frac{x}{\beta(\alpha+1,1)} = x^{\alpha+1}
 \end{equation} 
 Вычислим величину $\gamma_n$, фигурирующую в условиях теоремы 1:
 \begin{equation}
@@ -690,7 +690,7 @@ F(x) = \int_0^x f(\xi')d\xi' = \int_0^x \frac{x}{\beta(\alpha+1,1)} = x^{\alpha+
 \end{equation}
 Тогда первое из условий теоремы 1 выполняется в силу $\alpha>0$
 \begin{equation}
-\mathcal{I}_n = \int_{\gamma_n}^1 \frac{dx}{F(x)} = \int_{\gamma_n}^1 \frac{dx}{x^{\alpha+1}} = \frac{1}{\alpha} (n^{\frac{\alpha}{\alpha+1}}-1) \rightarrow \infty, \; \; n\rightarrow \infty
+\mathcal{I}_n = \int\limits_{\gamma_n}^1 \frac{dx}{F(x)} = \int\limits_{\gamma_n}^1 \frac{dx}{x^{\alpha+1}} = \frac{1}{\alpha} (n^{\frac{\alpha}{\alpha+1}}-1) \rightarrow \infty, \; \; n\rightarrow \infty
 \end{equation}
 
 Второе условие принимает вид:
@@ -814,13 +814,13 @@ F_{X_1(k)} = 1 - (1-F(x))^k = 1 - e^{-kx}, \; x \geqslant 0
 \end{equation}
 
 \begin{equation}
-EX_1(k) = \int_0^\infty xd(F_{X_1(k)}) =\int_0^\infty xd(1-e^{-kx}) = \frac{1}{k}
+EX_1(k) = \int\limits_0^\infty xd(F_{X_1(k)}) =\int\limits_0^\infty xd(1-e^{-kx}) = \frac{1}{k}
 \end{equation}
 
 Величина $c_{\pi_n, \pi_1}$ распределена по показательному закону. Найдем матожидание:
 
 \begin{equation}
-Ec_{\pi_n, \pi_1} = Ep(x) = \int_0^\infty xe^{-x}dx = 1
+Ec_{\pi_n, \pi_1} = Ep(x) = \int\limits_0^\infty xe^{-x}dx = 1
 \end{equation}
 
 \begin{equation}
