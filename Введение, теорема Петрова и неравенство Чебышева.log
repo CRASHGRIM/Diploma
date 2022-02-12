@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  9 FEB 2022 23:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  12 FEB 2022 16:41
 entering extended mode
 **"./–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–≤–µ–Ω—Å—Ç–≤–æ 
 –ß–µ–±—ã—à–µ–≤–∞.tex"
@@ -1814,40 +1814,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
  []
 
+
+LaTeX Warning: Reference `fig:examplenoibg' on page 6 undefined on input line 1
+29.
+
 <ris_example.png, id=24, 236.38312pt x 216.81pt>
 File: ris_example.png Graphic file (type png)
 <use ris_example.png>
-Package pdftex.def Info: ris_example.png  used on input line 132.
+Package pdftex.def Info: ris_example.png  used on input line 133.
 (pdftex.def)             Requested size: 200.0pt x 183.44244pt.
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
 
-[7 <./ris_example.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
+[6] [7 <./ris_example.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
  []
 
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 164.
+(Font)              scaled to size 17.28pt on input line 166.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 164.
+(Font)              scaled to size 17.28pt on input line 166.
 [8] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 255--257
+Underfull \hbox (badness 10000) in paragraph at lines 257--259
 
  []
 
 <ris1.png, id=42, 502.87875pt x 549.55313pt>
 File: ris1.png Graphic file (type png)
 <use ris1.png>
-Package pdftex.def Info: ris1.png  used on input line 272.
+Package pdftex.def Info: ris1.png  used on input line 275.
 (pdftex.def)             Requested size: 300.0pt x 327.8393pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [10] [11 <./ris1.png>]
 <ris2.png, id=50, 473.51906pt x 752.0597pt>
 File: ris2.png Graphic file (type png)
 <use ris2.png>
-Package pdftex.def Info: ris2.png  used on input line 296.
+Package pdftex.def Info: ris2.png  used on input line 297.
 (pdftex.def)             Requested size: 200.0pt x 317.64162pt.
  [12 <./ris2.png>]
 <ris3.png, id=55, 478.78876pt x 172.39406pt>
@@ -1861,61 +1871,61 @@ File: ris4.png Graphic file (type png)
 Package pdftex.def Info: ris4.png  used on input line 342.
 (pdftex.def)             Requested size: 300.0pt x 105.5373pt.
  [13 <./ris3.png> <./ris4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 358--359
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 372--373
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 381--383
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
 
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 388--389
+Underfull \hbox (badness 10000) in paragraph at lines 379--381
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--392
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 397--399
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 397--399
+Underfull \hbox (badness 10000) in paragraph at lines 395--397
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--402
+Underfull \hbox (badness 10000) in paragraph at lines 395--397
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 418--419
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
 
  []
 
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.5pt on input line 425.
+(Font)              scaled to size 10.5pt on input line 423.
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 7.9pt on input line 425.
+(Font)              scaled to size 7.9pt on input line 423.
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--428
+Underfull \hbox (badness 10000) in paragraph at lines 424--426
 
  []
 
 [15]
-Overfull \hbox (12.29312pt too wide) detected at line 452
+Overfull \hbox (12.29312pt too wide) detected at line 450
 \OML/ntxmi/m/it/14.4 P\LMS/ntxsy/m/n/14.4 f[] \OML/ntxmi/m/it/14.4 > \LMS/ntxsy
 /m/n/14.4 π\OT1/Tempora-TLF/m/n/14.4 1 \LMS/ntxsy/m/n/14.4 œ \OML/ntxmi/m/it/14
 .4 "[]\LMS/ntxsy/m/n/14.4 ∫\OML/ntxmi/m/it/14.4 na\LMS/ntxsy/m/n/14.4 g \U/ntxm
@@ -1928,35 +1938,35 @@ xsy/m/n/14.4   []ºg \U/ntxsym/m/n/14.4 ∂ \OML/ntxmi/m/it/14.4 P\LMS/ntxsy/m/n/1
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 465--469
+Underfull \hbox (badness 10000) in paragraph at lines 463--467
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--471
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
 
  []
 
 [16] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 543--544
+Underfull \hbox (badness 10000) in paragraph at lines 541--542
 
  []
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 564--565
+Underfull \hbox (badness 10000) in paragraph at lines 562--563
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 575--576
+Underfull \hbox (badness 10000) in paragraph at lines 573--574
 
  []
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 581.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 579.
 
 LaTeX Font Info:    Trying to load font information for TS1+Tempora-TLF on inpu
-t line 581.
+t line 579.
 
 (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ts1tempora-tlf.
 fd
@@ -1964,99 +1974,99 @@ File: TS1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for TS1/Tempora-
 TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 581.
+(Font)              scaled to size 14.4pt on input line 579.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 581.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 579.
 
 Missing character: There is no à in font Tempora-Regular-tlf-ot1!
 [19] [20]
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 635.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 633.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 635.
-
-Missing character: There is no à in font Tempora-Regular-tlf-ot1!
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 638.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 638.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 638.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 638.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 633.
 
 Missing character: There is no à in font Tempora-Regular-tlf-ot1!
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 636.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 636.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 636.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 636.
+
+Missing character: There is no à in font Tempora-Regular-tlf-ot1!
 Missing character: There is no à in font Tempora-Regular-tlf-ot1!
 
-Underfull \hbox (badness 10000) in paragraph at lines 654--655
+Underfull \hbox (badness 10000) in paragraph at lines 652--653
 
  []
 
 LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 657.
+(Font)              scaled to size 17.28pt on input line 655.
 LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.5pt on input line 657.
+(Font)              scaled to size 12.5pt on input line 655.
 LaTeX Font Info:    Font shape `OT1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 9.4pt on input line 657.
+(Font)              scaled to size 9.4pt on input line 655.
 [21]
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 701.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 699.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 701.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 699.
 
 Missing character: There is no à in font Tempora-Regular-tlf-ot1!
 [22] [23] [24] [25]
-Underfull \hbox (badness 10000) in paragraph at lines 892--893
+Underfull \hbox (badness 10000) in paragraph at lines 890--891
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 903--904
+Underfull \hbox (badness 10000) in paragraph at lines 901--902
 
  []
 
 
-Overfull \hbox (32.6363pt too wide) in paragraph at lines 908--940
+Overfull \hbox (32.6363pt too wide) in paragraph at lines 906--938
  [] 
  []
 
 
-Overfull \hbox (0.3559pt too wide) in paragraph at lines 947--948
+Overfull \hbox (0.3559pt too wide) in paragraph at lines 945--946
 []\T2A/Tempora-TLF/m/n/14.4 ŒÚÒÛÚÒÚ‚ËÂ ÌÂÒ‡-·‡-Ú˚-‚‡-ÌËÈ ‚ ÒÎÛ-˜‡Â ‡‚-ÌÓ-ÏÂ-
 ÌÓ-„Ó ‡-ÒÔÂ-‰Â-ÎÂ-ÌËˇ ÏÓÊ-
  []
 
 [26] [27] [28]
-Underfull \hbox (badness 10000) in paragraph at lines 989--990
+Underfull \hbox (badness 10000) in paragraph at lines 987--988
 
  []
 
 
-Overfull \hbox (7.53294pt too wide) in paragraph at lines 994--995
+Overfull \hbox (7.53294pt too wide) in paragraph at lines 992--993
 \T2A/Tempora-TLF/m/n/14.4 Zverovitch, A.. The travelling salesman problem and i
 ts variations. Kluwer Academic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 998--999
+Underfull \hbox (badness 10000) in paragraph at lines 996--997
 
  []
 
 [29]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 1018.
+(Font)              scaled to size 12.0pt on input line 1016.
 
 (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-1020.
+1018.
 
 (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
@@ -2066,30 +2076,37 @@ File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 –±—ã—à–µ–≤–∞.aux
 LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 5.
-) ) 
+)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 11584 strings out of 479334
- 163774 string characters out of 2857084
- 650411 words of memory out of 3000000
- 28773 multiletter control sequences out of 15000+200000
+ 11589 strings out of 479334
+ 163864 string characters out of 2857084
+ 652483 words of memory out of 3000000
+ 28778 multiletter control sequences out of 15000+200000
  522757 words of font info for 243 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,18n,75p,2309b,272s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\danii\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1
-200.pk>{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tm
-p_q3dzgc.enc}{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/temp
-ora/t2a-tempora.enc}<C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/newtx/NewTXMI.pfb><C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/newtx/NewTXMI7.pfb><C:/Users/danii/AppData/Local/Programs/MiKTeX/font
-s/type1/public/tempora/Tempora-Bold.pfb><C:/Users/danii/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/danii/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/danii/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/danii/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb><C:/Users/danii/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.pfb><C:/Users/da
-nii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
+ 68i,18n,75p,2460b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\danii\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt12
+00.pk>{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tmp
+_q3dzgc.enc}{C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempo
+ra/t2a-tempora.enc}<C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/newtx/NewTXMI.pfb><C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/newtx/NewTXMI7.pfb><C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/tempora/Tempora-Bold.pfb><C:/Users/danii/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/danii/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/danii/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/danii/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb><C:/Users/danii/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.pfb><C:/Users/dan
+ii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
 Output written on "–í–≤–µ–¥–µ–Ω–∏–µ, —Ç–µ–æ—Ä–µ–º–∞ –ü–µ—Ç—Ä–æ–≤–∞ –∏ –Ω–µ—Ä–∞–
-≤–µ–Ω—Å—Ç–≤–æ –ß–µ–±—ã—à–µ–≤–∞.pdf" (31 pages, 380293 bytes).
+≤–µ–Ω—Å—Ç–≤–æ –ß–µ–±—ã—à–µ–≤–∞.pdf" (31 pages, 379809 bytes).
 PDF statistics:
  224 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
