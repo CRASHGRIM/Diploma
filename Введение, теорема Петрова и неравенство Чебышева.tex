@@ -37,7 +37,8 @@
 \usepackage{newtxmath} %Times New Roman in math
 
 
-
+\newtheorem{theorem}{Теорема}[section]
+\newtheorem{corollary}{Corollary}[theorem]
 
 
 \begin{document}
@@ -165,15 +166,18 @@ d_{AB} \leqslant d_{AC} + d_{CB}
 
 \subsection{Верхняя оценка оптимальности}
 
-\textbf{Теорема 1}
+\begin{theorem}
+\label{theoremonemetric}
 
-Для маршрута коммивояжера с $n$ вершинами справедлива теорема:
+Для маршрута коммивояжера с $n$ вершинами справедливо:
 
 \begin{equation}
 	(\frac{\mathrm{Greedy}}{\mathrm{Optimal}}) \leqslant \frac{1}{2}\lceil{\lg n}\rceil + \frac{1}{2}
 \end{equation}
 
 Где $\mathrm{Greedy}$ -- вес пути, найденного жадным алгоритмом, $\mathrm{Optimal}$ -- вес наиболее оптимального пути.
+
+\end{theorem}
 
 Доказательство:
 
@@ -239,7 +243,7 @@ d_{AB} \leqslant d_{AC} + d_{CB}
 \end{equation}
 Два данных неравенства доказывают лемму
 
-Доказательство Теоремы 1. Для каждой  вершины $p$ положим, что $l_p$ это длина ребра, выходящего из p и идущего в вершину, которая выбирается жадным алгоритмом. Мы хотим показать, что $l_p$ удовлетворяет условиям Леммы 1. Если вершина $p$ была выбрана жадным алгоритмом до вершины $q$, тогда вершина $q$ была кандидатом на ближайшую невыбранную вершину для вершины $p$. Это значит, что ребро $(p,q)$ не короче чем выбранное ребро, то есть
+Доказательство Теоремы \eqref{theoremonemetric}. Для каждой  вершины $p$ положим, что $l_p$ это длина ребра, выходящего из p и идущего в вершину, которая выбирается жадным алгоритмом. Мы хотим показать, что $l_p$ удовлетворяет условиям Леммы 1. Если вершина $p$ была выбрана жадным алгоритмом до вершины $q$, тогда вершина $q$ была кандидатом на ближайшую невыбранную вершину для вершины $p$. Это значит, что ребро $(p,q)$ не короче чем выбранное ребро, то есть
 \begin{equation}
 d(p,q) \geqslant l_p
 \end{equation}
@@ -255,18 +259,20 @@ d(p,q) \leqslant \frac{1}{2} \mathrm{Optimal}
 \begin{equation}
 \sum l_p = \mathrm{GREEDY}
 \end{equation}
-Данное равенство вместе с Леммой 1 доказывают неравенство из Теоремы 1.\\
+Данное равенство вместе с Леммой 1 доказывают неравенство из Теоремы \eqref{theoremonemetric}.\\
 
 \subsection{Нижняя оценка оптимальности}
 
+\begin{theorem}
+\label{theoremtwometric}
 
-\textbf{Теорема 2}
-
-Для маршрута коммивояжера с $n$ вершинами справедлива теорема:
+Для маршрута коммивояжера с $n$ вершинами справедливо:
 
 \begin{equation}
 	(\frac{\mathrm{Greedy}}{\mathrm{Optimal}}) > \frac{1}{3}{\lg (n+1)} + \frac{4}{9}
 \end{equation}
+
+\end{theorem}
 
 Доказательство:  Для каждого $i \geqslant 1 $ построим неполный взвешенный граф F с тремя особыми вершинами: левая вершина, центральная вершина и правая вершина. Эти графы строятся рекурсивно как показано на рисунке \eqref{fig:recursiveGraph} где левая вершина располагается слева, правая -- справа и центральная посередине. Каждый граф F имеет путь P, соединяющий левую вершину и центральную, в который входят все вершины графа. Путь P также строится рекурсивно как на рисунке \eqref{fig:recursiveGraph} 
 
@@ -395,9 +401,8 @@ P\{\mathcal{Z_A} \leqslant (1+\varepsilon_n)\mathcal{Z}\}\leqslant 1+\delta_n
 \end{equation},
 где  $a>0$. \\ \\
 
-
-\textbf{Теорема Петрова} \\
-
+\begin{theorem}[Теорема Петрова]
+\label{petrovtheorem}
 Пусть $X_1,...,X_n$ — независимые случайные величины и
 существуют положительные постоянные $g_1,...,g_n$ и $T$ такие, что для всех $0 \leqslant t \leqslant T$
 
@@ -413,7 +418,8 @@ P\{S > x\} \leqslant
    \mathrm{exp} (-\frac{x^{2}}{2G}), \; 0 \leqslant x \leqslant GT\\
    \mathrm{exp} (-\frac{Tx}{2}), \; x\geqslant GT \\
  \end{cases}
-\end{equation}\\
+\end{equation}
+\end{theorem}
 
 
 \subsection{Общее условие асимптотической оптимальности}
@@ -540,12 +546,15 @@ d_k=\int\limits_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int\limits_0^1 x^2 d \Phi_k(x)- 
 
 Обозначим $\mathcal{I}_n = \int\limits_{\gamma_n}^1 \frac{dx}{F(x)}$, $\Psi(n)$ -- произвольная растущая от n функция, $\lim\limits_{x\to \infty} \Psi(n) = \infty $ \\
 
-\textbf{Теорема 1}
+\begin{theorem}
+\label{theoremone}
 
 Алгоритм $\mathcal{A}$ является асимптотически оптимальным при выполнении условий $\lim\limits_{{n} \to \infty} \mathcal{I}_n = \infty $ и 
 \begin{equation}
 \frac{b}{a} \leqslant \frac{1}{\Psi(n)} min \{ \frac{1}{\gamma_n}, \frac{n}{\mathcal{I}_n} \}
 \end{equation}
+
+\end{theorem}
 
 Доказательство. Покажем, что при выполнении условий теоремы $\varepsilon_n \to 0$ и $\delta_n \to 0$ с ростом n. Действительно, при $K>1$ имеем:
 
@@ -557,9 +566,9 @@ d_k=\int\limits_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int\limits_0^1 x^2 d \Phi_k(x)- 
 = \frac{K}{\Psi(n)} min \bigg(1+\frac{\mathcal{I}_n}{n \gamma_n}, 1+\frac{n \gamma_n}{\mathcal{I}_n} \bigg) \leqslant \frac{2K}{\Psi(n)} \to 0
 \end{aligned}
 \end{equation}
-при $n \to \infty$. Теорема 1 доказана.
+при $n \to \infty$. теорема \eqref{theoremone} доказана.
 
-Замечание. Как было показано выше, для своей работы алгоритм $\mathcal{A}$ требует $O(n^2)$ операций, что сравнимо с трудоемкостью записи исходной информации о задаче коммивояжера. Отсюда получаем, что при выполнении условий теоремы 1 алгоритм $\mathcal{A}$ является статистически эффективным.\\
+Замечание. Как было показано выше, для своей работы алгоритм $\mathcal{A}$ требует $O(n^2)$ операций, что сравнимо с трудоемкостью записи исходной информации о задаче коммивояжера. Отсюда получаем, что при выполнении условий теоремы \eqref{theoremone} алгоритм $\mathcal{A}$ является статистически эффективным.\\
 
 
 \subsection{Вероятностный анализ ИБГ для равномерного распределения}
@@ -570,14 +579,16 @@ d_k=\int\limits_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int\limits_0^1 x^2 d \Phi_k(x)- 
 \mathcal{I}_n = \int\limits_{\gamma_n}^1 \frac{dx}{F(x)} = \int\limits_{\frac{1}{n}}^1 \frac{dx}{x} = ln(n)
 \end{equation}
 
-Тогда из теоремы 1 непосредственно получаем результат, который может быть сформулирован как:\\
+Тогда из теоремы \eqref{theoremone} непосредственно получаем результат, который может быть сформулирован как:\\
 
-\textbf{Теорема 2}
-
+\begin{theorem}
+\label{theoremtwo}
 Если элементы $a_{ij}$ матрицы А принимают значения равновероятно из отрезка [a,b], то алгоритм $\mathcal{A}$ является асимптотически оптимальным при выполнении следующего условия:
 \begin{equation}
 \frac{b}{a} \leqslant \frac{n}{ln(n)}•\frac{1}{\Psi(n)}
 \end{equation}
+
+\end{theorem}
 
 Представляет интерес оценить величины $\varepsilon_n$ и $\delta_n$, фигурирующие в соотношении \eqref{1}.
 
@@ -683,11 +694,11 @@ f(\xi') =
 \begin{equation}
 F(x) = \int\limits_0^x f(\xi')d\xi' = \int\limits_0^x \frac{x}{\beta(\alpha+1,1)} = x^{\alpha+1}
 \end{equation} 
-Вычислим величину $\gamma_n$, фигурирующую в условиях теоремы 1:
+Вычислим величину $\gamma_n$, фигурирующую в условиях теоремы \eqref{theoremone}
 \begin{equation}
 \gamma_n = F^{-1}(\frac{1}{n}) = \frac{1}{\sqrt[\alpha+1]{n}}
 \end{equation}
-Тогда первое из условий теоремы 1 выполняется в силу $\alpha>0$
+Тогда первое из условий теоремы \eqref{theoremone} выполняется в силу $\alpha>0$
 \begin{equation}
 \mathcal{I}_n = \int\limits_{\gamma_n}^1 \frac{dx}{F(x)} = \int\limits_{\gamma_n}^1 \frac{dx}{x^{\alpha+1}} = \frac{1}{\alpha} (n^{\frac{\alpha}{\alpha+1}}-1) \rightarrow \infty, \; \; n\rightarrow \infty
 \end{equation}
@@ -715,8 +726,10 @@ min(1, \frac{\alpha}{1-n^{-\frac{\alpha}{\alpha+1}}}) \geqslant min(1, \alpha)
 
 \subsection{Вероятностный анализ ИБГ для показательного распределения}
 
+\begin{theorem}
+\label{theoremthree}
 
-\textbf{Теорема 3}: Задача Random Min TSP в случае показательного распределения весов ребер на $[a_n,\infty)$ решается алгоритмом ИБГ за $O(n^2)$ с оценками относительной погрешности
+Задача Random Min TSP в случае показательного распределения весов ребер на $[a_n,\infty)$ решается алгоритмом ИБГ за $O(n^2)$ с оценками относительной погрешности
 \begin{equation}
 \varepsilon_n = 5 \frac{\alpha_n/a_n}{n/ln(n)}
 \end{equation}
@@ -730,6 +743,8 @@ min(1, \frac{\alpha}{1-n^{-\frac{\alpha}{\alpha+1}}}) \geqslant min(1, \alpha)
 \begin{equation}
 \frac{\alpha_n}{a_n} = o(\frac{n}{ln(n)})
 \end{equation}
+
+\end{theorem}
 
 Доказательство:
 
