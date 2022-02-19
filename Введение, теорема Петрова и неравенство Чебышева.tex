@@ -172,7 +172,7 @@ d_{AB} \leqslant d_{AC} + d_{CB}
 Для маршрута коммивояжера с $n$ вершинами справедливо:
 
 \begin{equation}
-	(\frac{\mathrm{Greedy}}{\mathrm{Optimal}}) \leqslant \frac{1}{2}\lceil{\lg n}\rceil + \frac{1}{2}
+	\Big(\frac{\mathrm{Greedy}}{\mathrm{Optimal}}\Big) \leqslant \frac{1}{2}\lceil{\lg n}\rceil + \frac{1}{2}
 \end{equation}
 
 Где $\mathrm{Greedy}$ -- вес пути, найденного жадным алгоритмом, $\mathrm{Optimal}$ -- вес наиболее оптимального пути.
@@ -269,7 +269,7 @@ d(p,q) \leqslant \frac{1}{2} \mathrm{Optimal}
 Для маршрута коммивояжера с $n$ вершинами справедливо:
 
 \begin{equation}
-	(\frac{\mathrm{Greedy}}{\mathrm{Optimal}}) > \frac{1}{3}{\lg (n+1)} + \frac{4}{9}
+	\Big(\frac{\mathrm{Greedy}}{\mathrm{Optimal}}\Big) > \frac{1}{3}{\lg (n+1)} + \frac{4}{9}
 \end{equation}
 
 \end{theorem}
@@ -458,15 +458,13 @@ P\{\text{\randomvalue} > \text{\randomvalueE})+ \Delta_n\}
 Пусть $\varepsilon_n = K(\frac{\text{\topboundE}}{na}-1), K>1$.
 Тогда $ \Delta_n = (K-1)(\text{\topboundE}-na) \geqslant 0$.
 Продолжим неравенство \eqref{5} применив неравенство Чебышева.
-\begin{equation}\label{6}
-\begin{aligned}
+\begin{align*}\label{6}
 P\{\text{\randomvalue}> E(\text{\randomvalue})+ \Delta_n\} \leqslant 
 P\{|\text{\randomvalue}- \text{\randomvalueE})| \geqslant \Delta_n\} \leqslant \\
-\frac{\text{\randomvalueD}}{\Delta^2_n} \leqslant
+\leqslant \frac{\text{\randomvalueD}}{\Delta^2_n} \leqslant
 \frac{\text{\topboundD}}{\Delta^2_n} = 
 \frac{\text{\topboundD}}{(K-1)^2(\text{\topboundE}-na)^2}
-\end{aligned}
-\end{equation}
+\end{align*}
 Так как $K$ -- константа, $K>1$, то из данной цепочки неравенств следует, что условие ассимптотической оптимальности жадного алгоритма будет выполнено если мы покажем, что
 $ \varepsilon_n=K(\frac{\text{\topboundE}}{na}-1) \rightarrow 0$ и 
 $ \delta_n = \frac{\text{\topboundD}}{(K-1)^2(\text{\topboundE}-na)^2} \rightarrow 0$ при $ n \rightarrow \infty$\\
@@ -510,13 +508,13 @@ k = \overline {1, n-1}
 \text{\randomvalueE} = na+(b-a)[\int\limits_0^1 \sum_{k=1}^{n-1}(1-F(x))^{n-k}dx + \int\limits_0^1 (1-F(x))dx]=\\
 =na+(b-a) \int\limits_0^1 \frac{[1-F(x)][1-(1-F(x))^{n-1}+F(x)]}{F(x)}dx \leqslant \\
 \leqslant na + (b-a) \int\limits_0^1 \frac{1-(1-F(x))^n}{F(x)}dx = \\
-=na+(b-a)[\int\limits_0^{\gamma_n} \frac{1-(1-F(x))^n}{F(x)}dx + 
-\int\limits_{\gamma_n}^1 \frac{1-(1-F(x))^n}{F(x)} dx]
+=na+(b-a) \Big[\int\limits_0^{\gamma_n} \frac{1-(1-F(x))^n}{F(x)}dx + 
+\int\limits_{\gamma_n}^1 \frac{1-(1-F(x))^n}{F(x)} dx \Big]
 \end{aligned}
 \end{equation}
 где $\gamma_n$ -- корень уравнения $F(\gamma) = \frac{1}{n}$, то есть $\gamma_n = F^{-1}(\frac{1}{n})$. Учитывая что при $0 \leqslant Z \leqslant 1$ справедливо неравенство $\frac{1-(1-Z)^n}{Z} \leqslant n$, оценку $E( {\mathcal{Z_{A}}})$ можем продолжить следующим образом
 \begin{equation}\label{9}
-\text{\randomvalueE} \leqslant \text{\topboundE} = na+(b-a)[\gamma_n \cdot n+ \int\limits_{\gamma_n}^1 \frac{dx}{F(x)}]
+\text{\randomvalueE} \leqslant \text{\topboundE} = na+(b-a)\Big[\gamma_n \cdot n+ \int\limits_{\gamma_n}^1 \frac{dx}{F(x)} \Big]
 \end{equation}
 
 Перейдем к вычислению верхней оценки $\mathcal{D_A^{*}}$. Дисперсия $d_k$ случайной нормированной величины $l_k$ на k-ом шаге равна
@@ -534,11 +532,11 @@ d_k=\int\limits_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int\limits_0^1 x^2 d \Phi_k(x)- 
 
 Окончательно с учетом \eqref{9} получаем верхнюю оценку для $\mathcal{D(\mathcal{Z_{A}})}$
 \begin{equation}\label{10}
-\mathcal{D(\mathcal{Z_{A}})} < \mathcal{D_{A}^*} = (b-a)^2 [\gamma_n\cdot n+\int\limits_{\gamma_n}^1 \frac{dx}{F(x)}]
+\mathcal{D(\mathcal{Z_{A}})} < \mathcal{D_{A}^*} = (b-a)^2 \Big[\gamma_n\cdot n+\int\limits_{\gamma_n}^1 \frac{dx}{F(x)} \Big]
 \end{equation}
 Вернемся к неравенству \eqref{6}. Имея в виду полученные оценки \eqref{9} и \eqref{10}, выражения для $\varepsilon_n$ и $\delta_n$ можно записать в следующем виде: 
 \begin{equation}
-\varepsilon_n = K(\frac{b}{a}-1)[\gamma_n + \frac{1}{n} \int\limits_{\gamma_n}^1 \frac{dx}{F(x)}]
+\varepsilon_n = K(\frac{b}{a}-1) \Big[\gamma_n + \frac{1}{n} \int\limits_{\gamma_n}^1 \frac{dx}{F(x)} \Big]
 \end{equation}
 \begin{equation}
 \delta_n = \frac{1}{(K-1)^2 [\gamma_n \cdot n + \int\limits_{\gamma_n}^1 \frac{dx}{F(x)}]}
@@ -601,28 +599,26 @@ $k=1,2,...n-k$;   $ E(l_n) = E(l_n-1) = \frac{1}{2}$
 С учетом \eqref{8}
 \begin{equation}
 \begin{aligned}
-E(\mathcal{Z_{A}}) = \sum_{k=1}^{n} [a+(b-a)E(l_k)] = na +(b-a)(\frac{1}{2}+\sum_{k=1}^{n-1} \frac{1}{n-k+1}) \leqslant \\
-\leqslant na+(b-a)(\frac{1}{2} + ln(n)) = \mathcal{Z^*_{A}}
+E(\mathcal{Z_{A}}) = \sum_{k=1}^{n} [a+(b-a)E(l_k)] = na +(b-a)\Big(\frac{1}{2}+\sum_{k=1}^{n-1} \frac{1}{n-k+1} \Big) \leqslant \\
+\leqslant na+(b-a) \Big(\frac{1}{2} + ln(n) \Big) = \mathcal{Z^*_{A}}
 \end{aligned}
 \end{equation}
 
 Оценим дисперсию $d_k=\int\limits_0^1 (x-E(l_k))^2 d\text{\chanceLklesserX}$ случайной величины $l_k$ с учетом того, что для равномерного распределения \chanceLklesserX{} $ = 1-(1-x)^{n-k}$
 
 Используя \eqref{eq13}, имеем
-\begin{equation}
-\begin{aligned}
+\begin{align*}
 d_k = \int\limits_0^1 x^2 d \text{\chanceLklesserX}-E(l_k)^2=x^2 \text{\chanceLklesserX} 	
 |_0^1 - 2 \int\limits_0^1 x \text{\chanceLklesserX}dx - E(l_k)^2=\\
 = 1-2\int\limits_0^1 x[1-(1-x)^{n-k}]dx-E(l_k)^2 =\\
 = \frac{2}{n-k+1} - \frac{2}{n-k+2} - \frac{1}{(n-k+1)^2}, \\ 
 \; k=1,2,...,n-1; \; d_n = d_{n-1} = \frac{1}{12}
-\end{aligned}
-\end{equation}
+\end{align*}
 
 Отсюда с учетом определения дисперсии величины \randomvalue{} , получим
 \begin{equation}
 \begin{aligned}
-\frac{1}{(b-a)^2} \text{\randomvalueD} = \sum_{k=1}^n d_k = \frac{1}{12} + \sum_{k=1}^{n-1} (\frac{2}{n-k+1} - \frac{2}{n-k+2} - \frac{1}{(n-k+1)^2}) = \\
+\frac{1}{(b-a)^2} \text{\randomvalueD} = \sum_{k=1}^n d_k = \frac{1}{12} + \sum_{k=1}^{n-1} \Big(\frac{2}{n-k+1} - \frac{2}{n-k+2} - \frac{1}{(n-k+1)^2} \Big) = \\
 = \frac{1}{12} - \frac{2}{n+1} +1 - \sum_{k=1}^{n-1} \frac{1}{(n-k+1)^2} \leqslant \frac{13}{12} - \frac{2}{n+1} - \frac{1}{4} - \int\limits_3^{n+1} \frac{dx}{x^2} = \\
 = \frac{13}{12} - \frac{2}{n+1} - \frac{1}{4} + \frac{1}{n+1} - \frac{1}{3} < 0.417 = \frac{\text{\topboundD}}{(b-a)^2} 
 \end{aligned}
@@ -696,7 +692,7 @@ F(x) = \int\limits_0^x f(\xi')d\xi' = \int\limits_0^x \frac{x}{\beta(\alpha+1,1)
 \end{equation} 
 Вычислим величину $\gamma_n$, фигурирующую в условиях теоремы \eqref{theoremone}
 \begin{equation}
-\gamma_n = F^{-1}(\frac{1}{n}) = \frac{1}{\sqrt[\alpha+1]{n}}
+\gamma_n = F^{-1} \Big(\frac{1}{n} \Big) = \frac{1}{\sqrt[\alpha+1]{n}}
 \end{equation}
 Тогда первое из условий теоремы \eqref{theoremone} выполняется в силу $\alpha>0$
 \begin{equation}
@@ -707,15 +703,15 @@ F(x) = \int\limits_0^x f(\xi')d\xi' = \int\limits_0^x \frac{x}{\beta(\alpha+1,1)
 
 \begin{equation}
 \begin{aligned}
-\frac{b}{a} \leqslant \frac{1}{\Psi(n)}•min(\sqrt[\alpha+1]{n}, \frac{\alpha n}{n^{\frac{\alpha}{\alpha+1}}-1}) = \\
-=\frac{\sqrt[\alpha+1]{n}}{\Psi(n)} min(1, \frac{\alpha}{1-n^{-\frac{\alpha}{\alpha+1}}})
+\frac{b}{a} \leqslant \frac{1}{\Psi(n)}•min \Big(\sqrt[\alpha+1]{n}, \frac{\alpha n}{n^{\frac{\alpha}{\alpha+1}}-1} \Big) = \\
+=\frac{\sqrt[\alpha+1]{n}}{\Psi(n)} min \Big(1, \frac{\alpha}{1-n^{-\frac{\alpha}{\alpha+1}}} \Big)
 \end{aligned}
 \end{equation}
 
 Учитывая, что
 
 \begin{equation}
-min(1, \frac{\alpha}{1-n^{-\frac{\alpha}{\alpha+1}}}) \geqslant min(1, \alpha)
+min \Big(1, \frac{\alpha}{1-n^{-\frac{\alpha}{\alpha+1}}} \Big) \geqslant min(1, \alpha)
 \end{equation}
 
 Получаем следующее условие асимптотической оптимальности алгоритма \text{\algorithm} для $\beta$ - распределения в частном случае $\gamma=0$, $\alpha>0$:
@@ -741,7 +737,7 @@ min(1, \frac{\alpha}{1-n^{-\frac{\alpha}{\alpha+1}}}) \geqslant min(1, \alpha)
 
 асимптотически точно при условии
 \begin{equation}
-\frac{\alpha_n}{a_n} = o(\frac{n}{ln(n)})
+\frac{\alpha_n}{a_n} = o \Big(\frac{n}{ln(n)} \Big)
 \end{equation}
 
 \end{theorem}
@@ -784,7 +780,7 @@ $c_{\pi_k, \pi_{k+1}}$ -- нормированный вес ребра, выбр
 \begin{aligned}
 W(\pi) = \sum_{k=1}^{n-1} w_{\pi_k, \pi_{k+1}} + w_{\pi_n, \pi_{1}} = \\
 = \sum_{k=1}^{n-1} (\alpha_n c_{\pi_k, \pi_{k+1}} + a_n) +\alpha_n c_{\pi_n, \pi_{1}} + a_n = \\
-= na_n + \alpha_n( \sum_{k=1}^{n-1} c_{\pi_k, \pi_{k+1}} + c_{\pi_n, \pi_1}) = \\
+= na_n + \alpha_n \Big( \sum_{k=1}^{n-1} c_{\pi_k, \pi_{k+1}} + c_{\pi_n, \pi_1} \Big) = \\
 = na_n + \alpha_n S
 \end{aligned}
 \end{equation}
@@ -816,7 +812,7 @@ P\{ W(\pi)>(1+\varepsilon_n)OPT \} \leqslant \\
 Оценим $ES$
 \begin{equation}
 \begin{aligned}
-ES = E( \sum_{k=1}^{n-1} c_{\pi_k, \pi_{k+1}} + c_{\pi_n, \pi_1} ) =\\
+ES = E \Big( \sum_{k=1}^{n-1} c_{\pi_k, \pi_{k+1}} + c_{\pi_n, \pi_1} \Big) =\\
 =  \sum_{k=1}^{n-1} E(c_{\pi_k, \pi_{k+1}}) + E(c_{\pi_n, \pi_1}) = \\
 = \sum_{k=1}^{n-1} E(X_1(k)) + E(c_{\pi_n, \pi_1})
 \end{aligned}
@@ -879,7 +875,7 @@ P\{\tilde{S} >x \} \leqslant e^{-\frac{Tx}{2}}
 
 \textbf{Лемма}[3]. Пусть $T = \frac{1}{2\alpha_n}$ и $g_k = \frac{3\alpha_n^2}{k^2}$, $1 \leqslant k \leqslant n-2$. Тогда при любых $k$ и $t$ где $k=1,..,n-2$ и $0 \leqslant t \leqslant T$, справедливо неравенство:
 \begin{equation}
-Ee^{t[\xi_k-E\xi_k]} \leqslant \mathrm{exp}(\frac{g_k t^2}{2})
+Ee^{t[\xi_k-E\xi_k]} \leqslant \mathrm{exp} \Big(\frac{g_k t^2}{2} \Big)
 \end{equation}
 
 
