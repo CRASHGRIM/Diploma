@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  19 FEB 2022 18:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  20 FEB 2022 19:07
 entering extended mode
 **"./Введение, теорема Петрова и неравенство 
 Чебышева.tex"
@@ -2039,30 +2039,20 @@ Overfull \hbox (0.3559pt too wide) in paragraph at lines 956--957
  []
 
 [26] [27] [28]
-Underfull \hbox (badness 10000) in paragraph at lines 998--999
-
- []
-
-
-Overfull \hbox (7.53294pt too wide) in paragraph at lines 1003--1004
-\T2A/Tempora-TLF/m/n/14.4 Zverovitch, A.. The travelling salesman problem and i
-ts variations. Kluwer Academic
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1007--1008
-
+Underfull \hbox (badness 10000) in paragraph at lines 997--998
+\T2A/Tempora-TLF/m/n/14.4 1995.URL:http://comopt.ifi.uni-heidelberg.de/software
+/TSPLIB95/tsp95.pdf
  []
 
 [29]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 1027.
+(Font)              scaled to size 12.0pt on input line 1011.
 
 (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-1029.
+1013.
 
 (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
@@ -2078,10 +2068,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11611 strings out of 479334
- 164169 string characters out of 2857084
- 655018 words of memory out of 3000000
- 28798 multiletter control sequences out of 15000+200000
+ 11622 strings out of 479334
+ 164281 string characters out of 2857084
+ 655191 words of memory out of 3000000
+ 28809 multiletter control sequences out of 15000+200000
  525213 words of font info for 245 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,19n,75p,2460b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2101,7 +2091,7 @@ Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.pfb>
 <C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pf
 b>
 Output written on "Введение, теорема Петрова и нера�
-�енство Чебышева.pdf" (31 pages, 412549 bytes).
+�енство Чебышева.pdf" (31 pages, 412404 bytes).
 PDF statistics:
  229 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

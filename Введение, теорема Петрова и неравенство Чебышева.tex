@@ -39,7 +39,7 @@
 
 \newtheorem{theorem}{Теорема}[section]
 \newtheorem{corollary}{Corollary}[theorem]
-
+\addto\captionsrussian{\def\refname{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ И ЛИТЕРАТУРЫ}}
 
 \begin{document}
 
@@ -977,43 +977,27 @@ P\{ W(\pi)>(1+\varepsilon_n)OPT \} = O(n^{-1})
 Интерес для дальнейших исследований представляет поиск условий асимптотической оптимальности для других распределений. Также определенный интерес вызывает более точная оценка $\epsilon$ для случаев $\beta$ - распределения и показательного распределения.
 
 
-
 \newpage
-
-\begin{center}
+ 
+% даём указание на включение данного место в оглавление как секции (\section)
 \addcontentsline{toc}{section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ И ЛИТЕРАТУРЫ}
-\chapter{\textbf{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ И ЛИТЕРАТУРЫ}}
-\end{center}
+ 
+%далее сам список используевой литературы
+\begin{thebibliography}{}
+    \bibitem{litlink1}  Э. Х. Гимади, А. Ле Галлу, А. В. Шахшнейдер, “Вероятностный анализ одного алгоритма приближённого решения задачи коммивояжёра на неограниченных сверху входных данных”, Дискретн. анализ и исслед. опер., 15:1 (2008), 23–43; J. Appl. Industr. Math., 3:2 (2009), 207–221
 
-\textbf{Статьи из журнала:}
-
-1 Э. Х. Гимади, А. Ле Галлу, А. В. Шахшнейдер, “Вероятностный анализ одного алгоритма приближённого решения задачи коммивояжёра на неограниченных сверху входных данных”, Дискретн. анализ и исслед. опер., 15:1 (2008), 23–43; J. Appl. Industr. Math., 3:2 (2009), 207–221
-
-2 Rosenkrantz, Daniel J.; Stearns, Richard E.; Lewis, II, Philip M -- An Analysis of Several Heuristics for the Traveling Salesman Problem. September 1977 SIAM Journal on Computing 6(3):563-581
-
-3 Э. Х. Гимади, В. А. Перепелица, “Асимптотический подход к решению задачи коммивояжера”, Управляемые системы, 1974, № 12, 35–45
-
-4 Gutin Gregory, Bang Jie, Yeo Anders. When the greedy algorithm fails., Discrete Optimization, 2004, Volume 1, Issue 2. 121-127
-
-5 Gutin Gregory, Yeo Anders, Zverovich Alexey. Traveling Salesman Should not be Greedy: Domination Analysis of Greedy-Type Heuristics for the TSP. Discrete Applied Mathematics. 117., 2002. 81-86.\\
-
-
-\textbf{Книги:}
-
-1 Johnson David, Gutin Gregory, McGeoch L.A., Yeo A., Zhang Weixiong, Zverovitch, A.. The travelling salesman problem and its variations. Kluwer Academic Publishers, 2002. 830с.
-
-2 William J. Cook. In Pursuit of the Traveling Salesman: Mathematics at the Limits of Computation. Princeton, 2012. 228с.
-
-3 Гимади Э. Х., Хачай М. Ю. Экстремальные задачи на множествах перестановок. Екатеринбург: “Издательство УМЦ УПИ”, 2016. 220 с.\\
-
-\textbf{Ссылки на электронные ресурсы:}
-
-1 Carl Ekerot Реализация алгоритма Хельда-Карпа на языке программирования "Python". 2016. URL:https://github.com/CarlEkerot/held-karp (дата обращения: 23:05:2021)
-
-2 Gerhard Reinelt Руководство по использованию программы "Concorde". 1995.URL:http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp95.pdf (дата обращения: 30:05:2021)
-
-3 Библиотека решенных и нерешенных постановок задачи коммивояжера, собранных из различных источников. 1995. URL:http://comopt.ifi.uni-heidelberg.de/software/T-
+    \bibitem{litlink2}  Rosenkrantz, Daniel J.; Stearns, Richard E.; Lewis, II, Philip M -- An Analysis of Several Heuristics for the Traveling Salesman Problem. September 1977 SIAM Journal on Computing 6(3):563-581
+    \bibitem{litlink3}  Э. Х. Гимади, В. А. Перепелица, “Асимптотический подход к решению задачи коммивояжера”, Управляемые системы, 1974, № 12, 35–45
+    \bibitem{litlink4}  Gutin Gregory, Bang Jie, Yeo Anders. When the greedy algorithm fails., Discrete Optimization, 2004, Volume 1, Issue 2. 121-127
+    \bibitem{litlink5}  Gutin Gregory, Yeo Anders, Zverovich Alexey. Traveling Salesman Should not be Greedy: Domination Analysis of Greedy-Type Heuristics for the TSP. Discrete Applied Mathematics. 117., 2002. 81-86.
+    \bibitem{litlink6}  Johnson David, Gutin Gregory, McGeoch L.A., Yeo A., Zhang Weixiong, Zverovitch, A.. The travelling salesman problem and its variations. Kluwer Academic Publishers, 2002. 830с.
+    \bibitem{litlink7}  William J. Cook. In Pursuit of the Traveling Salesman: Mathematics at the Limits of Computation. Princeton, 2012. 228с.
+    \bibitem{litlink8}  Гимади Э. Х., Хачай М. Ю. Экстремальные задачи на множествах перестановок. Екатеринбург: “Издательство УМЦ УПИ”, 2016. 220 с.
+    \bibitem{litlink9}  Carl Ekerot Реализация алгоритма Хельда-Карпа на языке программирования "Python". 2016. URL:https://github.com/CarlEkerot/held-karp (дата обращения: 23:05:2021)
+    \bibitem{litlink10}  Gerhard Reinelt Руководство по использованию программы "Concorde". 1995.URL:http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp95.pdf (дата обращения: 30:05:2021)
+    \bibitem{litlink11}  Библиотека решенных и нерешенных постановок задачи коммивояжера, собранных из различных источников. 1995. URL:http://comopt.ifi.uni-heidelberg.de/software/T-
 SPLIB95/ (дата обращения: 12:06:2021)
+\end{thebibliography}
 
 \newpage
 
