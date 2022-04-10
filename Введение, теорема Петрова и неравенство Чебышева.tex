@@ -246,7 +246,7 @@ d_{AB} \leqslant d_{AC} + d_{CB}
 \end{equation*}
 Два данных неравенства доказывают лемму
 
-Доказательство Теоремы \eqref{theoremonemetric}. Для каждой  вершины $p$ положим, что $l_p$ это длина ребра, выходящего из p и идущего в вершину, которая выбирается жадным алгоритмом. Мы хотим показать, что $l_p$ удовлетворяет условиям Леммы 1. Если вершина $p$ была выбрана жадным алгоритмом до вершины $q$, тогда вершина $q$ была кандидатом на ближайшую невыбранную вершину для вершины $p$. Это значит, что ребро $(p,q)$ не короче чем выбранное ребро, то есть
+Доказательство Теоремы \ref{theoremonemetric}. Для каждой  вершины $p$ положим, что $l_p$ это длина ребра, выходящего из p и идущего в вершину, которая выбирается жадным алгоритмом. Мы хотим показать, что $l_p$ удовлетворяет условиям Леммы 1. Если вершина $p$ была выбрана жадным алгоритмом до вершины $q$, тогда вершина $q$ была кандидатом на ближайшую невыбранную вершину для вершины $p$. Это значит, что ребро $(p,q)$ не короче чем выбранное ребро, то есть
 \begin{equation*}
 d(p,q) \geqslant l_p
 \end{equation*}
@@ -262,7 +262,7 @@ d(p,q) \leqslant \frac{1}{2} \mathrm{Optimal}
 \begin{equation*}
 \sum l_p = \mathrm{GREEDY}
 \end{equation*}
-Данное равенство вместе с Леммой 1 доказывают неравенство из Теоремы \eqref{theoremonemetric}.\\
+Данное равенство вместе с Леммой 1 доказывают неравенство из Теоремы \ref{theoremonemetric}.\\
 
 \subsection{Нижняя оценка оптимальности}
 
@@ -463,13 +463,15 @@ P\{\text{\randomvalue} > \text{\randomvalueE})+ \Delta_n\}
 Пусть $\varepsilon_n = K(\frac{\text{\topboundE}}{na}-1), K>1$.
 Тогда $ \Delta_n = (K-1)(\text{\topboundE}-na) \geqslant 0$.
 Продолжим неравенство \eqref{5} применив неравенство Чебышева.
-\begin{align*}\label{6}
+\begin{equation}\label{6}
+\begin{aligned}
 P\{\text{\randomvalue}> E(\text{\randomvalue})+ \Delta_n\} \leqslant 
 P\{|\text{\randomvalue}- \text{\randomvalueE})| \geqslant \Delta_n\} \leqslant \\
 \leqslant \frac{\text{\randomvalueD}}{\Delta^2_n} \leqslant
 \frac{\text{\topboundD}}{\Delta^2_n} = 
 \frac{\text{\topboundD}}{(K-1)^2(\text{\topboundE}-na)^2}
-\end{align*}
+\end{aligned}
+\end{equation}
 Так как $K$ -- константа, $K>1$, то из данной цепочки неравенств следует, что условие ассимптотической оптимальности жадного алгоритма будет выполнено если мы покажем, что
 $ \varepsilon_n=K(\frac{\text{\topboundE}}{na}-1) \rightarrow 0$ и 
 $ \delta_n = \frac{\text{\topboundD}}{(K-1)^2(\text{\topboundE}-na)^2} \rightarrow 0$ при $ n \rightarrow \infty$\\
@@ -499,8 +501,8 @@ E(l_{n-1}),\: \text{при}\: k=n
 \begin{equation}\label{7}
 \begin{aligned}
 E(\text{\randomNormalValueE}) = x \text{\chanceLklesserX}\rvert_{0}^{1}-\int\limits_0^1 \text{\chanceLklesserX}dx = \\
-=1-\int\limits_0^1 [1-(1-F(x))^{n-k}]dx = \int\limits_0^1 (1-F(x))^{n-k}]dx \\
-k = \overline {1, n-1}
+=1-\int\limits_0^1 [1-(1-F(x))^{n-k}]dx = \\
+= \int\limits_0^1 (1-F(x))^{n-k}dx, \: k = \overline {1, n-1}
 \end{aligned}
 \end{equation}
 В силу нормировки минимальный элемент $a_{i_{k-1} i_k}$ связан с величиной  \randomNormalValueE{}  соотношением $a_{i_k i_{k+1}} = a+(b-a)\text{\randomNormalValueE}$. Поэтому
@@ -541,7 +543,7 @@ d_k=\int\limits_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int\limits_0^1 x^2 d \Phi_k(x)- 
 \end{equation}
 Вернемся к неравенству \eqref{6}. Имея в виду полученные оценки \eqref{9} и \eqref{10}, выражения для $\varepsilon_n$ и $\delta_n$ можно записать в следующем виде: 
 \begin{equation*}
-\varepsilon_n = K(\frac{b}{a}-1) \Big[\gamma_n + \frac{1}{n} \int\limits_{\gamma_n}^1 \frac{dx}{F(x)} \Big]
+\varepsilon_n = K \Big(\frac{b}{a}-1 \Big) \Big[\gamma_n + \frac{1}{n} \int\limits_{\gamma_n}^1 \frac{dx}{F(x)} \Big]
 \end{equation*}
 \begin{equation*}
 \delta_n = \frac{1}{(K-1)^2 [\gamma_n \cdot n + \int\limits_{\gamma_n}^1 \frac{dx}{F(x)}]}
@@ -563,15 +565,15 @@ d_k=\int\limits_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int\limits_0^1 x^2 d \Phi_k(x)- 
 
 \begin{equation*}
 \begin{aligned}
-\delta_n = \frac{1}{(\gamma_n n+\mathcal{I}_n)(K-1)^2} \leqslant \frac{1}{\mathcal{I}_n \cdot (K-1)^2} \to 0 \\
-\varepsilon_n = K(\frac{b}{a}-1)(\gamma_n+\frac{1}{n} \mathcal{I}_n) \leqslant K \cdot \frac{b}{a} (\gamma_n+\frac{1}{n} \mathcal{I}_n)\leqslant \\
-\leqslant \frac{K}{\Psi(n)} min(\frac{1}{\gamma_n}, \frac{n}{\mathcal{I}_n})(\gamma_n+\frac{1}{n} \mathcal{I}_n) = \\
+\delta_n = \frac{1}{(\gamma_n n+\mathcal{I}_n)(K-1)^2} \leqslant \frac{1}{\mathcal{I}_n \cdot (K-1)^2} \to 0 \\[10pt]
+\varepsilon_n = K(\frac{b}{a}-1)(\gamma_n+\frac{1}{n} \mathcal{I}_n) \leqslant K \cdot \frac{b}{a} (\gamma_n+\frac{1}{n} \mathcal{I}_n)\leqslant \\[10pt]
+\leqslant \frac{K}{\Psi(n)} min(\frac{1}{\gamma_n}, \frac{n}{\mathcal{I}_n})(\gamma_n+\frac{1}{n} \mathcal{I}_n) = \\[10pt]
 = \frac{K}{\Psi(n)} min \bigg(1+\frac{\mathcal{I}_n}{n \gamma_n}, 1+\frac{n \gamma_n}{\mathcal{I}_n} \bigg) \leqslant \frac{2K}{\Psi(n)} \to 0
 \end{aligned}
 \end{equation*}
-при $n \to \infty$. теорема \eqref{theoremone} доказана.
+при $n \to \infty$. теорема \ref{theoremone} доказана.
 
-Замечание. Как было показано выше, для своей работы алгоритм $\mathcal{A}$ требует $O(n^2)$ операций, что сравнимо с трудоемкостью записи исходной информации о задаче коммивояжера. Отсюда получаем, что при выполнении условий теоремы \eqref{theoremone} алгоритм $\mathcal{A}$ является статистически эффективным.\\
+Замечание. Как было показано выше, для своей работы алгоритм $\mathcal{A}$ требует $O(n^2)$ операций, что сравнимо с трудоемкостью записи исходной информации о задаче коммивояжера. Отсюда получаем, что при выполнении условий теоремы \ref{theoremone} алгоритм $\mathcal{A}$ является статистически эффективным.\\
 
 
 \subsection{Вероятностный анализ ИБГ для равномерного распределения}
@@ -582,7 +584,7 @@ d_k=\int\limits_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int\limits_0^1 x^2 d \Phi_k(x)- 
 \mathcal{I}_n = \int\limits_{\gamma_n}^1 \frac{dx}{F(x)} = \int\limits_{\frac{1}{n}}^1 \frac{dx}{x} = ln(n)
 \end{equation*}
 
-Тогда из теоремы \eqref{theoremone} непосредственно получаем результат, который может быть сформулирован как:\\
+Тогда из теоремы \ref{theoremone} непосредственно получаем результат, который может быть сформулирован как:\\
 
 \begin{theorem}
 \label{theoremtwo}
@@ -695,11 +697,11 @@ f(\xi') =
 \begin{equation*}
 F(x) = \int\limits_0^x f(\xi')d\xi' = \int\limits_0^x \frac{x}{\beta(\alpha+1,1)} = x^{\alpha+1}
 \end{equation*} 
-Вычислим величину $\gamma_n$, фигурирующую в условиях теоремы \eqref{theoremone}
+Вычислим величину $\gamma_n$, фигурирующую в условиях теоремы \ref{theoremone}
 \begin{equation*}
 \gamma_n = F^{-1} \Big(\frac{1}{n} \Big) = \frac{1}{\sqrt[\alpha+1]{n}}
 \end{equation*}
-Тогда первое из условий теоремы \eqref{theoremone} выполняется в силу $\alpha>0$
+Тогда первое из условий теоремы \ref{theoremone} выполняется в силу $\alpha>0$
 \begin{equation*}
 \mathcal{I}_n = \int\limits_{\gamma_n}^1 \frac{dx}{F(x)} = \int\limits_{\gamma_n}^1 \frac{dx}{x^{\alpha+1}} = \frac{1}{\alpha} (n^{\frac{\alpha}{\alpha+1}}-1) \rightarrow \infty, \; \; n\rightarrow \infty
 \end{equation*}
