@@ -590,7 +590,7 @@ d_k=\int\limits_0^1 (x-E(l_k))^2 d \Phi_k(x) = \int\limits_0^1 x^2 d \Phi_k(x)- 
 \label{theoremtwo}
 Если элементы $a_{ij}$ матрицы А принимают значения равновероятно из отрезка $[a,b]$, то алгоритм $\mathcal{A}$ является асимптотически оптимальным при выполнении следующего условия:
 \begin{equation*}
-\frac{b}{a} \leqslant \frac{n}{ln(n)}•\frac{1}{\Psi(n)}
+\frac{b}{a} \leqslant \frac{n}{ln(n)}\frac{1}{\Psi(n)}
 \end{equation*}
 
 \end{theorem}
@@ -611,7 +611,11 @@ E(\mathcal{Z_{A}}) = \sum_{k=1}^{n} [a+(b-a)E(l_k)] = na +(b-a)\Big(\frac{1}{2}+
 \end{aligned}
 \end{equation*}
 
-Оценим дисперсию $d_k=\int\limits_0^1 (x-E(l_k))^2 d\text{\chanceLklesserX}$ случайной величины $l_k$ с учетом того, что для равномерного распределения \chanceLklesserX{} $ = 1-(1-x)^{n-k}$
+Оценим дисперсию
+\begin{equation*}
+d_k=\int\limits_0^1 (x-E(l_k))^2 d\text{\chanceLklesserX}
+\end{equation*}
+случайной величины $l_k$ с учетом того, что для равномерного распределения \chanceLklesserX{} $ = 1-(1-x)^{n-k}$
 
 Используя \eqref{eq13}, имеем
 \begin{align*}
@@ -625,7 +629,8 @@ d_k = \int\limits_0^1 x^2 d \text{\chanceLklesserX}-E(l_k)^2=x^2 \text{\chanceLk
 Отсюда с учетом определения дисперсии величины \randomvalue{} , получим
 \begin{equation*}
 \begin{aligned}
-\frac{1}{(b-a)^2} \text{\randomvalueD} = \sum_{k=1}^n d_k = \frac{1}{12} + \sum_{k=1}^{n-1} \Big(\frac{2}{n-k+1} - \frac{2}{n-k+2} - \frac{1}{(n-k+1)^2} \Big) = \\
+\frac{1}{(b-a)^2} \text{\randomvalueD} = \sum_{k=1}^n d_k = \\
+ \frac{1}{12} + \sum_{k=1}^{n-1} \Big(\frac{2}{n-k+1} - \frac{2}{n-k+2} - \frac{1}{(n-k+1)^2} \Big) = \\
 = \frac{1}{12} - \frac{2}{n+1} +1 - \sum_{k=1}^{n-1} \frac{1}{(n-k+1)^2} \leqslant \frac{13}{12} - \frac{2}{n+1} - \frac{1}{4} - \int\limits_3^{n+1} \frac{dx}{x^2} = \\
 = \frac{13}{12} - \frac{2}{n+1} - \frac{1}{4} + \frac{1}{n+1} - \frac{1}{3} < 0.417 = \frac{\text{\topboundD}}{(b-a)^2} 
 \end{aligned}
@@ -663,7 +668,7 @@ P \{ \text{\randomvalue} \leqslant (1+\varepsilon_n)\mathcal{Z} \} \geqslant 1 -
 \varepsilon_n \leqslant \sqrt{\frac{cln(n)}{n}}
 \end{equation}
 
-Анализ соотношений \ref{15}-\ref{17}, полученных для равномерного распределения показывает, что уменьшение константы $c$ "улучшает" оценки для $\frac{b}{a}$ и $\varepsilon_n$ и "ухудшает" оценку вероятности $P \{ \text{\randomvalue} \leqslant (1+\varepsilon_n)\mathcal{Z} \}$\\
+Анализ соотношений \ref{15}-\ref{17}, полученных для равномерного распределения показывает, что уменьшение константы $c$ <<улучшает>> оценки для $\frac{b}{a}$ и $\varepsilon_n$ и <<ухудшает>> оценку вероятности $P \{ \text{\randomvalue} \leqslant (1+\varepsilon_n)\mathcal{Z} \}$\\
 
 
 \subsection{Вероятностный анализ ИБГ для $\beta$ - распределения}
@@ -923,7 +928,7 @@ P\{ W(\pi)>(1+\varepsilon_n)OPT \} = O(n^{-1})
 \begin{center}
  \begin{tabular}{||c | c | c | c||} 
  \hline
- Тип распределения & Размерность графа  & $1+\varepsilon$  & Превышений $1+\varepsilon$ \\ [0.5ex] 
+ Тип распределения & Размерность  & $1+\varepsilon$  &  $> 1 +\varepsilon$ \\ [0.5ex] 
  \hline\hline
  равномерное & 5 & 2.28755032994 & 0 \\ 
  \hline

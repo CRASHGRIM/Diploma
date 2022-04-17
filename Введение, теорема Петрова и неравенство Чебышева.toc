@@ -12,6 +12,6 @@
 \contentsline {subsection}{\numberline {2.4}Вероятностный анализ ИБГ для $\beta $ - распределения}{22}{}%
 \contentsline {subsection}{\numberline {2.5}Вероятностный анализ ИБГ для показательного распределения}{23}{}%
 \contentsline {section}{\numberline {3}Вычислительный эксперимент}{26}{}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{28}{}%
-\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ И ЛИТЕРАТУРЫ}{29}{}%
-\contentsline {section}{ПРИЛОЖЕНИЯ}{30}{}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{29}{}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ И ЛИТЕРАТУРЫ}{30}{}%
+\contentsline {section}{ПРИЛОЖЕНИЯ}{31}{}%

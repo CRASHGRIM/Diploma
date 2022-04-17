@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  10 APR 2022 20:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.22)  17 APR 2022 12:29
 entering extended mode
 **"./Введение, теорема Петрова и неравенство 
 Чебышева.tex"
@@ -1937,113 +1937,99 @@ Underfull \hbox (badness 10000) in paragraph at lines 587--588
 
  []
 
+[19] [20]
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 593.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 652.
 
 LaTeX Font Info:    Trying to load font information for TS1+Tempora-TLF on inpu
-t line 593.
+t line 652.
 
 (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ts1tempora-tlf.
 fd
 File: TS1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for TS1/Tempora-
 TLF.
 )
-LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/it' will be
-(Font)              scaled to size 14.4pt on input line 593.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 593.
-
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-[19] [20]
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 647.
-
 LaTeX Font Info:    Font shape `TS1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 647.
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 647.
-
-Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 650.
+(Font)              scaled to size 14.4pt on input line 652.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 650.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 650.
-
-
-LaTeX Warning: Command \textbullet invalid in math mode on input line 650.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 652.
 
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 655.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 655.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 655.
+
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 655.
+
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-
-Underfull \hbox (badness 10000) in paragraph at lines 666--667
-
- []
-
+Missing character: There is no � in font Tempora-Regular-tlf-ot1!
 [21]
+Underfull \hbox (badness 10000) in paragraph at lines 671--672
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 713.
+ []
+
+[22]
+
+LaTeX Warning: Command \textbullet invalid in math mode on input line 718.
 
 
-LaTeX Warning: Command \textbullet invalid in math mode on input line 713.
+LaTeX Warning: Command \textbullet invalid in math mode on input line 718.
 
 Missing character: There is no � in font Tempora-Regular-tlf-ot1!
-[22] [23] [24] [25]
-Underfull \hbox (badness 10000) in paragraph at lines 908--909
+[23] [24] [25]
+Underfull \hbox (badness 10000) in paragraph at lines 913--914
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 919--920
+Underfull \hbox (badness 10000) in paragraph at lines 924--925
 
  []
 
-
-Overfull \hbox (32.6363pt too wide) in paragraph at lines 924--956
- [] 
- []
-
-
-Overfull \hbox (0.3559pt too wide) in paragraph at lines 963--964
+[26]
+Overfull \hbox (0.3559pt too wide) in paragraph at lines 968--969
 []\T2A/Tempora-TLF/m/n/14.4 ���������� �����-��-��-��-��� � ���-��� ���-��-���-
 ��-�� ��-����-��-��-��� ���-
  []
 
-[26] [27] [28]
-Underfull \hbox (badness 10000) in paragraph at lines 1004--1005
+[27] [28] [29]
+Underfull \hbox (badness 10000) in paragraph at lines 1009--1010
 \T2A/Tempora-TLF/m/n/14.4 1995.URL:http://comopt.ifi.uni-heidelberg.de/software
 /TSPLIB95/tsp95.pdf
  []
 
-[29]
+[30]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 1018.
+(Font)              scaled to size 12.0pt on input line 1023.
 
 (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-1020.
+1025.
 
 (C:\Users\danii\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-[30] [31]
+[31] [32]
 (Введение, теорема Петрова и неравенство Че
 бышева.aux
 LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 5.
 ) ) 
 Here is how much of TeX's memory you used:
- 11627 strings out of 479334
- 164313 string characters out of 2857084
- 655166 words of memory out of 3000000
- 28810 multiletter control sequences out of 15000+200000
- 526351 words of font info for 249 fonts, out of 3000000 for 9000
+ 11625 strings out of 479334
+ 164266 string characters out of 2857084
+ 655162 words of memory out of 3000000
+ 28809 multiletter control sequences out of 15000+200000
+ 525996 words of font info for 248 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,18n,75p,2446b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\danii\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1
@@ -2062,9 +2048,9 @@ rs/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb><C:
 ><C:/Users/danii/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.p
 fb>
 Output written on "Введение, теорема Петрова и нера�
-�енство Чебышева.pdf" (31 pages, 412168 bytes).
+�енство Чебышева.pdf" (32 pages, 413174 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
+ 232 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
